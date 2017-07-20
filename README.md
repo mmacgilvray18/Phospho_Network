@@ -15,7 +15,7 @@ inputs for a previously developed Integer Programming (IP) approach that connect
 sources to their downstream target submodules (Chasman et al., 2014).
 
 ## Prerequisites:
-The user should define differentially changing phospho-peptides in the ?WT? or ?Parent?
+The user should define differentially changing phospho-peptides in the "WT" or "Parent"
 strain using their own criteria (eg; fold-change, p-value, etc.), followed by
 grouping/clustering phospho-peptides based on similar directionality of abundance
 change.
@@ -94,7 +94,7 @@ Csv format:
 Ppep, Cluster, Motif, Peptide, FirstMutantNamePhenotype,
 SecondMutantNamePhenotype, ThirdMutantNamePhenotype
 
-YAL019W_T131, Induced, ?sP?, SPKKSETPPPVKK, Induced_Defective, empty,
+YAL019W_T131, Induced, .sP., SPKKSETPPPVKK, Induced_Defective, empty,
 Repressed_Amplified
 
 Column order is unimportant, column names must match above.
@@ -120,7 +120,7 @@ Input: 4 plain csv text files
 Submodule_constituents.csv (user created)
 Csv format:
 Submodule, ORF
-Induced_....sP?_hog1_induced_defective,YMR031C
+Induced_....sP._hog1_induced_defective,YMR031C
 
 Background_Network.csv   (provided on Github)
 Csv format:
@@ -152,10 +152,10 @@ interactions with submodule proteins.
 ### Classify_Shared_Interactors_Inputs_Outputs.py
 ```
 Purpose: Classify shared interactors based on their interaction(s) directionality with
-submodule constituent proteins. ?Input? shared interacotrs have at least one directed
+submodule constituent proteins. "Input" shared interacotrs have at least one directed
 interaction (ie, kinase-substrate) toward a submodule constituent protein or one non-
 directed interaction. Shared interactors that fail to meet these criteria are classified as
-?outputs? and are unlikely to regulate submodules. Input shared interactor kinases and
+"outputs" and are unlikely to regulate submodules. Input shared interactor kinases and
 phosphatases are likely candidate submodule regulators.
 
 Input: plain csv text file
@@ -164,15 +164,15 @@ Csv format:
 SI_submodule,Shared_Interactor,SI_name,Motif_Containing_Proteins,submodule_Name
 ,Interaction_Directionality
 
-YLR164C_Repressed_..RR.s?No_Phenotype_Exists,YLR164C,Tpk1,YDR207C,
-Repressed_..RR.s?No_Phenotype_Exists, kinase_substrate
+YLR164C_Repressed_..RR.s.No_Phenotype_Exists,YLR164C,Tpk1,YDR207C,
+Repressed_..RR.s.No_Phenotype_Exists, kinase_substrate
 
 Column order is unimportant, column names must match above.
 
 Required parameters: Pandas must be downloaded and installed on your machine.
 
 Output: A table containing each SI-submodule pair and if the interaction
-is an ?Input? or ?Output?
+is an "Input" or "Output"
 ```
 ************************************************************************
 ### CreateFastaFile.py
@@ -185,7 +185,7 @@ Input: plain csv text file
 
 Csv format:
 Module,Name,Sequence
-Induced_...sP?,YDR497C_S55,IQRAPASDDEDRI
+Induced_...sP.,YDR497C_S55,IQRAPASDDEDRI
 
 Column order is unimportant, column names must match above.
 
@@ -228,23 +228,23 @@ approaches.
 
 Input: A plain text .csv file that contains all module position weight matrices. Each
 module PWM should have 20 rows, representing each of the 20 naturally occurring
-amino acids. They are in a column called ?AA? which stands for amino acid. There
+amino acids. They are in a column called "AA" which stands for amino acid. There
 should also be 13 columns, labeled 0-12 (representing the 13 amino acid sequence length
 of the phospho-peptides used to build the position weight matrix) that contain the
 frequency of each amino acid at each position.
 
 Csv file format
 Motif,AA,0,1,2,3,4,5,6,7,8,9,10,11,12
-Induced_...sP?,P:,0.05,0.05,0.03, 0.05,0.05,0.03,0.05,0.05,0.03, 0.05,0.05,0.03
+Induced_...sP.,P:,0.05,0.05,0.03, 0.05,0.05,0.03,0.05,0.05,0.03, 0.05,0.05,0.03
 
 In addition, a directory that contains the Mok et al kinase PWMs. They have the identical
 format as above. They have been pre-generated and are available for download on Github.
-The repository is titled, ?Mok_kinase_PWMs?
+The repository is titled, "Mok_kinase_PWMs"
 
 Required Parameters: Pandas must be installed on your machine.
 
 Output: A directory containing plain text .csv files named after each module (ie.
-Induced_...sP?.txt). Within the .csv files are 63 KLD scores representing how well the
+Induced_...sP..txt). Within the .csv files are 63 KLD scores representing how well the
 63 Mok et al kinases match the module motif.
 ```
 ************************************************************************
@@ -262,18 +262,18 @@ distribution of scores.
 
 Input: A plain text .csv file that contains all module position weight matrices. Each
 module PWM should have 20 rows, representing each of the 20 naturally occurring
-amino acids. They are in a column called ?AA? which stands for amino acid. There
+amino acids. They are in a column called "AA" which stands for amino acid. There
 should also be 13 columns, labeled 0-12 (representing the 13 amino acid sequence length
 of the phospho-peptides used to build the matrix) that contain the frequency of each
 amino acid at each position.
 
 Csv file format
 Motif,AA,0,1,2,3,4,5,6,7,8,9,10,11,12
-Induced_...sP?,P:,0.05,0.05,0.03, 0.05,0.05,0.03,0.05,0.05,0.03, 0.05,0.05,0.03
+Induced_...sP.,P:,0.05,0.05,0.03, 0.05,0.05,0.03,0.05,0.05,0.03, 0.05,0.05,0.03
 
 In addition, a directory that contains the Mok et al kinase PWMs. They have the identical
 format as above. They have been pre-generated and are available for download on Github.
-The repository is titled, ?Mok_kinase_PWMs?
+The repository is titled, "Mok_kinase_PWMs"
 
 Required Parameters: Pandas must be installed on your machine. Numpy
 
@@ -286,9 +286,9 @@ match the module motif after 1000 permutations of each Mok kinase.
 ```
 Purpose: Identify FDR scores for each Mok et al kinase and each module by comparing
 the non-shuffled scores to the distribution of shuffled scores. The user can then manually
-define the FDR cutoff to call kinases ?motif-match? or ?non-match? for a given module.
+define the FDR cutoff to call kinases "motif-match" or "non-match" for a given module.
 
-Input: Two directories and a single plain text .csv file, called ?Kinases_Not_In_Mok.csv?
+Input: Two directories and a single plain text .csv file, called "Kinases_Not_In_Mok.csv"
 that is provided on the Github page. The first directory contains plain text .csv files with
 KLD scores for non-shuffled Mok et al kinases and Modules. The second directory
 contains plain text .csv files containing KLD scores for shuffled Mok et al kinases and
@@ -297,7 +297,7 @@ Modules.
 Csv format (For both Input Directories)
 
 Scores,Kinase,Module,
-13.25,cdc15,Induced?sP?
+13.25,cdc15,Induced.sP.
 
 Required Parameters: Pandas
 
