@@ -39,7 +39,7 @@ specific to a single target.  The primary files are:
 - `cdc14_hog1_pde2_summary_union.cys` a [Cytoscape](http://www.cytoscape.org/)
 (version 3.2) session that visualizes the ensemble summaries.
 - `*_edgeAnnotation.txt` contains the frequency of edges in the ensemble.
-- `*nodeAnnotation.txt` contains the node ensemble frequency.
+- `*_nodeAnnotation.txt` contains the node ensemble frequency.
 - `*_size.txt` shows the sizes (number of nodes) of the individual Steiner
 forests in the ensemble.
 - `*_union.sif` and `*_union.tsv` contain the ensemble edges in different formats.
