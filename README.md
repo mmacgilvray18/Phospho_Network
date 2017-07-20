@@ -14,7 +14,7 @@ network in yeast (Chasman et al., 2014). Shared interactor-submodule pairs serve
 inputs for a previously developed Integer Programming (IP) approach that connects the
 sources to their downstream target submodules (Chasman et al., 2014).
 
-## Prerequisites:
+## Prerequisites
 The user should define differentially changing phospho-peptides in the "WT" or "Parent"
 strain using their own criteria (eg; fold-change, p-value, etc.), followed by
 grouping/clustering phospho-peptides based on similar directionality of abundance
@@ -306,6 +306,10 @@ the Mok et al dataset and those that were absent, and their FDR scores for each 
 Kinases not found in the Mok et al dataset are given an FDR score of 1.
 ```
 ************************************************************************
+## pcsf
+The [pcsf](pcsf) subdirectory contains code, data, and results for the
+comparison with the prize-collecting Steiner forest network algorithm.
+
 ## References
 Chasman D, Ho YH, Berry DB, et al. (2014) Pathway connectivity and signaling
 coordination in the yeast stress-activated signaling network. Mol Syst Biol 10: 759.
@@ -315,7 +319,6 @@ between motifs. Genome Biol 8: R24.
 
 Mok J, Kim PM, Lam HY, et al. (2010) Deciphering protein kinase specificity through
 large-scale analysis of yeast phosphorylation site motifs. Sci Signal 3: ra12.
-Thijs G, Marchal K, Lescot M, Rombauts S, De Moor B, Rouze P & Moreau Y (2002) A
 
-Gibbs sampling method to detect overrepresented motifs in the upstream regions of
+Thijs G, Marchal K, Lescot M, Rombauts S, De Moor B, Rouze P & Moreau Y (2002) A Gibbs sampling method to detect overrepresented motifs in the upstream regions of
 coexpressed genes. J Comput Biol 9: 447-464.
