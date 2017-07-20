@@ -13,9 +13,9 @@ mkdir -p $outpath
 
 # Set the code paths for the Omics Integrator and msgsteiner dependencies
 ## This is the directory that contains scripts/forest.py
-export oipath=/mnt/ws/virology/home/agitter/projects/OmicsIntegrator
+export oipath=OmicsIntegrator
 ## This is the path to the msgsteiner executable, including the executable name
-export msgsteinerpath=/mnt/ws/virology/shared/lab_folders/GitterLab/progs/msgsteiner-1.3/msgsteiner
+export msgsteinerpath=msgsteiner-1.3/msgsteiner
 
 # Fixed parameters, sweep over multiple mu and beta
 # Depth from root of tree
