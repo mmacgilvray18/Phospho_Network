@@ -1,5 +1,4 @@
-# Prize-collecting Steiner forest
-This subdirectory contains input files for shared interactor analysis.
+# Shared interactor input files
 
 ### `Annotation.csv`
 This file contains two columns "systematic_name_dash_removed" and "systematic
