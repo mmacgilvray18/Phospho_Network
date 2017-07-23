@@ -7,14 +7,14 @@ msgsteiner dependency.
 
 ## cluster
 The scripts in this subdirectory are provided for transparency and are intended
-to show in detail how Omics Integrator was run.  They are not runnable on a new
-system without minor modifications.  The scripts assume that Omics Integrator
-and msgsteiner have been installed, and the paths are required in
-`submit_wrapper_031717.sh`.  They use the
+to show in detail how Omics Integrator was run on a high-throughput computing
+cluster.  They are not runnable on a new system without minor modifications.
+The scripts assume that Omics Integrator and msgsteiner have been installed, and
+the paths are required in `submit_wrapper_031717.sh`.  They use the
 [HTCondor](https://research.cs.wisc.edu/htcondor/) queuing system, but this can
 be substituted by replacing the `condor_submit` calls in
 `submit_wrapper_031717.sh` with the appropriate submit commands for a different
-queuing system.  Then can also be run locally by calling `run_PCSF_031717.sh`
+queuing system.  They can also be run locally by calling `run_PCSF_031717.sh`
 directly instead of submitting a batch job.
 
 The overall workflow first submits a series of HTCondor jobs with
