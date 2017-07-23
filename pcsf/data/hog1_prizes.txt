@@ -1,0 +1,16 @@
+Induced_.....s..S..._hog1_Induced_Defective	1.0
+Induced_.....sP....._hog1_Induced_Amplified	1.0
+Induced_.....sP....._hog1_Induced_Defective	1.0
+Induced_.....tP....._hog1_Induced_Defective	1.0
+Induced_..K..s......_hog1_Induced_Defective	1.0
+Induced_..R..s......_hog1_Induced_Amplified	1.0
+Induced_..R..s......_hog1_Induced_Defective	1.0
+Induced_..S..s......_hog1_Induced_Defective	1.0
+Repressed_.....sP....._hog1_Repressed_Defective	1.0
+Repressed_...R.s......_hog1_Repressed_Defective	1.0
+Repressed_..R..s......_hog1_Repressed_Defective	1.0
+Repressed_..RK.s......_hog1_Repressed_Defective	1.0
+Repressed_..RR.s......_hog1_Repressed_Defective	1.0
+Repressed_..RS.s......_hog1_Repressed_Defective	1.0
+Repressed_R.R..s......_hog1_Repressed_Amplified	1.0
+Repressed_R.R..s......_hog1_Repressed_Defective	1.0
