@@ -306,9 +306,14 @@ the Mok et al dataset and those that were absent, and their FDR scores for each 
 Kinases not found in the Mok et al dataset are given an FDR score of 1.
 ```
 ************************************************************************
+## phospho_subnet
+The [phospho_subnet](phospho_subnet) subdirectory contains code, data, and results for the ILP
+approach to infer the NaCl-dependent phosphoproteomic signaling subnetwork.
+
 ## pcsf
 The [pcsf](pcsf) subdirectory contains code, data, and results for the
 comparison with the prize-collecting Steiner forest network algorithm.
+
 
 ## References
 Chasman D, Ho YH, Berry DB, et al. (2014) Pathway connectivity and signaling
