@@ -1,0 +1,1836 @@
+matchType=CatSet(Constituent|motif_match|motif_unmatched|Output|Shared_Interaction|unknown_recognition_motif)	Interactor_A	Interactor_B	Dir	Sign	Annotation=CatSet(Kinase|Phosphatase|Yes)
+Constituent	cdc14ia1	YMR031C	1	0		
+Constituent	cdc14ia1	YHR131C	1	0		
+Constituent	cdc14id2	YBL061C	1	0		
+Constituent	cdc14id2	YHR158C	1	0		
+Constituent	cdc14id2	YNL180C	1	0		
+Constituent	cdc14id2	YNL267W	1	0		
+Constituent	hog1id25	YBR080C	1	0		
+Constituent	hog1id25	YDR407C	1	0		
+Constituent	hog1id25	YER105C	1	0		
+Constituent	hog1id25	YGL099W	1	0		
+Constituent	hog1id25	YJR076C	1	0		
+Constituent	hog1id25	YLR206W	1	0		
+Constituent	hog1id25	YLR260W	1	0		
+Constituent	hog1id25	YHR131C	1	0		
+Constituent	hog1id25	YHR158C	1	0		
+Constituent	hog1id25	YNL180C	1	0		
+Constituent	hog1id25	YNL267W	1	0		
+Constituent	npi60	YBL047C	1	0		
+Constituent	npi60	YDL146W	1	0		
+Constituent	npi60	YDL225W	1	0		
+Constituent	npi60	YDR093W	1	0		
+Constituent	npi60	YDR490C	1	0	Kinase	
+Constituent	npi60	YER087CB	1	0		
+Constituent	npi60	YER166W	1	0		
+Constituent	npi60	YFL009W	1	0		
+Constituent	npi60	YGL181W	1	0		
+Constituent	npi60	YGR038W	1	0		
+Constituent	npi60	YGR097W	1	0		
+Constituent	npi60	YIR006C	1	0	Yes	
+Constituent	npi60	YLL040C	1	0		
+Constituent	npi60	YLR410W	1	0		
+Constituent	npi60	YNL118C	1	0		
+Constituent	npi60	YNL166C	1	0		
+Constituent	npi60	YOL093W	1	0		
+Constituent	npi60	YPL032C	1	0		
+Constituent	pde2id41	YER087CB	1	0		
+Constituent	pde2id41	YGL181W	1	0		
+Constituent	pde2id41	YIL036W	1	0		
+Constituent	pde2id41	YMR031C	1	0		
+Constituent	cdc14id3	YBR059C	1	0	Kinase	
+Constituent	cdc14id3	YBR140C	1	0		
+Constituent	cdc14id3	YML059C	1	0		
+Constituent	cdc14id3	YLR006C	1	0		
+Constituent	hog1ia26	YDL195W	1	0		
+Constituent	hog1ia26	YDR033W	1	0		
+Constituent	hog1ia26	YJL095W	1	0	Kinase	
+Constituent	hog1ia26	YNL278W	1	0		
+Constituent	hog1id27	YBL004W	1	0		
+Constituent	hog1id27	YBR059C	1	0	Kinase	
+Constituent	hog1id27	YDL117W	1	0		
+Constituent	hog1id27	YDL224C	1	0		
+Constituent	hog1id27	YDR003W	1	0		
+Constituent	hog1id27	YDR227W	1	0		
+Constituent	hog1id27	YER083C	1	0		
+Constituent	hog1id27	YGL208W	1	0		
+Constituent	hog1id27	YGR094W	1	0		
+Constituent	hog1id27	YGR097W	1	0		
+Constituent	hog1id27	YGR253C	1	0		
+Constituent	hog1id27	YHR007C	1	0		
+Constituent	hog1id27	YIL115C	1	0		
+Constituent	hog1id27	YLR248W	1	0	Kinase	
+Constituent	hog1id27	YLR357W	1	0		
+Constituent	hog1id27	YML059C	1	0		
+Constituent	hog1id27	YML081W	1	0		
+Constituent	hog1id27	YMR205C	1	0		
+Constituent	hog1id27	YNL321W	1	0		
+Constituent	hog1id27	YOR151C	1	0		
+Constituent	hog1id27	YLR006C	1	0		
+Constituent	hog1id27	YLR257W	1	0		
+Constituent	npi61	YAR002W	1	0		
+Constituent	npi61	YBR059C	1	0	Kinase	
+Constituent	npi61	YBR112C	1	0		
+Constituent	npi61	YBR198C	1	0		
+Constituent	npi61	YCL032W	1	0		
+Constituent	npi61	YCR034W	1	0		
+Constituent	npi61	YCR061W	1	0		
+Constituent	npi61	YDL173W	1	0		
+Constituent	npi61	YDL195W	1	0		
+Constituent	npi61	YDR004W	1	0		
+Constituent	npi61	YDR093W	1	0		
+Constituent	npi61	YDR475C	1	0		
+Constituent	npi61	YDR490C	1	0	Kinase	
+Constituent	npi61	YER155C	1	0		
+Constituent	npi61	YER169W	1	0		
+Constituent	npi61	YFL007W	1	0		
+Constituent	npi61	YGL083W	1	0	Kinase	
+Constituent	npi61	YGL222C	1	0		
+Constituent	npi61	YGR178C	1	0		
+Constituent	npi61	YGR184C	1	0		
+Constituent	npi61	YGR281W	1	0		
+Constituent	npi61	YHL009C	1	0	Yes	
+Constituent	npi61	YHR146W	1	0		
+Constituent	npi61	YHR158C	1	0	Yes	
+Constituent	npi61	YHR159W	1	0		
+Constituent	npi61	YIL038C	1	0		
+Constituent	npi61	YIL129C	1	0		
+Constituent	npi61	YIR003W	1	0		
+Constituent	npi61	YIR006C	1	0	Yes	
+Constituent	npi61	YJL020C	1	0	Yes	
+Constituent	npi61	YJL080C	1	0		
+Constituent	npi61	YJL095W	1	0	Kinase	
+Constituent	npi61	YLL021W	1	0		
+Constituent	npi61	YLR006C	1	0		
+Constituent	npi61	YLR371W	1	0		
+Constituent	npi61	YML059C	1	0		
+Constituent	npi61	YML064C	1	0		
+Constituent	npi61	YML081W	1	0		
+Constituent	npi61	YML100W	1	0		
+Constituent	npi61	YMR011W	1	0		
+Constituent	npi61	YMR109W	1	0	Yes	
+Constituent	npi61	YMR261C	1	0		
+Constituent	npi61	YMR311C	1	0		
+Constituent	npi61	YNL078W	1	0		
+Constituent	npi61	YNL166C	1	0		
+Constituent	npi61	YNL278W	1	0		
+Constituent	npi61	YNL293W	1	0		
+Constituent	npi61	YNR053C	1	0		
+Constituent	npi61	YOL070C	1	0		
+Constituent	npi61	YOL081W	1	0		
+Constituent	npi61	YOL100W	1	0	Kinase	
+Constituent	npi61	YOR018W	1	0		
+Constituent	npi61	YOR056C	1	0		
+Constituent	npi61	YOR109W	1	0		
+Constituent	npi61	YOR233W	1	0	Kinase	
+Constituent	npi61	YOR267C	1	0	Kinase	
+Constituent	npi61	YOR329C	1	0	Yes	
+Constituent	npi61	YOR352W	1	0		
+Constituent	npi61	YPL133C	1	0		
+Constituent	npi61	YPL141C	1	0	Kinase	
+Constituent	npi61	YPL150W	1	0	Kinase	
+Constituent	npi61	YPL221W	1	0		
+Constituent	npi61	YPL226W	1	0		
+Constituent	npi61	YPR161C	1	0	Kinase	
+Constituent	pde2id42	YBL085W	1	0		
+Constituent	pde2id42	YCL032W	1	0		
+Constituent	pde2id42	YDR389W	1	0		
+Constituent	pde2id42	YJL128C	1	0	Kinase|Yes
+Constituent	pde2id42	YLL043W	1	0		
+Constituent	pde2id42	YLR248W	1	0	Kinase|Yes
+Constituent	pde2id42	YLR257W	1	0		
+Constituent	cdc14ia4	YDR033W	1	0		
+Constituent	cdc14ia4	YPL226W	1	0		
+Constituent	cdc14ia4	YDR310C	1	0		
+Constituent	cdc14id5	YHR149C	1	0		
+Constituent	cdc14id5	YHR158C	1	0		
+Constituent	hog1id28	YDR093W	1	0		
+Constituent	hog1id28	YDR145W	1	0		
+Constituent	hog1id28	YDR170C	1	0		
+Constituent	hog1id28	YDR385W	1	0		
+Constituent	hog1id28	YDR475C	1	0		
+Constituent	hog1id28	YGR162W	1	0		
+Constituent	hog1id28	YLR350W	1	0		
+Constituent	hog1id28	YLR433C	1	0	Phosphatase	
+Constituent	hog1id28	YPL242C	1	0		
+Constituent	hog1id28	YPR124W	1	0		
+Constituent	hog1id28	YDR310C	1	0		
+Constituent	hog1id28	YJL070C	1	0		
+Constituent	hog1id28	YKL054C	1	0		
+Constituent	npi62	YBR225W	1	0		
+Constituent	npi62	YBR245C	1	0		
+Constituent	npi62	YCL037C	1	0		
+Constituent	npi62	YDL226C	1	0		
+Constituent	npi62	YFL021W	1	0		
+Constituent	npi62	YHR097C	1	0		
+Constituent	npi62	YHR102W	1	0	Kinase	
+Constituent	npi62	YKL204W	1	0		
+Constituent	npi62	YKR090W	1	0		
+Constituent	npi62	YLR450W	1	0		
+Constituent	npi62	YML075C	1	0		
+Constituent	npi62	YMR275C	1	0		
+Constituent	npi62	YNL166C	1	0		
+Constituent	npi62	YPL226W	1	0		
+Constituent	pde2id43	YAL019W	1	0		
+Constituent	pde2id43	YBL047C	1	0		
+Constituent	pde2id43	YFL007W	1	0		
+Constituent	pde2id43	YGL181W	1	0		
+Constituent	pde2id43	YIR006C	1	0		
+Constituent	pde2id43	YLL040C	1	0		
+Constituent	pde2id43	YMR184W	1	0		
+Constituent	pde2id43	YMR275C	1	0		
+Constituent	pde2id43	YPL085W	1	0		
+Constituent	pde2id43	YPR041W	1	0		
+Constituent	pde2id43	YJL070C	1	0		
+Constituent	pde2id43	YKL054C	1	0		
+Constituent	pde2id43	YPL226W	1	0		
+Constituent	cdc14ia6	YGR130C	1	0		
+Constituent	cdc14ia6	YIR003W	1	0		
+Constituent	cdc14ia6	YOR227W	1	0		
+Constituent	cdc14ia6	YFR016C	1	0		
+Constituent	cdc14id7	YFL025C	1	0		
+Constituent	cdc14id7	YFR048W	1	0		
+Constituent	cdc14id7	YML072C	1	0		
+Constituent	cdc14id7	YHR158C	1	0		
+Constituent	cdc14id7	YIR003W	1	0		
+Constituent	cdc14id7	YJR059W	1	0	Kinase	
+Constituent	hog1id29	YBR086C	1	0		
+Constituent	hog1id29	YDL117W	1	0	Yes	
+Constituent	hog1id29	YDR233C	1	0		
+Constituent	hog1id29	YDR292C	1	0		
+Constituent	hog1id29	YDR302W	1	0		
+Constituent	hog1id29	YDR326C	1	0		
+Constituent	hog1id29	YER005W	1	0		
+Constituent	hog1id29	YER157W	1	0		
+Constituent	hog1id29	YGR180C	1	0		
+Constituent	hog1id29	YHR195W	1	0		
+Constituent	hog1id29	YIR003W	1	0		
+Constituent	hog1id29	YJL026W	1	0		
+Constituent	hog1id29	YKL054C	1	0		
+Constituent	hog1id29	YLR096W	1	0	Kinase	
+Constituent	hog1id29	YLR248W	1	0	Kinase	
+Constituent	hog1id29	YLR257W	1	0	Yes	
+Constituent	hog1id29	YML100W	1	0		
+Constituent	hog1id29	YMR205C	1	0		
+Constituent	hog1id29	YMR219W	1	0		
+Constituent	hog1id29	YNL321W	1	0		
+Constituent	hog1id29	YOL070C	1	0		
+Constituent	hog1id29	YOL087C	1	0		
+Constituent	hog1id29	YOR109W	1	0		
+Constituent	hog1id29	YOR264W	1	0		
+Constituent	hog1id29	YPL037C	1	0		
+Constituent	hog1id29	YFR016C	1	0		
+Constituent	hog1id29	YHR158C	1	0	Yes	
+Constituent	hog1id29	YJR059W	1	0	Kinase	
+Constituent	hog1id29	YLR452C	1	0		
+Constituent	npi63	YBR059C	1	0	Kinase	
+Constituent	npi63	YBR068C	1	0		
+Constituent	npi63	YDL173W	1	0		
+Constituent	npi63	YDL223C	1	0		
+Constituent	npi63	YER002W	1	0		
+Constituent	npi63	YER165W	1	0		
+Constituent	npi63	YGL173C	1	0		
+Constituent	npi63	YGR097W	1	0		
+Constituent	npi63	YGR162W	1	0	Yes	
+Constituent	npi63	YHR158C	1	0		
+Constituent	npi63	YJR059W	1	0	Kinase|Yes
+Constituent	npi63	YKL195W	1	0		
+Constituent	npi63	YLR410W	1	0		
+Constituent	npi63	YMR086W	1	0		
+Constituent	npi63	YMR153W	1	0		
+Constituent	npi63	YNL020C	1	0	Kinase|Yes
+Constituent	npi63	YNL321W	1	0		
+Constituent	npi63	YNR012W	1	0		
+Constituent	pde2id44	YKR023W	1	0		
+Constituent	pde2id44	YLR452C	1	0		
+Constituent	cdc14ia8	YMR031C	1	0		
+Constituent	cdc14ia8	YML027W	1	0		
+Constituent	cdc14id9	YFR053C	1	0		
+Constituent	cdc14id9	YJL129C	1	0		
+Constituent	cdc14id9	YER165W	1	0		
+Constituent	cdc14id9	YMR002W	1	0		
+Constituent	cdc14id9	YNL267W	1	0		
+Constituent	cdc14id9	YOR204W	1	0		
+Constituent	hog1ia30	YPL190C	1	0		
+Constituent	hog1ia30	YER165W	1	0		
+Constituent	hog1id31	YCL005W	1	0		
+Constituent	hog1id31	YDR170C	1	0		
+Constituent	hog1id31	YDR348C	1	0		
+Constituent	hog1id31	YDR372C	1	0		
+Constituent	hog1id31	YGL099W	1	0		
+Constituent	hog1id31	YGR068C	1	0		
+Constituent	hog1id31	YJL029C	1	0		
+Constituent	hog1id31	YLR133W	1	0		
+Constituent	hog1id31	YLR259C	1	0		
+Constituent	hog1id31	YML101C	1	0		
+Constituent	hog1id31	YML111W	1	0		
+Constituent	hog1id31	YML115C	1	0		
+Constituent	hog1id31	YMR261C	1	0		
+Constituent	hog1id31	YMR275C	1	0		
+Constituent	hog1id31	YNL049C	1	0		
+Constituent	hog1id31	YNL224C	1	0		
+Constituent	hog1id31	YOR018W	1	0		
+Constituent	hog1id31	YPL180W	1	0		
+Constituent	hog1id31	YML027W	1	0		
+Constituent	hog1id31	YMR002W	1	0		
+Constituent	hog1id31	YNL267W	1	0		
+Constituent	hog1id31	YOL138C	1	0		
+Constituent	hog1id31	YOR204W	1	0		
+Constituent	hog1id31	YPL070W	1	0		
+Constituent	npi64	YAR002W	1	0		
+Constituent	npi64	YBR172C	1	0		
+Constituent	npi64	YDR017C	1	0		
+Constituent	npi64	YDR338C	1	0		
+Constituent	npi64	YDR450W	1	0		
+Constituent	npi64	YER167W	1	0		
+Constituent	npi64	YFL007W	1	0		
+Constituent	npi64	YGR097W	1	0		
+Constituent	npi64	YGR240C	1	0		
+Constituent	npi64	YKL105C	1	0		
+Constituent	npi64	YLR133W	1	0		
+Constituent	npi64	YLR259C	1	0		
+Constituent	npi64	YMR031C	1	0		
+Constituent	npi64	YMR086W	1	0	Yes	
+Constituent	npi64	YNL175C	1	0		
+Constituent	npi64	YOL045W	1	0	Kinase	
+Constituent	npi64	YOL100W	1	0	Kinase	
+Constituent	npi64	YOR052C	1	0		
+Constituent	npi64	YOR329C	1	0		
+Constituent	npi64	YPL023C	1	0		
+Constituent	npi64	YPR079W	1	0		
+Constituent	pde2ia45	YOL138C	1	0		
+Constituent	pde2ia45	YPL070W	1	0		
+Constituent	pde2id46	YFL007W	1	0		
+Constituent	pde2id46	YMR031C	1	0		
+Constituent	cdc14ia10	YOR220W	1	0		
+Constituent	cdc14ia10	YPL265W	1	0		
+Constituent	cdc14ia10	YBL085W	1	0		
+Constituent	cdc14ia10	YPL226W	1	0		
+Constituent	cdc14id11	YHR158C	1	0		
+Constituent	cdc14id11	YNL267W	1	0		
+Constituent	hog1id32	YBR054W	1	0		
+Constituent	hog1id32	YBR151W	1	0		
+Constituent	hog1id32	YCR088W	1	0		
+Constituent	hog1id32	YDR150W	1	0		
+Constituent	hog1id32	YDR219C	1	0		
+Constituent	hog1id32	YFR051C	1	0		
+Constituent	hog1id32	YGL181W	1	0		
+Constituent	hog1id32	YGL208W	1	0		
+Constituent	hog1id32	YGR068C	1	0		
+Constituent	hog1id32	YJR076C	1	0		
+Constituent	hog1id32	YLL029W	1	0		
+Constituent	hog1id32	YLR072W	1	0		
+Constituent	hog1id32	YLR309C	1	0		
+Constituent	hog1id32	YLR429W	1	0		
+Constituent	hog1id32	YMR102C	1	0		
+Constituent	hog1id32	YMR212C	1	0		
+Constituent	hog1id32	YMR261C	1	0		
+Constituent	hog1id32	YBL085W	1	0		
+Constituent	hog1id32	YDL225W	1	0		
+Constituent	hog1id32	YHR158C	1	0		
+Constituent	hog1id32	YNL267W	1	0		
+Constituent	npi65	YBL037W	1	0		
+Constituent	npi65	YBR059C	1	0	Kinase	
+Constituent	npi65	YDL146W	1	0		
+Constituent	npi65	YDL173W	1	0		
+Constituent	npi65	YER087CB	1	0		
+Constituent	npi65	YGL181W	1	0		
+Constituent	npi65	YGR038W	1	0		
+Constituent	npi65	YGR240C	1	0		
+Constituent	npi65	YGR281W	1	0		
+Constituent	npi65	YHL007C	1	0	Kinase	
+Constituent	npi65	YHR082C	1	0	Kinase	
+Constituent	npi65	YHR086W	1	0		
+Constituent	npi65	YIR006C	1	0	Yes	
+Constituent	npi65	YJR092W	1	0		
+Constituent	npi65	YKL004W	1	0		
+Constituent	npi65	YKL064W	1	0		
+Constituent	npi65	YLR096W	1	0	Kinase	
+Constituent	npi65	YLR371W	1	0		
+Constituent	npi65	YLR410W	1	0		
+Constituent	npi65	YLR436C	1	0		
+Constituent	npi65	YNL166C	1	0		
+Constituent	npi65	YOL081W	1	0		
+Constituent	npi65	YOL087C	1	0		
+Constituent	npi65	YOR052C	1	0		
+Constituent	npi65	YOR153W	1	0		
+Constituent	npi65	YPL085W	1	0		
+Constituent	npi65	YPL226W	1	0		
+Constituent	pde2id47	YBL061C	1	0		
+Constituent	pde2id47	YBR059C	1	0	Kinase	
+Constituent	pde2id47	YLR257W	1	0		
+Constituent	pde2id47	YOL004W	1	0		
+Constituent	pde2id47	YDL225W	1	0		
+Constituent	pde2id47	YPL226W	1	0		
+Constituent	hog1rd33	YDR293C	1	0		
+Constituent	hog1rd33	YGL197W	1	0		
+Constituent	hog1rd33	YIL107C	1	0		
+Constituent	hog1rd33	YJL020C	1	0		
+Constituent	hog1rd33	YJL128C	1	0	Kinase	
+Constituent	hog1rd33	YLR096W	1	0	Kinase	
+Constituent	hog1rd33	YPL085W	1	0		
+Constituent	npr66	YBL103C	1	0		
+Constituent	npr66	YBR102C	1	0		
+Constituent	npr66	YBR172C	1	0		
+Constituent	npr66	YBR275C	1	0		
+Constituent	npr66	YDL054C	1	0		
+Constituent	npr66	YDR017C	1	0		
+Constituent	npr66	YDR186C	1	0		
+Constituent	npr66	YDR229W	1	0		
+Constituent	npr66	YDR436W	1	0	Phosphatase	
+Constituent	npr66	YDR439W	1	0		
+Constituent	npr66	YEL032W	1	0		
+Constituent	npr66	YER111C	1	0		
+Constituent	npr66	YER114C	1	0		
+Constituent	npr66	YER132C	1	0		
+Constituent	npr66	YGL023C	1	0		
+Constituent	npr66	YGL197W	1	0		
+Constituent	npr66	YGR217W	1	0		
+Constituent	npr66	YHR082C	1	0	Kinase	
+Constituent	npr66	YHR205W	1	0	Kinase	
+Constituent	npr66	YKR089C	1	0		
+Constituent	npr66	YLR049C	1	0		
+Constituent	npr66	YLR190W	1	0		
+Constituent	npr66	YLR429W	1	0		
+Constituent	npr66	YML057W	1	0	Phosphatase	
+Constituent	npr66	YML119W	1	0		
+Constituent	npr66	YMR005W	1	0		
+Constituent	npr66	YNL243W	1	0		
+Constituent	npr66	YOR058C	1	0		
+Constituent	npr66	YOR220W	1	0		
+Constituent	npr66	YPL115C	1	0		
+Constituent	npr66	YPR019W	1	0		
+Constituent	npr66	YPR159W	1	0		
+Constituent	npr66	YPR185W	1	0		
+Constituent	pde2ra48	YCR088W	1	0		
+Constituent	pde2ra48	YDR293C	1	0		
+Constituent	pde2rd49	YDR432W	1	0		
+Constituent	pde2rd49	YJL162C	1	0		
+Constituent	cdc14ra12	YBR028C	1	0	Kinase	
+Constituent	cdc14ra12	YHR082C	1	0	Kinase	
+Constituent	cdc14ra12	YJL176C	1	0		
+Constituent	cdc14ra12	YPR041W	1	0		
+Constituent	cdc14rd13	YBL103C	1	0		
+Constituent	cdc14rd13	YHL007C	1	0	Kinase	
+Constituent	cdc14rd13	YLR425W	1	0		
+Constituent	npr67	YBL035C	1	0		
+Constituent	npr67	YBL103C	1	0		
+Constituent	npr67	YBR028C	1	0	Kinase	
+Constituent	npr67	YBR102C	1	0		
+Constituent	npr67	YBR172C	1	0		
+Constituent	npr67	YDL150W	1	0		
+Constituent	npr67	YDR033W	1	0		
+Constituent	npr67	YDR407C	1	0		
+Constituent	npr67	YDR507C	1	0	Kinase	
+Constituent	npr67	YFR024CA	1	0		
+Constituent	npr67	YHL007C	1	0	Kinase	
+Constituent	npr67	YHR119W	1	0		
+Constituent	npr67	YIL038C	1	0		
+Constituent	npr67	YIL063C	1	0		
+Constituent	npr67	YJL084C	1	0		
+Constituent	npr67	YKR048C	1	0		
+Constituent	npr67	YLR220W	1	0		
+Constituent	npr67	YLR310C	1	0		
+Constituent	npr67	YLR319C	1	0		
+Constituent	npr67	YNL243W	1	0		
+Constituent	npr67	YNL309W	1	0		
+Constituent	npr67	YNL326C	1	0		
+Constituent	npr67	YOR014W	1	0		
+Constituent	npr67	YOR042W	1	0		
+Constituent	npr67	YOR140W	1	0		
+Constituent	npr67	YOR310C	1	0		
+Constituent	npr67	YOR344C	1	0		
+Constituent	npr67	YPL032C	1	0		
+Constituent	npr67	YPR133C	1	0		
+Constituent	pde2ra50	YFR024CA	1	0		
+Constituent	pde2ra50	YIL038C	1	0		
+Constituent	pde2ra50	YNL102W	1	0		
+Constituent	pde2ra50	YOR227W	1	0		
+Constituent	pde2ra50	YHL007C	1	0	Kinase	
+Constituent	pde2ra50	YLR138W	1	0		
+Constituent	hog1rd34	YDR293C	1	0		
+Constituent	hog1rd34	YPL070W	1	0		
+Constituent	npr68	YBL097W	1	0		
+Constituent	npr68	YBR023C	1	0		
+Constituent	npr68	YBR207W	1	0		
+Constituent	npr68	YDR293C	1	0		
+Constituent	npr68	YER155C	1	0		
+Constituent	npr68	YFR024CA	1	0		
+Constituent	npr68	YGL181W	1	0		
+Constituent	npr68	YGL197W	1	0		
+Constituent	npr68	YGR196C	1	0		
+Constituent	npr68	YGR250C	1	0		
+Constituent	npr68	YHR023W	1	0		
+Constituent	npr68	YIL105C	1	0		
+Constituent	npr68	YIL107C	1	0		
+Constituent	npr68	YJL100W	1	0		
+Constituent	npr68	YJL112W	1	0		
+Constituent	npr68	YLR319C	1	0		
+Constituent	npr68	YLR332W	1	0		
+Constituent	npr68	YML006C	1	0		
+Constituent	npr68	YML117W	1	0		
+Constituent	npr68	YML123C	1	0		
+Constituent	npr68	YMR109W	1	0		
+Constituent	npr68	YNL039W	1	0		
+Constituent	npr68	YNL233W	1	0		
+Constituent	npr68	YOR092W	1	0		
+Constituent	npr68	YOR140W	1	0		
+Constituent	npr68	YOR233W	1	0	Kinase	
+Constituent	pde2ra51	YDR432W	1	0		
+Constituent	pde2ra51	YER155C	1	0		
+Constituent	pde2ra51	YHL007C	1	0	Kinase	
+Constituent	pde2ra51	YML117W	1	0		
+Constituent	npr69	YAL041W	1	0	Yes	
+Constituent	npr69	YBL005WB	1	0		
+Constituent	npr69	YBR059C	1	0	Kinase	
+Constituent	npr69	YBR102C	1	0		
+Constituent	npr69	YBR130C	1	0		
+Constituent	npr69	YDL102W	1	0		
+Constituent	npr69	YDR017C	1	0		
+Constituent	npr69	YDR507C	1	0	Kinase	
+Constituent	npr69	YER016W	1	0		
+Constituent	npr69	YGR157W	1	0		
+Constituent	npr69	YHL007C	1	0	Kinase|Yes
+Constituent	npr69	YKR010C	1	0		
+Constituent	npr69	YLR271W	1	0		
+Constituent	npr69	YML051W	1	0		
+Constituent	npr69	YML117W	1	0		
+Constituent	npr69	YNL118C	1	0	Yes	
+Constituent	npr69	YNL197C	1	0		
+Constituent	npr69	YPL141C	1	0	Kinase	
+Constituent	cdc14ra14	YML016C	1	0	Phosphatase	
+Constituent	cdc14ra14	YML072C	1	0		
+Constituent	cdc14rd15	YFL002WA	1	0		
+Constituent	cdc14rd15	YJL076W	1	0		
+Constituent	cdc14rd15	YJL165C	1	0	Kinase	
+Constituent	cdc14rd15	YKR092C	1	0		
+Constituent	cdc14rd15	YNL297C	1	0		
+Constituent	cdc14rd15	YOL036W	1	0		
+Constituent	cdc14rd15	YOR092W	1	0		
+Constituent	cdc14rd15	YBR130C	1	0		
+Constituent	cdc14rd15	YBR133C	1	0		
+Constituent	cdc14rd15	YDR169C	1	0		
+Constituent	cdc14rd15	YKR048C	1	0		
+Constituent	hog1rd35	YDR379W	1	0		
+Constituent	hog1rd35	YPR072W	1	0		
+Constituent	hog1rd35	YBL085W	1	0		
+Constituent	hog1rd35	YBL103C	1	0		
+Constituent	hog1rd35	YBR133C	1	0		
+Constituent	npr70	YAL041W	1	0		
+Constituent	npr70	YBL101C	1	0		
+Constituent	npr70	YBL103C	1	0		
+Constituent	npr70	YBR023C	1	0		
+Constituent	npr70	YBR059C	1	0	Kinase	
+Constituent	npr70	YBR130C	1	0		
+Constituent	npr70	YDL019C	1	0		
+Constituent	npr70	YDL167C	1	0		
+Constituent	npr70	YDL195W	1	0		
+Constituent	npr70	YDR122W	1	0	Kinase	
+Constituent	npr70	YDR348C	1	0		
+Constituent	npr70	YDR351W	1	0		
+Constituent	npr70	YDR422C	1	0		
+Constituent	npr70	YDR429C	1	0		
+Constituent	npr70	YDR436W	1	0	Phosphatase	
+Constituent	npr70	YDR439W	1	0		
+Constituent	npr70	YDR466W	1	0	Kinase	
+Constituent	npr70	YEL043W	1	0		
+Constituent	npr70	YER123W	1	0	Kinase	
+Constituent	npr70	YER155C	1	0		
+Constituent	npr70	YFR024CA	1	0		
+Constituent	npr70	YGR170W	1	0		
+Constituent	npr70	YGR217W	1	0		
+Constituent	npr70	YIL038C	1	0		
+Constituent	npr70	YIL047C	1	0		
+Constituent	npr70	YIL105C	1	0		
+Constituent	npr70	YKL010C	1	0		
+Constituent	npr70	YKR090W	1	0		
+Constituent	npr70	YLL029W	1	0		
+Constituent	npr70	YLR219W	1	0		
+Constituent	npr70	YLR360W	1	0		
+Constituent	npr70	YLR425W	1	0		
+Constituent	npr70	YML017W	1	0		
+Constituent	npr70	YML035C	1	0		
+Constituent	npr70	YML072C	1	0		
+Constituent	npr70	YMR109W	1	0		
+Constituent	npr70	YMR124W	1	0		
+Constituent	npr70	YMR126C	1	0		
+Constituent	npr70	YMR140W	1	0		
+Constituent	npr70	YNL039W	1	0		
+Constituent	npr70	YNL076W	1	0		
+Constituent	npr70	YNL088W	1	0		
+Constituent	npr70	YNL095C	1	0		
+Constituent	npr70	YNL224C	1	0		
+Constituent	npr70	YNL243W	1	0		
+Constituent	npr70	YNL298W	1	0	Kinase	
+Constituent	npr70	YOR069W	1	0		
+Constituent	npr70	YOR140W	1	0		
+Constituent	npr70	YPL058C	1	0		
+Constituent	npr70	YPL265W	1	0		
+Constituent	npr70	YPR070W	1	0		
+Constituent	npr70	YPR185W	1	0		
+Constituent	pde2ra52	YCL032W	1	0		
+Constituent	pde2ra52	YDR507C	1	0	Kinase|Yes
+Constituent	pde2ra52	YIL038C	1	0		
+Constituent	pde2ra52	YLR257W	1	0		
+Constituent	pde2ra52	YNL265C	1	0		
+Constituent	pde2ra52	YBL085W	1	0		
+Constituent	pde2ra52	YBL103C	1	0		
+Constituent	pde2ra52	YBR130C	1	0		
+Constituent	pde2ra52	YDR169C	1	0		
+Constituent	pde2ra52	YKR048C	1	0		
+Constituent	pde2ra52	YOL081W	1	0		
+Constituent	cdc14ra16	YMR212C	1	0		
+Constituent	cdc14ra16	YOL070C	1	0		
+Constituent	cdc14ra16	YOR153W	1	0		
+Constituent	cdc14rd17	YBR276C	1	0		
+Constituent	cdc14rd17	YJL134W	1	0		
+Constituent	cdc14rd17	YLR192C	1	0		
+Constituent	cdc14rd17	YMR231W	1	0		
+Constituent	cdc14rd17	YOR153W	1	0		
+Constituent	npr71	YDL161W	1	0		
+Constituent	npr71	YDR475C	1	0		
+Constituent	npr71	YGR197C	1	0		
+Constituent	npr71	YIL095W	1	0	Kinase	
+Constituent	npr71	YJL020C	1	0		
+Constituent	npr71	YJL201W	1	0		
+Constituent	npr71	YJR076C	1	0		
+Constituent	npr71	YJR124C	1	0		
+Constituent	npr71	YLR177W	1	0		
+Constituent	npr71	YML113W	1	0		
+Constituent	npr71	YML123C	1	0		
+Constituent	npr71	YNL096C	1	0		
+Constituent	npr71	YNL189W	1	0		
+Constituent	npr71	YNL192W	1	0		
+Constituent	npr71	YOR092W	1	0		
+Constituent	npr71	YPR156C	1	0		
+Constituent	pde2ra53	YEL043W	1	0		
+Constituent	pde2ra53	YLR305C	1	0		
+Constituent	pde2ra53	YMR219W	1	0		
+Constituent	cdc14ra18	YBL054W	1	0		
+Constituent	cdc14ra18	YBL058W	1	0		
+Constituent	cdc14rd19	YDR145W	1	0		
+Constituent	cdc14rd19	YDR293C	1	0		
+Constituent	cdc14rd19	YER132C	1	0		
+Constituent	cdc14rd19	YHR082C	1	0	Kinase	
+Constituent	cdc14rd19	YKL008C	1	0		
+Constituent	cdc14rd19	YBR130C	1	0		
+Constituent	cdc14rd19	YHR097C	1	0		
+Constituent	cdc14rd19	YKL181W	1	0		
+Constituent	cdc14rd19	YNL098C	1	0		
+Constituent	hog1rd36	YER114C	1	0		
+Constituent	hog1rd36	YIL129C	1	0		
+Constituent	npr72	YAR002W	1	0		
+Constituent	npr72	YBL085W	1	0		
+Constituent	npr72	YBL091CA	1	0		
+Constituent	npr72	YBR086C	1	0		
+Constituent	npr72	YCR073WA	1	0		
+Constituent	npr72	YDR005C	1	0		
+Constituent	npr72	YDR006C	1	0		
+Constituent	npr72	YDR293C	1	0		
+Constituent	npr72	YDR505C	1	0		
+Constituent	npr72	YDR508C	1	0		
+Constituent	npr72	YFR019W	1	0		
+Constituent	npr72	YGR090W	1	0		
+Constituent	npr72	YIL107C	1	0		
+Constituent	npr72	YJL084C	1	0		
+Constituent	npr72	YJR049C	1	0		
+Constituent	npr72	YKL008C	1	0		
+Constituent	npr72	YKL166C	1	0	Kinase	
+Constituent	npr72	YLR310C	1	0		
+Constituent	npr72	YLR410W	1	0		
+Constituent	npr72	YNL074C	1	0		
+Constituent	npr72	YNL298W	1	0	Kinase	
+Constituent	npr72	YOR219C	1	0		
+Constituent	npr72	YPL032C	1	0		
+Constituent	npr72	YPL085W	1	0		
+Constituent	pde2ra54	YJL020C	1	0		
+Constituent	pde2ra54	YML016C	1	0	Phosphatase	
+Constituent	pde2ra54	YBR130C	1	0		
+Constituent	pde2ra54	YHR097C	1	0		
+Constituent	pde2ra54	YKL181W	1	0		
+Constituent	pde2ra54	YNL098C	1	0		
+Constituent	cdc14rd20	YER155C	1	0		
+Constituent	cdc14rd20	YGL021W	1	0	Kinase	
+Constituent	cdc14rd20	YGR008C	1	0		
+Constituent	cdc14rd20	YHR082C	1	0	Kinase	
+Constituent	cdc14rd20	YIL135C	1	0	Yes	
+Constituent	cdc14rd20	YKL101W	1	0	Kinase	
+Constituent	cdc14rd20	YLR096W	1	0	Kinase	
+Constituent	cdc14rd20	YLR371W	1	0		
+Constituent	cdc14rd20	YNR031C	1	0	Kinase	
+Constituent	cdc14rd20	YOR008C	1	0		
+Constituent	cdc14rd20	YOR070C	1	0		
+Constituent	cdc14rd20	YER088C	1	0		
+Constituent	hog1rd37	YNL027W	1	0		
+Constituent	hog1rd37	YER088C	1	0		
+Constituent	npr73	YAL017W	1	0	Kinase	
+Constituent	npr73	YBR001C	1	0		
+Constituent	npr73	YBR028C	1	0	Kinase	
+Constituent	npr73	YBR157C	1	0		
+Constituent	npr73	YBR225W	1	0		
+Constituent	npr73	YBR235W	1	0		
+Constituent	npr73	YCL010C	1	0		
+Constituent	npr73	YCL011C	1	0		
+Constituent	npr73	YCR023C	1	0		
+Constituent	npr73	YCR077C	1	0		
+Constituent	npr73	YDL105W	1	0		
+Constituent	npr73	YDL189W	1	0		
+Constituent	npr73	YDR001C	1	0		
+Constituent	npr73	YDR005C	1	0		
+Constituent	npr73	YDR207C	1	0		
+Constituent	npr73	YDR227W	1	0		
+Constituent	npr73	YDR293C	1	0	Yes	
+Constituent	npr73	YDR422C	1	0		
+Constituent	npr73	YDR436W	1	0	Phosphatase	
+Constituent	npr73	YER088C	1	0		
+Constituent	npr73	YER093C	1	0		
+Constituent	npr73	YER114C	1	0		
+Constituent	npr73	YER132C	1	0		
+Constituent	npr73	YFL004W	1	0		
+Constituent	npr73	YFL042C	1	0		
+Constituent	npr73	YFR034C	1	0		
+Constituent	npr73	YGL197W	1	0		
+Constituent	npr73	YHL003C	1	0		
+Constituent	npr73	YHR009C	1	0		
+Constituent	npr73	YHR082C	1	0	Kinase	
+Constituent	npr73	YHR117W	1	0		
+Constituent	npr73	YIL047C	1	0		
+Constituent	npr73	YIL074C	1	0		
+Constituent	npr73	YJL005W	1	0		
+Constituent	npr73	YJL020C	1	0		
+Constituent	npr73	YJL042W	1	0		
+Constituent	npr73	YJL084C	1	0		
+Constituent	npr73	YJL146W	1	0		
+Constituent	npr73	YJR001W	1	0		
+Constituent	npr73	YJR049C	1	0		
+Constituent	npr73	YKL008C	1	0		
+Constituent	npr73	YKL064W	1	0		
+Constituent	npr73	YKL088W	1	0		
+Constituent	npr73	YKL185W	1	0		
+Constituent	npr73	YKR031C	1	0		
+Constituent	npr73	YLL018C	1	0		
+Constituent	npr73	YLL029W	1	0		
+Constituent	npr73	YLR045C	1	0		
+Constituent	npr73	YLR190W	1	0		
+Constituent	npr73	YLR219W	1	0		
+Constituent	npr73	YLR259C	1	0		
+Constituent	npr73	YLR319C	1	0		
+Constituent	npr73	YLR371W	1	0		
+Constituent	npr73	YLR410W	1	0		
+Constituent	npr73	YMR037C	1	0		
+Constituent	npr73	YMR219W	1	0		
+Constituent	npr73	YNL076W	1	0		
+Constituent	npr73	YNL167C	1	0		
+Constituent	npr73	YOL081W	1	0		
+Constituent	npr73	YOR018W	1	0		
+Constituent	npr73	YOR093C	1	0		
+Constituent	npr73	YOR156C	1	0		
+Constituent	npr73	YOR324C	1	0		
+Constituent	npr73	YOR352W	1	0		
+Constituent	npr73	YPL019C	1	0		
+Constituent	npr73	YPR032W	1	0		
+Constituent	npr73	YPR091C	1	0		
+Constituent	pde2ra55	YKL140W	1	0		
+Constituent	pde2ra55	YLL015W	1	0		
+Constituent	cdc14rd21	YGR278W	1	0		
+Constituent	cdc14rd21	YHL023C	1	0		
+Constituent	cdc14rd21	YLR257W	1	0		
+Constituent	cdc14rd21	YML029W	1	0		
+Constituent	cdc14rd21	YOR204W	1	0		
+Constituent	cdc14rd21	YPR095C	1	0		
+Constituent	hog1rd38	YBL085W	1	0		
+Constituent	hog1rd38	YDR006C	1	0		
+Constituent	hog1rd38	YDR379W	1	0		
+Constituent	hog1rd38	YJL128C	1	0	Kinase	
+Constituent	hog1rd38	YEL046C	1	0		
+Constituent	hog1rd38	YIL129C	1	0		
+Constituent	npr74	YAL031C	1	0		
+Constituent	npr74	YBL051C	1	0		
+Constituent	npr74	YBL085W	1	0		
+Constituent	npr74	YDL070W	1	0		
+Constituent	npr74	YDR186C	1	0		
+Constituent	npr74	YDR326C	1	0		
+Constituent	npr74	YEL015W	1	0		
+Constituent	npr74	YEL022W	1	0		
+Constituent	npr74	YER088C	1	0		
+Constituent	npr74	YER129W	1	0	Kinase	
+Constituent	npr74	YER155C	1	0		
+Constituent	npr74	YGL178W	1	0		
+Constituent	npr74	YGR196C	1	0		
+Constituent	npr74	YGR237C	1	0		
+Constituent	npr74	YHR102W	1	0	Kinase	
+Constituent	npr74	YHR159W	1	0		
+Constituent	npr74	YIL129C	1	0		
+Constituent	npr74	YIL159W	1	0		
+Constituent	npr74	YKL176C	1	0		
+Constituent	npr74	YLR190W	1	0		
+Constituent	npr74	YLR309C	1	0		
+Constituent	npr74	YLR405W	1	0		
+Constituent	npr74	YML017W	1	0		
+Constituent	npr74	YMR086W	1	0		
+Constituent	npr74	YMR261C	1	0		
+Constituent	npr74	YMR275C	1	0		
+Constituent	npr74	YNL267W	1	0		
+Constituent	npr74	YNL271C	1	0		
+Constituent	npr74	YOL059W	1	0		
+Constituent	npr74	YPL020C	1	0		
+Constituent	npr74	YPL137C	1	0		
+Constituent	npr74	YPL155C	1	0		
+Constituent	npr74	YPR185W	1	0		
+Constituent	npr74	YPR190C	1	0		
+Constituent	pde2ra59	YDR310C	1	0		
+Constituent	pde2ra59	YIL047C	1	0		
+Constituent	pde2ra59	YKL112W	1	0		
+Constituent	pde2ra59	YOR204W	1	0		
+Constituent	pde2ra59	YPR095C	1	0		
+Constituent	pde2rd56	YEL046C	1	0		
+Constituent	pde2rd56	YIL129C	1	0		
+Constituent	cdc14ra22	YDL022W	1	0		
+Constituent	cdc14ra22	YML072C	1	0		
+Constituent	cdc14ra22	YOR153W	1	0		
+Constituent	cdc14rd23	YCR002C	1	0		
+Constituent	cdc14rd23	YEL032W	1	0		
+Constituent	cdc14rd23	YER008C	1	0		
+Constituent	cdc14rd23	YER155C	1	0		
+Constituent	cdc14rd23	YFR048W	1	0		
+Constituent	cdc14rd23	YKL101W	1	0	Kinase	
+Constituent	cdc14rd23	YML029W	1	0		
+Constituent	cdc14rd23	YOR093C	1	0		
+Constituent	cdc14rd23	YOR153W	1	0		
+Constituent	cdc14rd23	YPR042C	1	0		
+Constituent	cdc14rd23	YPR156C	1	0		
+Constituent	npr75	YBL007C	1	0		
+Constituent	npr75	YBL051C	1	0		
+Constituent	npr75	YBL054W	1	0		
+Constituent	npr75	YDL022W	1	0		
+Constituent	npr75	YDR182W	1	0		
+Constituent	npr75	YDR293C	1	0		
+Constituent	npr75	YDR348C	1	0		
+Constituent	npr75	YDR389W	1	0		
+Constituent	npr75	YDR436W	1	0	Phosphatase	
+Constituent	npr75	YDR496C	1	0		
+Constituent	npr75	YEL032W	1	0		
+Constituent	npr75	YFL016C	1	0		
+Constituent	npr75	YGL021W	1	0	Kinase	
+Constituent	npr75	YGR054W	1	0		
+Constituent	npr75	YGR138C	1	0	Yes	
+Constituent	npr75	YHL008C	1	0		
+Constituent	npr75	YIL047C	1	0		
+Constituent	npr75	YJR049C	1	0		
+Constituent	npr75	YKL126W	1	0	Kinase	
+Constituent	npr75	YLL028W	1	0	Yes	
+Constituent	npr75	YLR287CA	1	0		
+Constituent	npr75	YML072C	1	0		
+Constituent	npr75	YMR295C	1	0		
+Constituent	npr75	YNR008W	1	0		
+Constituent	npr75	YOL081W	1	0		
+Constituent	npr75	YPL019C	1	0		
+Constituent	npr75	YPR156C	1	0	Yes	
+Constituent	pde2ra57	YER155C	1	0		
+Constituent	pde2ra57	YIL084C	1	0		
+Constituent	pde2ra57	YIL095W	1	0	Kinase	
+Constituent	pde2ra57	YLR138W	1	0		
+Constituent	pde2ra57	YOL059W	1	0		
+Constituent	pde2ra57	YPR156C	1	0		
+Constituent	pde2ra57	YPL019C	1	0		
+Constituent	cdc14rd24	YBL007C	1	0		
+Constituent	cdc14rd24	YDL022W	1	0		
+Constituent	cdc14rd24	YDR186C	1	0		
+Constituent	cdc14rd24	YJL134W	1	0		
+Constituent	cdc14rd24	YPR042C	1	0		
+Constituent	cdc14rd24	YAL031C	1	0		
+Constituent	cdc14rd24	YGR004W	1	0		
+Constituent	cdc14rd24	YLR436C	1	0		
+Constituent	hog1ra39	YOR175C	1	0		
+Constituent	hog1ra39	YJR059W	1	0	Kinase	
+Constituent	hog1ra39	YLR436C	1	0		
+Constituent	hog1ra39	YOR204W	1	0		
+Constituent	hog1rd40	YDL201W	1	0		
+Constituent	hog1rd40	YLR206W	1	0		
+Constituent	hog1rd40	YNR008W	1	0		
+Constituent	hog1rd40	YOL013C	1	0		
+Constituent	hog1rd40	YPL070W	1	0		
+Constituent	npr76	YBL007C	1	0		
+Constituent	npr76	YDL022W	1	0		
+Constituent	npr76	YDR001C	1	0		
+Constituent	npr76	YDR108W	1	0		
+Constituent	npr76	YDR186C	1	0		
+Constituent	npr76	YDR326C	1	0		
+Constituent	npr76	YER040W	1	0		
+Constituent	npr76	YER111C	1	0		
+Constituent	npr76	YER157W	1	0		
+Constituent	npr76	YFR016C	1	0		
+Constituent	npr76	YFR017C	1	0		
+Constituent	npr76	YGR100W	1	0		
+Constituent	npr76	YGR161C	1	0		
+Constituent	npr76	YHL003C	1	0		
+Constituent	npr76	YHR005C	1	0		
+Constituent	npr76	YHR016C	1	0		
+Constituent	npr76	YHR131C	1	0		
+Constituent	npr76	YIR010W	1	0		
+Constituent	npr76	YJL084C	1	0		
+Constituent	npr76	YJR005W	1	0		
+Constituent	npr76	YJR059W	1	0	Kinase|Yes
+Constituent	npr76	YKL146W	1	0		
+Constituent	npr76	YKL168C	1	0	Kinase	
+Constituent	npr76	YKR090W	1	0		
+Constituent	npr76	YLL043W	1	0		
+Constituent	npr76	YLR386W	1	0		
+Constituent	npr76	YMR261C	1	0		
+Constituent	npr76	YNL027W	1	0		
+Constituent	npr76	YNL299W	1	0		
+Constituent	npr76	YNR008W	1	0		
+Constituent	npr76	YNR039C	1	0		
+Constituent	npr76	YNR047W	1	0	Kinase	
+Constituent	npr76	YOR204W	1	0		
+Constituent	npr76	YPL020C	1	0		
+Constituent	npr76	YPL085W	1	0		
+Constituent	npr76	YPL137C	1	0		
+Constituent	pde2ra58	YGL140C	1	0		
+Constituent	pde2ra58	YGL181W	1	0		
+Constituent	pde2ra58	YHL003C	1	0		
+Constituent	pde2ra58	YHR103W	1	0		
+Constituent	pde2ra58	YJL165C	1	0	Kinase	
+Constituent	pde2ra58	YML119W	1	0		
+Constituent	pde2ra58	YAL031C	1	0		
+Constituent	pde2ra58	YBL007C	1	0		
+Constituent	pde2ra58	YGR004W	1	0		
+Constituent	pde2ra58	YJR059W	1	0	Kinase	
+Constituent	pde2ra58	YLR436C	1	0		
+Constituent	pde2ra58	YOR204W	1	0		
+Output	pde2id42	YJL128C	1	0	Kinase|Yes
+Output	hog1id29	YNR047W	1	0	Kinase|Yes
+Output	npr73	YNR047W	1	0	Kinase|Yes
+Shared_Interaction	cdc14rd20	YBL024W	1	0	Yes	
+Shared_Interaction	npr72	YBR298CA	1	0	Yes	
+Shared_Interaction	npi65	YDL027C	1	0	Yes	
+Shared_Interaction	cdc14rd20	YMR285C	1	0	Yes	
+Shared_Interaction	npr69	YCR100C	1	0	Yes	
+Shared_Interaction	cdc14rd20	YIL078W	1	0	Yes	
+Shared_Interaction	cdc14rd20	YER122C	1	0	Yes	
+Shared_Interaction	hog1id29	YLR257W	1	0	Yes	
+Shared_Interaction	hog1id29	YIL135C	1	0	Yes	
+Shared_Interaction	cdc14rd20	YMR155W	1	0	Yes	
+Shared_Interaction	npi63	YLR206W	1	0	Yes	
+Shared_Interaction	hog1id29	YJR056C	1	0	Yes	
+Shared_Interaction	cdc14rd20	YBR273C	1	0	Yes	
+Shared_Interaction	cdc14rd20	YOL125W	1	0	Yes	
+Shared_Interaction	hog1id29	YNR039C	1	0	Yes	
+Shared_Interaction	hog1id29	YKR100C	1	0	Yes	
+Shared_Interaction	cdc14rd20	YOR335C	1	0	Yes	
+Shared_Interaction	cdc14rd20	YML035C	1	0	Yes	
+Shared_Interaction	npi65	YMR053C	1	0	Yes	
+Shared_Interaction	npi65	YAL020C	1	0	Yes	
+Shared_Interaction	cdc14rd20	YPL257WA	1	0	Yes	
+Shared_Interaction	cdc14rd20	YDR034CC	1	0	Yes	
+Shared_Interaction	cdc14rd20	YPR137CA	1	0	Yes	
+Shared_Interaction	cdc14rd20	YLR257W	1	0	Yes	
+Shared_Interaction	cdc14rd20	YDR134C	1	0	Yes	
+Shared_Interaction	cdc14rd20	YBR169C	1	0	Yes	
+Shared_Interaction	npi63	YKR092C	1	0	Yes	
+Shared_Interaction	hog1id29	YJR044C	1	0	Yes	
+Shared_Interaction	cdc14rd20	YIL135C	1	0	Yes	
+Shared_Interaction	cdc14rd20	YMR184W	1	0	Yes	
+Shared_Interaction	cdc14rd20	YER098W	1	0	Yes	
+Shared_Interaction	npi65	YER122C	1	0	Yes	
+Shared_Interaction	cdc14rd20	YBR130C	1	0	Yes	
+Shared_Interaction	npi63	YDR229W	1	0	Yes	
+Shared_Interaction	npr69	YOR239W	1	0	Yes	
+Shared_Interaction	hog1id29	YER122C	1	0	Yes	
+Shared_Interaction	cdc14rd20	YNL136W	1	0	Yes	
+Shared_Interaction	pde2ra58	YPR160W	1	0	Yes	
+Shared_Interaction	npi65	YNL022C	1	0	Yes	
+Shared_Interaction	npi61	YDR023W	1	0	Yes	
+Shared_Interaction	pde2ra58	YBR108W	1	0	Yes	
+Shared_Interaction	cdc14rd20	YMR239C	1	0	Yes	
+Shared_Interaction	hog1id29	YKR090W	1	0	Yes	
+Shared_Interaction	cdc14rd20	YNL064C	1	0	Yes	
+Shared_Interaction	cdc14rd20	YNR006W	1	0	Yes	
+Shared_Interaction	npi65	YBR273C	1	0	Yes	
+Shared_Interaction	npi65	YML083C	1	0	Yes	
+Shared_Interaction	npr69	YGL207W	1	0	Yes	
+Shared_Interaction	cdc14rd20	YDL013W	1	0	Yes	
+Shared_Interaction	cdc14rd20	YDL002C	1	0	Yes	
+Shared_Interaction	hog1id29	YJL051W	1	0	Yes	
+Shared_Interaction	npr69	YDR023W	1	0	Yes	
+Shared_Interaction	cdc14rd20	YNL007C	1	0	Yes	
+Shared_Interaction	npi61	YJR105W	1	0	Yes	
+Shared_Interaction	npi61	YJR142W	1	0	Yes	
+Shared_Interaction	cdc14rd20	YGR276C	1	0	Yes	
+Shared_Interaction	hog1id29	YHR207C	1	0	Yes	
+Shared_Interaction	pde2ra58	YML037C	1	0	Yes	
+Shared_Interaction	cdc14rd20	YGL105W	1	0	Yes	
+Shared_Interaction	pde2ra58	YGL105W	1	0	Yes	
+Shared_Interaction	npr69	YBL047C	1	0	Yes	
+Shared_Interaction	npi63	YGR159C	1	0	Yes	
+Shared_Interaction	npr69	YGR159C	1	0	Yes	
+Shared_Interaction	hog1id29	YNL074C	1	0	Yes	
+Shared_Interaction	hog1id29	YDR169C	1	0	Yes	
+Shared_Interaction	npi65	YNL272C	1	0	Yes	
+Shared_Interaction	npi61	YBL011W	1	0	Yes	
+Shared_Interaction	npi65	YDR330W	1	0	Yes	
+Shared_Interaction	npi65	YBR086C	1	0	Yes	
+Shared_Interaction	npi65	YCR073WA	1	0	Yes	
+Shared_Interaction	npi65	YPR091C	1	0	Yes	
+Shared_Interaction	npr69	YBR108W	1	0	Yes	
+Shared_Interaction	npi61	YNR006W	1	0	Yes	
+Shared_Interaction	npi65	YLR257W	1	0	Yes	
+Shared_Interaction	npi65	YOL091W	1	0	Yes	
+Shared_Interaction	hog1id29	YPR091C	1	0	Yes	
+Shared_Interaction	cdc14rd20	YMR165C	1	0	Yes	
+Shared_Interaction	pde2ra58	YMR165C	1	0	Yes	
+Shared_Interaction	pde2ra58	YDR293C	1	0	Yes	
+Shared_Interaction	npi61	YNL077W	1	0	Yes	
+Shared_Interaction	npi61	YJR141W	1	0	Yes	
+Shared_Interaction	npi61	YMR111C	1	0	Yes	
+Shared_Interaction	pde2ra58	YMR153W	1	0	Yes	
+Shared_Interaction	npi65	YPL217C	1	0	Yes	
+Shared_Interaction	npi65	YIL135C	1	0	Yes	
+Shared_Interaction	npr69	YGR276C	1	0	Yes	
+Shared_Interaction	npr69	YOL139C	1	0	Yes	
+Shared_Interaction	npi63	YGL105W	1	0	Yes	
+Shared_Interaction	npr69	YML037C	1	0	Yes	
+Shared_Interaction	npi65	YHL024W	1	0	Yes	
+Shared_Interaction	npi65	YBR130C	1	0	Yes	
+Shared_Interaction	cdc14rd20	YBR118W	1	0	Yes	
+Shared_Interaction	cdc14rd20	YMR229C	1	0	Yes	
+Shared_Interaction	cdc14rd20	YNL186W	1	0	Yes	
+Shared_Interaction	npi65	YGL207W	1	0	Yes	
+Shared_Interaction	hog1id29	YNL284CA	1	0	Yes	
+Shared_Interaction	hog1id29	YMR184W	1	0	Yes	
+Shared_Interaction	npi61	YDR152W	1	0	Yes	
+Shared_Interaction	npi61	YMR155W	1	0	Yes	
+Shared_Interaction	npi61	YGR276C	1	0	Yes	
+Shared_Interaction	npi65	YGR159C	1	0	Yes	
+Shared_Interaction	npi63	YJL084C	1	0	Yes	
+Shared_Interaction	npr69	YGL245W	1	0	Yes	
+Shared_Interaction	npi61	YML037C	1	0	Yes	
+Shared_Interaction	npi65	YDL149W	1	0	Yes	
+Shared_Interaction	cdc14rd20	YNL272C	1	0	Yes	
+Shared_Interaction	npi61	YNL125C	1	0	Yes	
+Shared_Interaction	npi65	YBL024W	1	0	Yes	
+Shared_Interaction	npi65	YBR108W	1	0	Yes	
+Shared_Interaction	hog1id29	YPR160W	1	0	Yes	
+Shared_Interaction	npr73	YDR259C	1	0	Yes	
+Shared_Interaction	npr69	YER122C	1	0	Yes	
+Shared_Interaction	hog1id29	YBR108W	1	0	Yes	
+Shared_Interaction	npr69	YMR165C	1	0	Yes	
+Shared_Interaction	npi61	YML083C	1	0	Yes	
+Shared_Interaction	npi65	YDL070W	1	0	Yes	
+Shared_Interaction	npr73	YOL125W	1	0	Yes	
+Shared_Interaction	hog1id29	YOL082W	1	0	Yes	
+Shared_Interaction	npi65	YGR276C	1	0	Yes	
+Shared_Interaction	cdc14rd20	YGL207W	1	0	Yes	
+Shared_Interaction	npi65	YML037C	1	0	Yes	
+Shared_Interaction	npi65	YGL105W	1	0	Yes	
+Shared_Interaction	npi65	YAL028W	1	0	Yes	
+Shared_Interaction	npi61	YOR239W	1	0	Yes	
+Shared_Interaction	npi61	YDL223C	1	0	Yes	
+Shared_Interaction	npi65	YGL245W	1	0	Yes	
+Shared_Interaction	npi61	YML096W	1	0	Yes	
+Shared_Interaction	npi61	YGR086C	1	0	Yes	
+Shared_Interaction	npi61	YBR086C	1	0	Yes	
+Shared_Interaction	npi61	YPR137CA	1	0	Yes	
+Shared_Interaction	npi65	YDL153C	1	0	Yes	
+Shared_Interaction	npi65	YMR165C	1	0	Yes	
+Shared_Interaction	npi65	YBR154C	1	0	Yes	
+Shared_Interaction	npi61	YGL051W	1	0	Yes	
+Shared_Interaction	npr73	YLR257W	1	0	Yes	
+Shared_Interaction	npr73	YDR134C	1	0	Yes	
+Shared_Interaction	YGR241C	pde2id43	1	0	Yes	
+Shared_Interaction	YDR162C	pde2ra52	1	0	Yes	
+Shared_Interaction	YNL027W	npr69	1	0	Yes	
+Shared_Interaction	YGR241C	npi60	1	0	Yes	
+Shared_Interaction	YDR151C	hog1id29	1	0	Yes	
+Shared_Interaction	YLR437C	hog1id29	1	0	Yes	
+Shared_Interaction	YOR229W	hog1id29	1	0	Yes	
+Shared_Interaction	YBL064C	cdc14rd20	1	0	Yes	
+Shared_Interaction	YMR020W	npr75	1	0	Yes	
+Shared_Interaction	YOR230W	hog1id29	1	0	Yes	
+Shared_Interaction	YOR273C	npr75	1	0	Yes	
+Shared_Interaction	YER125W	hog1id31	1	0	Yes	
+Shared_Interaction	YLL008W	npi61	1	0	Yes	
+Shared_Interaction	YLR146C	npr75	1	0	Yes	
+Shared_Interaction	YNL025C	npr68	1	0	Yes	
+Shared_Interaction	YNL027W	npi65	1	0	Yes	
+Shared_Interaction	YMR196W	npi63	1	0	Yes	
+Shared_Interaction	YGR086C	npi64	1	0	Yes	
+Shared_Interaction	YMR260C	cdc14ra12	1	0	Yes	
+Shared_Interaction	YML126C	npi62	1	0	Yes	
+Shared_Interaction	YNL272C	npr69	1	0	Yes	
+Shared_Interaction	YBR200W	hog1rd38	1	0	Yes	
+Shared_Interaction	YER033C	hog1rd33	1	0	Yes	
+Shared_Interaction	YJL020C	cdc14id7	1	0	Yes	
+Shared_Interaction	YNL251C	hog1ia30	1	0	Yes	
+Shared_Interaction	YBL067C	npi65	1	0	Yes	
+Shared_Interaction	YNL272C	npi61	1	0	Yes	
+Shared_Interaction	YDR188W	npi61	1	0	Yes	
+Shared_Interaction	YNL323W	npi60	1	0	Yes	
+Shared_Interaction	YLR270W	npi63	1	0	Yes	
+Shared_Interaction	YMR162C	npi60	1	0	Yes	
+Shared_Interaction	YPL004C	npi64	1	0	Yes	
+Shared_Interaction	YDR162C	npr67	1	0	Yes	
+Shared_Interaction	YLR229C	cdc14rd23	1	0	Yes	
+Shared_Interaction	YAR015W	cdc14rd20	1	0	Yes	
+Shared_Interaction	YKL129C	npi61	1	0	Yes	
+Shared_Interaction	YHR158C	hog1id29	1	0	Yes	
+Shared_Interaction	YPR140W	npi60	1	0	Yes	
+Shared_Interaction	YLR006C	pde2id42	1	0	Yes	
+Shared_Interaction	YDR162C	hog1rd38	1	0	Yes	
+Shared_Interaction	YLR345W	pde2ra52	1	0	Yes	
+Shared_Interaction	YPL256C	cdc14rd13	1	0	Yes	
+Shared_Interaction	YPL106C	npi65	1	0	Yes	
+Shared_Interaction	YER098W	npi65	1	0	Yes	
+Shared_Interaction	YNL243W	npi65	1	0	Yes	
+Shared_Interaction	YFR021W	cdc14id3	1	0	Yes	
+Shared_Interaction	YDR162C	pde2id42	1	0	Yes	
+Shared_Interaction	YLR258W	npr69	1	0	Yes	
+Shared_Interaction	YKL067W	hog1id29	1	0	Yes	
+Shared_Interaction	YJR073C	npi60	1	0	Yes	
+Shared_Interaction	YOR163W	npr72	1	0	Yes	
+Shared_Interaction	YBL007C	npi65	1	0	Yes	
+Shared_Interaction	YLL013C	cdc14id9	1	0	Yes	
+Shared_Interaction	YLL021W	npr68	1	0	Yes	
+Shared_Interaction	YGR162W	npi63	1	0	Yes	
+Shared_Interaction	YKL008C	pde2ra58	1	0	Yes	
+Shared_Interaction	YDR381W	npi63	1	0	Yes	
+Shared_Interaction	YHL009C	cdc14rd23	1	0	Yes	
+Shared_Interaction	YER112W	npi63	1	0	Yes	
+Shared_Interaction	YCR027C	npi61	1	0	Yes	
+Shared_Interaction	YPR032W	npi65	1	0	Yes	
+Shared_Interaction	YDR471W	npi64	1	0	Yes	
+Shared_Interaction	YAL041W	hog1rd35	1	0	Yes	
+Shared_Interaction	YJR097W	npi61	1	0	Yes	
+Shared_Interaction	YMR298W	npr73	1	0	Yes	
+Shared_Interaction	YJR047C	npr69	1	0	Yes	
+Shared_Interaction	YGR017W	npr69	1	0	Yes	
+Shared_Interaction	YFR024CA	npi65	1	0	Yes	
+Shared_Interaction	YGR241C	pde2ra58	1	0	Yes	
+Shared_Interaction	YDL203C	cdc14rd20	1	0	Yes	
+Shared_Interaction	YGR162W	hog1ra39	1	0	Yes	
+Shared_Interaction	YMR109W	npi61	1	0	Yes	
+Shared_Interaction	YDL161W	pde2id43	1	0	Yes	
+Shared_Interaction	YPR119W	cdc14rd15	1	0	Yes	
+Shared_Interaction	YGR287C	cdc14rd20	1	0	Yes	
+Shared_Interaction	YLR229C	pde2ra51	1	0	Yes	
+Shared_Interaction	YAL024C	npi61	1	0	Yes	
+Shared_Interaction	YIR006C	npi61	1	0	Yes	
+Shared_Interaction	YOL041C	npi61	1	0	Yes	
+Shared_Interaction	YBR108W	pde2ra50	1	0	Yes	
+Shared_Interaction	YAL041W	hog1rd38	1	0	Yes	
+Shared_Interaction	YCR004C	npi64	1	0	Yes	
+Shared_Interaction	YER118C	pde2id42	1	0	Yes	
+Shared_Interaction	YHR161C	npi63	1	0	Yes	
+Shared_Interaction	YFL023W	cdc14rd20	1	0	Yes	
+Shared_Interaction	YKL035W	npr73	1	0	Yes	
+Shared_Interaction	YAR015W	npi65	1	0	Yes	
+Shared_Interaction	YGR138C	npr75	1	0	Yes	
+Shared_Interaction	YBR154C	pde2ra51	1	0	Yes	
+Shared_Interaction	YDL146W	npr76	1	0	Yes	
+Shared_Interaction	YLR116W	npi63	1	0	Yes	
+Shared_Interaction	YDR432W	hog1ia30	1	0	Yes	
+Shared_Interaction	YER070W	hog1id29	1	0	Yes	
+Shared_Interaction	YLR136C	hog1id29	1	0	Yes	
+Shared_Interaction	YJR083C	npr67	1	0	Yes	
+Shared_Interaction	YHR031C	hog1id29	1	0	Yes	
+Shared_Interaction	YNR024W	cdc14id9	1	0	Yes	
+Shared_Interaction	YAR014C	cdc14rd20	1	0	Yes	
+Shared_Interaction	YGL019W	pde2ra51	1	0	Yes	
+Shared_Interaction	YKL074C	npi63	1	0	Yes	
+Shared_Interaction	YLL008W	npr69	1	0	Yes	
+Shared_Interaction	YOL139C	cdc14id9	1	0	Yes	
+Shared_Interaction	YOR035C	npr68	1	0	Yes	
+Shared_Interaction	YLL003W	npr68	1	0	Yes	
+Shared_Interaction	YLR229C	hog1rd35	1	0	Yes	
+Shared_Interaction	YNL182C	npr66	1	0	Yes	
+Shared_Interaction	YPL020C	npr71	1	0	Yes	
+Shared_Interaction	YGR241C	npi63	1	0	Yes	
+Shared_Interaction	YDL161W	npi60	1	0	Yes	
+Shared_Interaction	YEL012W	npr69	1	0	Yes	
+Shared_Interaction	YOR122C	npr74	1	0	Yes	
+Shared_Interaction	YER177W	npr73	1	0	Yes	
+Shared_Interaction	YBR267W	pde2ra52	1	0	Yes	
+Shared_Interaction	YEL022W	hog1id25	1	0	Yes	
+Shared_Interaction	YJL070C	npr72	1	0	Yes	
+Shared_Interaction	YLR058C	npi64	1	0	Yes	
+Shared_Interaction	YDR135C	pde2ra58	1	0	Yes	
+Shared_Interaction	YPR171W	pde2ra58	1	0	Yes	
+Shared_Interaction	YPL281C	npi61	1	0	Yes	
+Shared_Interaction	YEL055C	npi61	1	0	Yes	
+Shared_Interaction	YGR162W	cdc14id9	1	0	Yes	
+Shared_Interaction	YAL020C	npr67	1	0	Yes	
+Shared_Interaction	YOL112W	npr67	1	0	Yes	
+Shared_Interaction	YBL002W	pde2ra51	1	0	Yes	
+Shared_Interaction	YER112W	cdc14id9	1	0	Yes	
+Shared_Interaction	YLR377C	pde2ra54	1	0	Yes	
+Shared_Interaction	YLR371W	npr68	1	0	Yes	
+Shared_Interaction	YPR129W	npr69	1	0	Yes	
+Shared_Interaction	YJL204C	npi60	1	0	Yes	
+Shared_Interaction	YMR196W	cdc14rd20	1	0	Yes	
+Shared_Interaction	YER036C	hog1ra39	1	0	Yes	
+Shared_Interaction	YLR196W	npi61	1	0	Yes	
+Shared_Interaction	YOR329C	npi65	1	0	Yes	
+Shared_Interaction	YHR161C	npi65	1	0	Yes	
+Shared_Interaction	YPR156C	npr75	1	0	Yes	
+Shared_Interaction	YDR239C	npi65	1	0	Yes	
+Shared_Interaction	YLR229C	hog1rd38	1	0	Yes	
+Shared_Interaction	YJL124C	cdc14id9	1	0	Yes	
+Shared_Interaction	YMR041C	npi64	1	0	Yes	
+Shared_Interaction	YJR070C	npi64	1	0	Yes	
+Shared_Interaction	YDR064W	npi64	1	0	Yes	
+Shared_Interaction	YPL265W	npr72	1	0	Yes	
+Shared_Interaction	YHR016C	pde2ra58	1	0	Yes	
+Shared_Interaction	YGL210W	cdc14rd20	1	0	Yes	
+Shared_Interaction	YDL060W	hog1id28	1	0	Yes	
+Shared_Interaction	YLR207W	npi62	1	0	Yes	
+Shared_Interaction	YPL201C	npr69	1	0	Yes	
+Shared_Interaction	YHR207C	npi63	1	0	Yes	
+Shared_Interaction	YPR181C	hog1rd33	1	0	Yes	
+Shared_Interaction	YJL020C	hog1id29	1	0	Yes	
+Shared_Interaction	YLR345W	hog1id29	1	0	Yes	
+Shared_Interaction	YFL023W	npi61	1	0	Yes	
+Shared_Interaction	YBL007C	npi60	1	0	Yes	
+Shared_Interaction	YNL243W	pde2ra58	1	0	Yes	
+Shared_Interaction	YHR107C	cdc14rd23	1	0	Yes	
+Shared_Interaction	YOL013C	cdc14rd23	1	0	Yes	
+Shared_Interaction	YKR081C	npi61	1	0	Yes	
+Shared_Interaction	YLR229C	npi61	1	0	Yes	
+Shared_Interaction	YLR116W	cdc14id9	1	0	Yes	
+Shared_Interaction	YBL085W	npr69	1	0	Yes	
+Shared_Interaction	YDR162C	npr69	1	0	Yes	
+Shared_Interaction	YKR031C	npi60	1	0	Yes	
+Shared_Interaction	YMR235C	npr69	1	0	Yes	
+Shared_Interaction	YAL013W	npr73	1	0	Yes	
+Shared_Interaction	YLR229C	pde2id42	1	0	Yes	
+Shared_Interaction	YNL078W	pde2ra52	1	0	Yes	
+Shared_Interaction	YNL243W	pde2id43	1	0	Yes	
+Shared_Interaction	YBR200W	npr69	1	0	Yes	
+Shared_Interaction	YGL207W	pde2ra51	1	0	Yes	
+Shared_Interaction	YKL074C	cdc14id9	1	0	Yes	
+Shared_Interaction	YJL138C	npi64	1	0	Yes	
+Shared_Interaction	YJL080C	cdc14rd23	1	0	Yes	
+Shared_Interaction	YDL153C	npr67	1	0	Yes	
+Shared_Interaction	YKR055W	npr74	1	0	Yes	
+Shared_Interaction	YCL027W	npr74	1	0	Yes	
+Shared_Interaction	YOR260W	npr69	1	0	Yes	
+Shared_Interaction	YPL178W	npi63	1	0	Yes	
+Shared_Interaction	YBR126C	npi61	1	0	Yes	
+Shared_Interaction	YPR032W	cdc14rd20	1	0	Yes	
+Shared_Interaction	YCR030C	npr71	1	0	Yes	
+Shared_Interaction	YDL203C	npi65	1	0	Yes	
+Shared_Interaction	YGR241C	npi65	1	0	Yes	
+Shared_Interaction	YLR314C	cdc14rd23	1	0	Yes	
+Shared_Interaction	YBR200W	hog1rd35	1	0	Yes	
+Shared_Interaction	YBL007C	hog1id32	1	0	Yes	
+Shared_Interaction	YER177W	hog1id27	1	0	Yes	
+Shared_Interaction	YDL203C	hog1id29	1	0	Yes	
+Shared_Interaction	YGR238C	hog1id29	1	0	Yes	
+Shared_Interaction	YAL024C	npr68	1	0	Yes	
+Shared_Interaction	YBL061C	npr68	1	0	Yes	
+Shared_Interaction	YEL013W	npr70	1	0	Yes	
+Shared_Interaction	YOR181W	npr68	1	0	Yes	
+Shared_Interaction	YDR224C	pde2ra51	1	0	Yes	
+Shared_Interaction	YOL013C	npi62	1	0	Yes	
+Shared_Interaction	YGR287C	npi65	1	0	Yes	
+Shared_Interaction	YNL243W	npr71	1	0	Yes	
+Shared_Interaction	YNL243W	npi61	1	0	Yes	
+Shared_Interaction	YLR229C	npr74	1	0	Yes	
+Shared_Interaction	YKL008C	npr76	1	0	Yes	
+Shared_Interaction	YDR099W	pde2ra50	1	0	Yes	
+Shared_Interaction	YMR068W	npr68	1	0	Yes	
+Shared_Interaction	YIR006C	pde2ra58	1	0	Yes	
+Shared_Interaction	YDR162C	npr72	1	0	Yes	
+Shared_Interaction	YDL117W	hog1id29	1	0	Yes	
+Shared_Interaction	YBL047C	npr71	1	0	Yes	
+Shared_Interaction	YPL004C	npi63	1	0	Yes	
+Shared_Interaction	YOR212W	npr69	1	0	Yes	
+Shared_Interaction	YHR016C	npi60	1	0	Yes	
+Shared_Interaction	YDR293C	npr73	1	0	Yes	
+Shared_Interaction	YIL084C	npr73	1	0	Yes	
+Shared_Interaction	YJL076W	hog1rd33	1	0	Yes	
+Shared_Interaction	YDL161W	npr66	1	0	Yes	
+Shared_Interaction	YPL077C	npi64	1	0	Yes	
+Shared_Interaction	YDR135C	hog1id32	1	0	Yes	
+Shared_Interaction	YHR010W	npi64	1	0	Yes	
+Shared_Interaction	YHR207C	npi65	1	0	Yes	
+Shared_Interaction	YDR096W	npi61	1	0	Yes	
+Shared_Interaction	YOR294W	npi61	1	0	Yes	
+Shared_Interaction	YLR055C	cdc14rd19	1	0	Yes	
+Shared_Interaction	YER149C	npi61	1	0	Yes	
+Shared_Interaction	YPL177C	npi61	1	0	Yes	
+Shared_Interaction	YNL090W	npi61	1	0	Yes	
+Shared_Interaction	YOR326W	npr66	1	0	Yes	
+Shared_Interaction	YNL243W	npi63	1	0	Yes	
+Shared_Interaction	YNL243W	npi60	1	0	Yes	
+Shared_Interaction	YGR240C	hog1id27	1	0	Yes	
+Shared_Interaction	YDR099W	hog1id31	1	0	Yes	
+Shared_Interaction	YJR065C	hog1id32	1	0	Yes	
+Shared_Interaction	YKR072C	npr73	1	0	Yes	
+Shared_Interaction	YDR212W	npr67	1	0	Yes	
+Shared_Interaction	YMR068W	hog1id29	1	0	Yes	
+Shared_Interaction	YOL108C	npr67	1	0	Yes	
+Shared_Interaction	YDR096W	npr73	1	0	Yes	
+Shared_Interaction	YER016W	npr73	1	0	Yes	
+Shared_Interaction	YDL029W	npr71	1	0	Yes	
+Shared_Interaction	YBL085W	npi65	1	0	Yes	
+Shared_Interaction	YLL028W	npr75	1	0	Yes	
+Shared_Interaction	YPL094C	npi65	1	0	Yes	
+Shared_Interaction	YCR002C	npi60	1	0	Yes	
+Shared_Interaction	YDR075W	npr72	1	0	Yes	
+Shared_Interaction	YMR239C	npr71	1	0	Yes	
+Shared_Interaction	YHR016C	hog1id32	1	0	Yes	
+Shared_Interaction	YKR048C	npi61	1	0	Yes	
+Shared_Interaction	YIR006C	npr70	1	0	Yes	
+Shared_Interaction	YDL155W	pde2ra52	1	0	Yes	
+Shared_Interaction	YHR107C	npi60	1	0	Yes	
+Shared_Interaction	YNL118C	npr69	1	0	Yes	
+Shared_Interaction	YGL207W	pde2ra50	1	0	Yes	
+Shared_Interaction	YIL159W	npr67	1	0	Yes	
+Shared_Interaction	YGL016W	hog1id29	1	0	Yes	
+Shared_Interaction	YAR014C	hog1id29	1	0	Yes	
+Shared_Interaction	YNL027W	cdc14rd20	1	0	Yes	
+Shared_Interaction	YGR162W	pde2ra58	1	0	Yes	
+Shared_Interaction	YPR032W	npi61	1	0	Yes	
+Shared_Interaction	YLR229C	pde2ra52	1	0	Yes	
+Shared_Interaction	YMR304W	npi65	1	0	Yes	
+Shared_Interaction	YML048W	npi65	1	0	Yes	
+Shared_Interaction	YCR052W	hog1id27	1	0	Yes	
+Shared_Interaction	YBR200W	pde2id42	1	0	Yes	
+Shared_Interaction	YOR329C	npr70	1	0	Yes	
+Shared_Interaction	YDR516C	npr70	1	0	Yes	
+Shared_Interaction	YJL070C	npr70	1	0	Yes	
+Shared_Interaction	YMR205C	npi64	1	0	Yes	
+Shared_Interaction	YDR238C	hog1id31	1	0	Yes	
+Shared_Interaction	YLL021W	npi60	1	0	Yes	
+Shared_Interaction	YPR032W	npr69	1	0	Yes	
+Shared_Interaction	YNL078W	npr69	1	0	Yes	
+Shared_Interaction	YOR361C	npi63	1	0	Yes	
+Shared_Interaction	YOL146W	npr66	1	0	Yes	
+Shared_Interaction	YOL139C	npi62	1	0	Yes	
+Shared_Interaction	YPR171W	npr68	1	0	Yes	
+Shared_Interaction	YDR135C	npr68	1	0	Yes	
+Shared_Interaction	YOR181W	npr66	1	0	Yes	
+Shared_Interaction	YHR114W	npi61	1	0	Yes	
+Shared_Interaction	YDR074W	npi61	1	0	Yes	
+Shared_Interaction	YOR224C	cdc14rd20	1	0	Yes	
+Shared_Interaction	YBR084W	npr67	1	0	Yes	
+Shared_Interaction	YAL041W	npr69	1	0	Yes	
+Shared_Interaction	YJL080C	npi63	1	0	Yes	
+Shared_Interaction	YFR024CA	npi63	1	0	Yes	
+Shared_Interaction	YCR002C	hog1id32	1	0	Yes	
+Shared_Interaction	YJR076C	cdc14rd23	1	0	Yes	
+Shared_Interaction	YKL023W	npr72	1	0	Yes	
+Shared_Interaction	YIR006C	npr71	1	0	Yes	
+Shared_Interaction	YBR140C	npr73	1	0	Yes	
+Shared_Interaction	YCR030C	npr68	1	0	Yes	
+Shared_Interaction	YLR314C	npi60	1	0	Yes	
+Shared_Interaction	YKL130C	npr69	1	0	Yes	
+Shared_Interaction	YLR314C	npr69	1	0	Yes	
+Shared_Interaction	YHR107C	hog1id32	1	0	Yes	
+Shared_Interaction	YIL070C	npi61	1	0	Yes	
+Shared_Interaction	YJL098W	npr70	1	0	Yes	
+Shared_Interaction	YMR196W	npi65	1	0	Yes	
+Shared_Interaction	YDR188W	npi65	1	0	Yes	
+Shared_Interaction	YER167W	hog1id29	1	0	Yes	
+Shared_Interaction	YMR109W	npi60	1	0	Yes	
+Shared_Interaction	YML031W	npi63	1	0	Yes	
+Shared_Interaction	YDR388W	cdc14rd24	1	0	Yes	
+Shared_Interaction	YHR016C	npr68	1	0	Yes	
+Shared_Interaction	YNL078W	hog1id32	1	0	Yes	
+Shared_Interaction	YKL180W	npi64	1	0	Yes	
+Shared_Interaction	YDL029W	hog1id32	1	0	Yes	
+Shared_Interaction	YBR109C	pde2ra57	1	0	Yes	
+Shared_Interaction	YML074C	npi61	1	0	Yes	
+Shared_Interaction	YDL220C	cdc14rd20	1	0	Yes	
+Shared_Interaction	YJR001W	npr76	1	0	Yes	
+Shared_Interaction	YHR016C	npi65	1	0	Yes	
+Shared_Interaction	YIR006C	npi63	1	0	Yes	
+Shared_Interaction	YIR006C	npi60	1	0	Yes	
+Shared_Interaction	YHR161C	npi61	1	0	Yes	
+Shared_Interaction	YJL020C	npi61	1	0	Yes	
+Shared_Interaction	YOR329C	npi61	1	0	Yes	
+Shared_Interaction	YOR201C	npi61	1	0	Yes	
+Shared_Interaction	YMR196W	hog1id29	1	0	Yes	
+Shared_Interaction	YBR267W	npr67	1	0	Yes	
+Shared_Interaction	YDR208W	hog1id29	1	0	Yes	
+Shared_Interaction	YKL079W	npr74	1	0	Yes	
+Shared_Interaction	YOR141C	cdc14rd20	1	0	Yes	
+Shared_Interaction	YMR086W	npi64	1	0	Yes	
+Shared_Interaction	YBR079C	npr70	1	0	Yes	
+Shared_Interaction	YER072W	npr73	1	0	Yes	
+Shared_Interaction	YDL076C	npr73	1	0	Yes	
+Shared_Interaction	YPL012W	npi61	1	0	Yes	
+Shared_Interaction	YKL129C	npi65	1	0	Yes	
+Shared_Interaction	YMR205C	npi65	1	0	Yes	
+Shared_Interaction	YAL026C	npr75	1	0	Yes	
+Shared_Interaction	YNL273W	npr66	1	0	Yes	
+Shared_Interaction	YGL113W	npr66	1	0	Yes	
+Shared_Interaction	YFR021W	hog1id27	1	0	Yes	
+Shared_Interaction	YLR314C	hog1id32	1	0	Yes	
+Shared_Interaction	YHR016C	npr67	1	0	Yes	
+Shared_Interaction	YHR186C	cdc14rd20	1	0	Yes	
+Shared_Interaction	YJL005W	npr76	1	0	Yes	
+Shared_Interaction	YHL034C	npi63	1	0	Yes	
+Shared_Interaction	YOL139C	npi63	1	0	Yes	
+Shared_Interaction	YGL008C	npi63	1	0	Yes	
+Shared_Interaction	YBL007C	npi61	1	0	Yes	
+Shared_Interaction	YDR432W	npi63	1	0	Yes	
+Shared_Interaction	YFL039C	hog1id32	1	0	Yes	
+Shared_Interaction	YLR258W	npi63	1	0	Yes	
+Shared_Interaction	YCR002C	npi65	1	0	Yes	
+Shared_Interaction	YMR032W	hog1id29	1	0	Yes	
+Shared_Interaction	YKL108W	npr66	1	0	Yes	
+Shared_Interaction	YJR046W	npr66	1	0	Yes	
+Shared_Interaction	YDR052C	npr66	1	0	Yes	
+Shared_Interaction	YOL066C	npi61	1	0	Yes	
+Shared_Interaction	YIL104C	npi61	1	0	Yes	
+Shared_Interaction	YPR171W	npr76	1	0	Yes	
+Shared_Interaction	YGR130C	npi63	1	0	Yes	
+Shared_Interaction	YAL041W	npr72	1	0	Yes	
+Shared_Interaction	YDR432W	cdc14id9	1	0	Yes	
+Shared_Interaction	YNL002C	npi61	1	0	Yes	
+Shared_Interaction	YLR229C	npr70	1	0	Yes	
+Shared_Interaction	YER118C	hog1id29	1	0	Yes	
+Shared_Interaction	YBR079C	npi63	1	0	Yes	
+Shared_Interaction	YPL256C	npr69	1	0	Yes	
+Shared_Interaction	YBR182C	npr73	1	0	Yes	
+Shared_Interaction	YCL061C	npr66	1	0	Yes	
+Shared_Interaction	YBR200W	npr66	1	0	Yes	
+Shared_Interaction	YCR030C	npr76	1	0	Yes	
+Shared_Interaction	YMR196W	npr76	1	0	Yes	
+Shared_Interaction	YLR258W	npi61	1	0	Yes	
+Shared_Interaction	YLR377C	npr69	1	0	Yes	
+Shared_Interaction	YKR002W	npr68	1	0	Yes	
+Shared_Interaction	YML121W	hog1id27	1	0	Yes	
+Shared_Interaction	YNL287W	hog1id31	1	0	Yes	
+Shared_Interaction	YGR200C	npr72	1	0	Yes	
+Shared_Interaction	YDL155W	npr69	1	0	Yes	
+Shared_Interaction	YIL150C	npr66	1	0	Yes	
+Shared_Interaction	YLR423C	npr66	1	0	Yes	
+Shared_Interaction	YJL072C	npr66	1	0	Yes	
+Shared_Interaction	YHR183W	npi61	1	0	Yes	
+Shared_Interaction	YGL115W	npi61	1	0	Yes	
+Shared_Interaction	YDL019C	npi61	1	0	Yes	
+Shared_Interaction	YGR238C	npi61	1	0	Yes	
+Shared_Interaction	YLR305C	npi61	1	0	Yes	
+Shared_Interaction	YHL009C	npi61	1	0	Yes	
+Shared_Interaction	YBL097W	npr70	1	0	Yes	
+Shared_Interaction	YOL083W	npr70	1	0	Yes	
+Shared_Interaction	YGR021W	npr70	1	0	Yes	
+Shared_Interaction	YJL080C	npi65	1	0	Yes	
+Shared_Interaction	YMR239C	npi65	1	0	Yes	
+Shared_Interaction	YPR072W	npi61	1	0	Yes	
+Shared_Interaction	YBR034C	npr68	1	0	Yes	
+Shared_Interaction	YCR088W	npr76	1	0	Yes	
+Shared_Interaction	YJL124C	npi63	1	0	Yes	
+Shared_Interaction	YLR229C	npr69	1	0	Yes	
+Shared_Interaction	YKL129C	npr74	1	0	Yes	
+Shared_Interaction	YMR032W	npr74	1	0	Yes	
+Shared_Interaction	YNL078W	npr67	1	0	Yes	
+Shared_Interaction	YPR032W	npr67	1	0	Yes	
+Shared_Interaction	YDL042C	npr66	1	0	Yes	
+Shared_Interaction	YER036C	pde2ra58	1	0	Yes	
+Shared_Interaction	YGR130C	npi64	1	0	Yes	
+Shared_Interaction	YGL115W	npr73	1	0	Yes	
+Shared_Interaction	YHL024W	npr66	1	0	Yes	
+Shared_Interaction	YDL153C	npr69	1	0	Yes	
+Shared_Interaction	YCR077C	npi63	1	0	Yes	
+Shared_Interaction	YLR314C	npi65	1	0	Yes	
+Shared_Interaction	YNL027W	npi61	1	0	Yes	
+Shared_Interaction	YDR225W	cdc14rd15	1	0	Yes	
+Shared_Interaction	YML121W	hog1id31	1	0	Yes	
+Shared_Interaction	YBR108W	npr67	1	0	Yes	
+Shared_Interaction	YPR119W	npr66	1	0	Yes	
+Shared_Interaction	YOR083W	npr76	1	0	Yes	
+Shared_Interaction	YIL033C	npr76	1	0	Yes	
+Shared_Interaction	YLR452C	npr74	1	0	Yes	
+Shared_Interaction	YAR014C	npr70	1	0	Yes	
+Shared_Interaction	YOR054C	npr70	1	0	Yes	
+Shared_Interaction	YIR006C	npr68	1	0	Yes	
+Shared_Interaction	YPR135W	npr66	1	0	Yes	
+Shared_Interaction	YJR076C	npi60	1	0	Yes	
+Shared_Interaction	YDR388W	pde2ra58	1	0	Yes	
+Shared_Interaction	YBL007C	pde2id43	1	0	Yes	
+Shared_Interaction	YOR181W	npr71	1	0	Yes	
+Shared_Interaction	YLR314C	npr67	1	0	Yes	
+Shared_Interaction	YPR115W	npi63	1	0	Yes	
+Shared_Interaction	YDR293C	npr69	1	0	Yes	
+Shared_Interaction	YDR293C	npi63	1	0	Yes	
+Shared_Interaction	YKL135C	npr76	1	0	Yes	
+Shared_Interaction	YGL181W	npr76	1	0	Yes	
+Shared_Interaction	YIR006C	npi65	1	0	Yes	
+Shared_Interaction	YER125W	npr76	1	0	Yes	
+Shared_Interaction	YFL039C	npr68	1	0	Yes	
+Shared_Interaction	YGL207W	npr66	1	0	Yes	
+Shared_Interaction	YPR032W	npr66	1	0	Yes	
+Shared_Interaction	YER151C	hog1id27	1	0	Yes	
+Shared_Interaction	YMR153W	npr69	1	0	Yes	
+Shared_Interaction	YOR141C	npr69	1	0	Yes	
+Shared_Interaction	YML031W	hog1id29	1	0	Yes	
+Shared_Interaction	YCR093W	npr67	1	0	Yes	
+Shared_Interaction	YBR084W	npr70	1	0	Yes	
+Shared_Interaction	YOR244W	pde2id47	1	0	Yes	
+Shared_Interaction	YPR119W	pde2ra58	1	0	Yes	
+Shared_Interaction	YLR319C	npr74	1	0	Yes	
+Shared_Interaction	YEL013W	npr74	1	0	Yes	
+Shared_Interaction	YGR218W	npr66	1	0	Yes	
+Shared_Interaction	YDR013W	npr66	1	0	Yes	
+Shared_Interaction	YHR023W	npi61	1	0	Yes	
+Shared_Interaction	YKR092C	npi61	1	0	Yes	
+Shared_Interaction	YGR078C	npi61	1	0	Yes	
+Shared_Interaction	YBR234C	npi61	1	0	Yes	
+Shared_Interaction	YJR053W	npi61	1	0	Yes	
+Shared_Interaction	YJL138C	npi61	1	0	Yes	
+Shared_Interaction	YDR299W	npi61	1	0	Yes	
+Shared_Interaction	YGR021W	npi61	1	0	Yes	
+Shared_Interaction	YFL023W	pde2id43	1	0	Yes	
+Shared_Interaction	YFL023W	hog1id28	1	0	Yes	
+Shared_Interaction	YPL012W	hog1id29	1	0	Yes	
+Shared_Interaction	YPR181C	hog1id31	1	0	Yes	
+Shared_Interaction	YGL173C	npr75	1	0	Yes	
+Shared_Interaction	YOR181W	npr70	1	0	Yes	
+Shared_Interaction	YOR244W	npi60	1	0	Yes	
+Shared_Interaction	YDL149W	npr76	1	0	Yes	
+Shared_Interaction	YNL025C	npr72	1	0	Yes	
+Shared_Interaction	YJR005W	npr73	1	0	Yes	
+Shared_Interaction	YKL146W	npr73	1	0	Yes	
+Shared_Interaction	YEL015W	npr73	1	0	Yes	
+Shared_Interaction	YBR112C	npr68	1	0	Yes	
+Shared_Interaction	YLR258W	npi65	1	0	Yes	
+Shared_Interaction	YKR048C	npr69	1	0	Yes	
+Shared_Interaction	YDL155W	npr72	1	0	Yes	
+Shared_Interaction	YOL139C	npr67	1	0	Yes	
+Shared_Interaction	YGL008C	hog1id29	1	0	Yes	
+Shared_Interaction	YJL039C	npi64	1	0	Yes	
+Shared_Interaction	YBR108W	npr76	1	0	Yes	
+Shared_Interaction	YFR024CA	npr76	1	0	Yes	
+Shared_Interaction	YNL006W	npr66	1	0	Yes	
+Shared_Interaction	YLR229C	npr72	1	0	Yes	
+Shared_Interaction	YBR031W	npr72	1	0	Yes	
+Shared_Interaction	YDR188W	npr70	1	0	Yes	
+Shared_Interaction	YLL039C	hog1id25	1	0	Yes	
+Shared_Interaction	YGR218W	npr73	1	0	Yes	
+Shared_Interaction	YBL007C	npr71	1	0	Yes	
+Shared_Interaction	YFL038C	hog1id29	1	0	Yes	
+Shared_Interaction	YNR052C	npr67	1	0	Yes	
+Shared_Interaction	YGL206C	npr67	1	0	Yes	
+Shared_Interaction	YPR181C	npi65	1	0	Yes	
+Shared_Interaction	YBR202W	npr66	1	0	Yes	
+Shared_Interaction	YLR103C	npr66	1	0	Yes	
+Shared_Interaction	YCR077C	npr72	1	0	Yes	
+Shared_Interaction	YMR263W	npr73	1	0	Yes	
+Shared_Interaction	YPL094C	npr73	1	0	Yes	
+Shared_Interaction	YOR054C	npr73	1	0	Yes	
+Shared_Interaction	YBR109C	hog1id28	1	0	Yes	
+Shared_Interaction	YPR072W	npr67	1	0	Yes	
+Shared_Interaction	YBR112C	npr67	1	0	Yes	
+Shared_Interaction	YHR170W	hog1id31	1	0	Yes	
+Shared_Interaction	YOR260W	npi61	1	0	Yes	
+Shared_Interaction	YML069W	npr66	1	0	Yes	
+Shared_Interaction	YDR489W	npr66	1	0	Yes	
+Shared_Interaction	YNL287W	npr76	1	0	Yes	
+Shared_Interaction	YMR140W	npr76	1	0	Yes	
+Shared_Interaction	YOR212W	npr70	1	0	Yes	
+Shared_Interaction	YMR117C	npr68	1	0	Yes	
+Shared_Interaction	YOR326W	npr73	1	0	Yes	
+Shared_Interaction	YOR224C	npi65	1	0	Yes	
+Shared_Interaction	YNL027W	npr67	1	0	Yes	
+Shared_Interaction	YER177W	npr69	1	0	Yes	
+Shared_Interaction	YNL272C	npi63	1	0	Yes	
+Shared_Interaction	YER177W	npi63	1	0	Yes	
+Shared_Interaction	YPL093W	npi61	1	0	Yes	
+Shared_Interaction	YMR049C	npi61	1	0	Yes	
+Shared_Interaction	YLR274W	npr66	1	0	Yes	
+Shared_Interaction	YIL109C	npr76	1	0	Yes	
+Shared_Interaction	YNL025C	npr67	1	0	Yes	
+Shared_Interaction	YDR099W	npr69	1	0	Yes	
+Shared_Interaction	YBL007C	npi63	1	0	Yes	
+Shared_Interaction	YER036C	npi63	1	0	Yes	
+Shared_Interaction	YBL007C	npr69	1	0	Yes	
+Shared_Interaction	YLR423C	npr70	1	0	Yes	
+Shared_Interaction	YKL129C	npr70	1	0	Yes	
+Shared_Interaction	YER177W	npr70	1	0	Yes	
+Shared_Interaction	YDR028C	npi61	1	0	Yes	
+Shared_Interaction	YHR158C	npi61	1	0	Yes	
+Shared_Interaction	YHR165C	npr69	1	0	Yes	
+Shared_Interaction	YDL155W	npr67	1	0	Yes	
+Shared_Interaction	YAL021C	npr67	1	0	Yes	
+Shared_Interaction	YJR112W	npr76	1	0	Yes	
+Shared_Interaction	YIL106W	npi65	1	0	Yes	
+Shared_Interaction	YNL216W	npr66	1	0	Yes	
+Shared_Interaction	YDR075W	npr73	1	0	Yes	
+Shared_Interaction	YER118C	npr70	1	0	Yes	
+Shared_Interaction	YGL008C	npr76	1	0	Yes	
+Shared_Interaction	YBL007C	npr70	1	0	Yes	
+Shared_Interaction	YOR181W	npi61	1	0	Yes	
+Shared_Interaction	YHR052W	npi61	1	0	Yes	
+Shared_Interaction	YGL111W	npi63	1	0	Yes	
+Shared_Interaction	YDL225W	npi61	1	0	Yes	
+Shared_Interaction	YNL084C	npi61	1	0	Yes	
+Shared_Interaction	YJR065C	npi61	1	0	Yes	
+Shared_Interaction	YGL201C	npr66	1	0	Yes	
+Shared_Interaction	YHR186C	npr73	1	0	Yes	
+Shared_Interaction	YFL009W	npr76	1	0	Yes	
+Shared_Interaction	YFL038C	npr76	1	0	Yes	
+Shared_Interaction	YGL206C	npr76	1	0	Yes	
+Shared_Interaction	YDR293C	npi65	1	0	Yes	
+Shared_Interaction	YKR048C	hog1id31	1	0	Yes	
+Shared_Interaction	YER177W	npi64	1	0	Yes	
+Shared_Interaction	YLR377C	npr66	1	0	Yes	
+Shared_Interaction	YNL025C	npr66	1	0	Yes	
+Shared_Interaction	YDR510W	npr69	1	0	Yes	
+Shared_Interaction	YNL097C	npr73	1	0	Yes	
+motif_match	YJL164C	npr73	1	0	Kinase|Yes
+motif_match	YJR059W	npr73	1	0	Kinase|Yes
+unknown_recognition_motif	YGL059W	npr73	1	0	Kinase|Yes
+unknown_recognition_motif	YGL059W	npr72	1	0	Kinase|Yes
+motif_unmatched	YJR059W	npr72	1	0	Kinase|Yes
+motif_match	YJL164C	npr72	1	0	Kinase|Yes
+motif_match	YPL203W	npr73	1	0	Kinase|Yes
+motif_unmatched	YJR059W	npr76	1	0	Kinase|Yes
+motif_match	YLR113W	pde2id42	1	0	Kinase|Yes
+motif_match	YHR030C	cdc14rd20	1	0	Kinase|Yes
+unknown_recognition_motif	YGL059W	cdc14rd19	1	0	Kinase|Yes
+motif_unmatched	YAR019C	npi61	1	0	Kinase|Yes
+motif_match	YBR160W	npr66	1	0	Kinase|Yes
+motif_match	YKL101W	pde2ra52	1	0	Kinase|Yes
+motif_unmatched	YMR139W	pde2ra52	1	0	Kinase|Yes
+motif_unmatched	YJR059W	npi63	1	0	Kinase|Yes
+motif_match	YJL164C	cdc14rd19	1	0	Kinase|Yes
+motif_unmatched	YNL307C	npr72	1	0	Kinase|Yes
+motif_unmatched	YJR059W	hog1rd33	1	0	Kinase|Yes
+motif_unmatched	YNL154C	npr72	1	0	Kinase|Yes
+motif_match	YLR248W	npr76	1	0	Kinase|Yes
+motif_unmatched	YFR014C	npr73	1	0	Kinase|Yes
+motif_match	YJL164C	pde2ra54	1	0	Kinase|Yes
+unknown_recognition_motif	YJR066W	npr66	1	0	Kinase|Yes
+motif_unmatched	YDL017W	npr66	1	0	Kinase|Yes
+unknown_recognition_motif	YLR362W	npi63	1	0	Kinase|Yes
+unknown_recognition_motif	YNR031C	pde2id42	1	0	Kinase|Yes
+unknown_recognition_motif	YGL059W	npi63	1	0	Kinase|Yes
+motif_unmatched	YHR135C	pde2ra52	1	0	Kinase|Yes
+motif_unmatched	YHR135C	cdc14rd15	1	0	Kinase|Yes
+motif_unmatched	YMR139W	npr69	1	0	Kinase|Yes
+motif_unmatched	YGL180W	npr72	1	0	Kinase|Yes
+motif_match	YHL007C	npr69	1	0	Kinase|Yes
+motif_unmatched	YPL153C	pde2id42	1	0	Kinase|Yes
+motif_match	YKL166C	npi63	1	0	Kinase|Yes
+unknown_recognition_motif	YMR291W	cdc14rd19	1	0	Kinase|Yes
+unknown_recognition_motif	YKL161C	cdc14rd20	1	0	Kinase|Yes
+motif_unmatched	YDR507C	npi61	1	0	Kinase|Yes
+unknown_recognition_motif	YNL183C	hog1id31	1	0	Kinase|Yes
+unknown_recognition_motif	YGL059W	npr76	1	0	Kinase|Yes
+unknown_recognition_motif	YNL161W	pde2ra50	1	0	Kinase|Yes
+motif_unmatched	YPL031C	pde2ra54	1	0	Kinase|Yes
+motif_unmatched	YPL031C	pde2ra54	1	0	Kinase|Yes
+motif_unmatched	YPL031C	pde2ra54	1	0	Kinase|Yes
+unknown_recognition_motif	YKL168C	hog1id29	1	0	Kinase|Yes
+motif_unmatched	YGL180W	pde2ra52	1	0	Kinase|Yes
+motif_unmatched	YGL180W	cdc14rd15	1	0	Kinase|Yes
+motif_match	YHR205W	npr73	1	0	Kinase|Yes
+motif_match	YKL101W	cdc14rd15	1	0	Kinase|Yes
+unknown_recognition_motif	YBL009W	npr68	1	0	Kinase|Yes
+unknown_recognition_motif	YNL161W	hog1rd33	1	0	Kinase|Yes
+motif_match	YPL203W	npr68	1	0	Kinase|Yes
+unknown_recognition_motif	YLR362W	pde2id42	1	0	Kinase|Yes
+motif_unmatched	YIL095W	pde2id43	1	0	Kinase|Yes
+unknown_recognition_motif	YNL161W	npi61	1	0	Kinase|Yes
+motif_unmatched	YBR160W	npr74	1	0	Kinase|Yes
+motif_unmatched	YHL007C	cdc14rd15	1	0	Kinase|Yes
+unknown_recognition_motif	YHR079C	npr75	1	0	Kinase|Yes
+motif_unmatched	YBL016W	npr74	1	0	Kinase|Yes
+motif_unmatched	YLR248W	pde2id42	1	0	Kinase|Yes
+motif_match	YHL007C	npr72	1	0	Kinase|Yes
+unknown_recognition_motif	YGL059W	cdc14rd20	1	0	Kinase|Yes
+motif_match	YJL164C	npr76	1	0	Kinase|Yes
+motif_unmatched	YNL154C	npi63	1	0	Kinase|Yes
+motif_match	YOR351C	npr73	1	0	Kinase|Yes
+motif_unmatched	YMR139W	npr67	1	0	Kinase|Yes
+motif_unmatched	YPL203W	npr67	1	0	Kinase|Yes
+motif_unmatched	YBR160W	npr76	1	0	Kinase|Yes
+unknown_recognition_motif	YGL059W	npi65	1	0	Kinase|Yes
+motif_unmatched	YNL154C	npr76	1	0	Kinase|Yes
+motif_match	YPL153C	pde2ra52	1	0	Kinase|Yes
+unknown_recognition_motif	YPL026C	npr72	1	0	Kinase|Yes
+unknown_recognition_motif	YNR031C	npi61	1	0	Kinase|Yes
+motif_match	YBR160W	npr67	1	0	Kinase|Yes
+motif_unmatched	YPL031C	npr73	1	0	Kinase|Yes
+motif_unmatched	YPL031C	npr73	1	0	Kinase|Yes
+motif_unmatched	YPL031C	npr73	1	0	Kinase|Yes
+motif_match	YNL020C	npr70	1	0	Kinase|Yes
+motif_unmatched	YFR014C	npr76	1	0	Kinase|Yes
+unknown_recognition_motif	YGL059W	cdc14ra12	1	0	Kinase|Yes
+motif_match	YNL154C	pde2id47	1	0	Kinase|Yes
+motif_unmatched	YDR247W	hog1id27	1	0	Kinase|Yes
+motif_match	YPL203W	npr70	1	0	Kinase|Yes
+motif_match	YPL153C	npr72	1	0	Kinase|Yes
+motif_match	YKL166C	npi65	1	0	Kinase|Yes
+unknown_recognition_motif	YGL059W	npr67	1	0	Kinase|Yes
+motif_match	YKL126W	npi60	1	0	Kinase|Yes
+motif_match	YNL154C	cdc14ia1	1	0	Kinase|Yes
+motif_unmatched	YOL113W	npr72	1	0	Kinase|Yes
+unknown_recognition_motif	YKL161C	npi65	1	0	Kinase|Yes
+motif_unmatched	YPL203W	npr66	1	0	Kinase|Yes
+motif_unmatched	YJR059W	pde2id42	1	0	Kinase|Yes
+motif_match	YDR477W	cdc14rd19	1	0	Kinase|Yes
+unknown_recognition_motif	YNL161W	pde2ra52	1	0	Kinase|Yes
+unknown_recognition_motif	YCR091W	cdc14rd20	1	0	Kinase|Yes
+unknown_recognition_motif	YOR061W	npi61	1	0	Kinase|Yes
+motif_match	YDR247W	npr72	1	0	Kinase|Yes
+motif_match	YGR052W	cdc14rd19	1	0	Kinase|Yes
+motif_unmatched	YBR059C	npr76	1	0	Kinase|Yes
+motif_match	YKL101W	hog1rd35	1	0	Kinase|Yes
+unknown_recognition_motif	YGL059W	npr70	1	0	Kinase|Yes
+motif_match	YOR351C	npr72	1	0	Kinase|Yes
+motif_match	YLR248W	pde2ra52	1	0	Kinase|Yes
+motif_match	YLR248W	hog1id25	1	0	Kinase|Yes
+motif_unmatched	YHR135C	npr72	1	0	Kinase|Yes
+motif_unmatched	YNL020C	npi63	1	0	Kinase|Yes
+motif_unmatched	YHR030C	npi65	1	0	Kinase|Yes
+motif_match	YPL153C	npr75	1	0	Kinase|Yes
+motif_match	YJL164C	pde2ra52	1	0	Kinase|Yes
+motif_match	YJL164C	cdc14rd15	1	0	Kinase|Yes
+unknown_recognition_motif	YHR079C	npr76	1	0	Kinase|Yes
+motif_match	YDR122W	npi63	1	0	Kinase|Yes
+motif_unmatched	YIL095W	cdc14id9	1	0	Kinase|Yes
+motif_match	YJL164C	hog1rd37	1	0	Kinase|Yes
+motif_unmatched	YHL007C	hog1rd35	1	0	Kinase|Yes
+motif_match	YBR160W	cdc14id5	1	0	Kinase|Yes
+motif_match	YDL025C	cdc14rd20	1	0	Kinase|Yes
+motif_unmatched	YHR030C	cdc14rd19	1	0	Kinase|Yes
+unknown_recognition_motif	YNL161W	npi62	1	0	Kinase|Yes
+unknown_recognition_motif	YBL105C	npr70	1	0	Kinase|Yes
+unknown_recognition_motif	YKL203C	npr70	1	0	Kinase|Yes
+unknown_recognition_motif	YHR099W	cdc14rd19	1	0	Kinase|Yes
+unknown_recognition_motif	YLR096W	cdc14rd21	1	0	Kinase|Yes
+unknown_recognition_motif	YJL187C	cdc14id2	1	0	Kinase|Yes
+motif_match	YKL126W	npr68	1	0	Kinase|Yes
+motif_match	YJL164C	cdc14rd20	1	0	Kinase|Yes
+motif_match	YDR122W	npi64	1	0	Kinase|Yes
+motif_unmatched	YBR160W	pde2ra58	1	0	Kinase|Yes
+unknown_recognition_motif	YJL128C	hog1id27	1	0	Kinase|Yes
+motif_unmatched	YDR507C	cdc14rd23	1	0	Kinase|Yes
+motif_match	YDR507C	pde2ra52	1	0	Kinase|Yes
+unknown_recognition_motif	YBL105C	npi63	1	0	Kinase|Yes
+motif_unmatched	YOR351C	npr67	1	0	Kinase|Yes
+unknown_recognition_motif	YBL009W	npi61	1	0	Kinase|Yes
+motif_unmatched	YJR059W	cdc14rd19	1	0	Kinase|Yes
+motif_match	YKL166C	cdc14id7	1	0	Kinase|Yes
+unknown_recognition_motif	YPL026C	npr76	1	0	Kinase|Yes
+unknown_recognition_motif	YHR079C	pde2id42	1	0	Kinase|Yes
+motif_unmatched	YPL203W	hog1rd33	1	0	Kinase|Yes
+motif_unmatched	YJR059W	npi65	1	0	Kinase|Yes
+unknown_recognition_motif	YNL161W	npr70	1	0	Kinase|Yes
+motif_unmatched	YNL307C	npr76	1	0	Kinase|Yes
+motif_unmatched	YFL033C	npi65	1	0	Kinase|Yes
+motif_unmatched	YDR122W	npr72	1	0	Kinase|Yes
+motif_unmatched	YNL307C	npr73	1	0	Kinase|Yes
+unknown_recognition_motif	YLR096W	pde2id42	1	0	Kinase|Yes
+motif_unmatched	YFR014C	cdc14rd15	1	0	Kinase|Yes
+motif_unmatched	YJL164C	hog1rd33	1	0	Kinase|Yes
+motif_unmatched	YHR135C	npr76	1	0	Kinase|Yes
+motif_match	YDR477W	npr73	1	0	Kinase|Yes
+unknown_recognition_motif	YGL059W	hog1rd33	1	0	Kinase|Yes
+motif_unmatched	YJR059W	npi60	1	0	Kinase|Yes
+unknown_recognition_motif	YNL161W	npi63	1	0	Kinase|Yes
+motif_unmatched	YHR135C	pde2id42	1	0	Kinase|Yes
+motif_match	YBR160W	npi61	1	0	Kinase|Yes
+motif_match	YPL153C	pde2ra54	1	0	Kinase|Yes
+motif_match	YPL153C	pde2id47	1	0	Kinase|Yes
+unknown_recognition_motif	YCR073C	hog1id31	1	0	Kinase|Yes
+motif_unmatched	YNL020C	npi65	1	0	Kinase|Yes
+motif_unmatched	YDR122W	npr68	1	0	Kinase|Yes
+unknown_recognition_motif	YBL105C	npi64	1	0	Kinase|Yes
+motif_match	YDR477W	npr72	1	0	Kinase|Yes
+motif_unmatched	YFR014C	cdc14ia6	1	0	Kinase|Yes
+unknown_recognition_motif	YJL187C	npi65	1	0	Kinase|Yes
+unknown_recognition_motif	YBL105C	npi61	1	0	Kinase|Yes
+motif_unmatched	YHR082C	hog1id29	1	0	Kinase|Yes
+motif_unmatched	YNL154C	cdc14rd19	1	0	Kinase|Yes
+motif_unmatched	YLR113W	pde2ra52	1	0	Kinase|Yes
+motif_match	YPL203W	npr72	1	0	Kinase|Yes
+motif_unmatched	YBL016W	npi63	1	0	Kinase|Yes
+motif_match	YLR113W	npr66	1	0	Kinase|Yes
+motif_unmatched	YDR283C	npi61	1	0	Kinase|Yes
+motif_unmatched	YMR104C	npi61	1	0	Kinase|Yes
+motif_unmatched	YNL020C	npr67	1	0	Kinase|Yes
+motif_match	YKL126W	npr76	1	0	Kinase|Yes
+motif_unmatched	YOL045W	hog1id29	1	0	Kinase|Yes
+unknown_recognition_motif	YJL128C	hog1id29	1	0	Kinase|Yes
+motif_unmatched	YJL141C	npi63	1	0	Kinase|Yes
+motif_unmatched	YGL180W	cdc14ia6	1	0	Kinase|Yes
+motif_match	YPL153C	npr76	1	0	Kinase|Yes
+motif_match	YPL203W	cdc14rd19	1	0	Kinase|Yes
+unknown_recognition_motif	YJL187C	hog1id29	1	0	Kinase|Yes
+motif_unmatched	YBR160W	npr73	1	0	Kinase|Yes
+unknown_recognition_motif	YDL101C	npi64	1	0	Kinase|Yes
+motif_unmatched	YPL153C	hog1rd33	1	0	Kinase|Yes
+motif_unmatched	YPL204W	npr66	1	0	Kinase|Yes
+unknown_recognition_motif	YAL017W	npr76	1	0	Kinase|Yes
+motif_match	YBR160W	cdc14rd13	1	0	Kinase|Yes
+motif_unmatched	YHR135C	cdc14ra16	1	0	Kinase|Yes
+motif_match	YMR216C	npr76	1	0	Kinase|Yes
+motif_match	YMR216C	npr73	1	0	Kinase|Yes
+motif_match	YPL203W	npi65	1	0	Kinase|Yes
+unknown_recognition_motif	YJL187C	cdc14id7	1	0	Kinase|Yes
+unknown_recognition_motif	YLR362W	npi61	1	0	Kinase|Yes
+motif_unmatched	YPL031C	cdc14rd15	1	0	Kinase|Yes
+motif_unmatched	YPL031C	cdc14rd15	1	0	Kinase|Yes
+motif_unmatched	YPL031C	cdc14rd15	1	0	Kinase|Yes
+motif_match	YDL025C	npi64	1	0	Kinase|Yes
+unknown_recognition_motif	YOL128C	npr76	1	0	Kinase|Yes
+motif_match	YPL153C	hog1id32	1	0	Kinase|Yes
+unknown_recognition_motif	YBL105C	npi65	1	0	Kinase|Yes
+motif_unmatched	YBR059C	npr67	1	0	Kinase|Yes
+motif_match	YKL166C	npr73	1	0	Kinase|Yes
+motif_unmatched	YIL095W	cdc14rd23	1	0	Kinase|Yes
+motif_unmatched	YMR139W	hog1id27	1	0	Kinase|Yes
+unknown_recognition_motif	YJR066W	npr70	1	0	Kinase|Yes
+motif_match	YGL179C	hog1id29	1	0	Kinase|Yes
+motif_match	YHL007C	cdc14rd19	1	0	Kinase|Yes
+unknown_recognition_motif	YGL059W	npr68	1	0	Kinase|Yes
+unknown_recognition_motif	YOR061W	cdc14rd20	1	0	Kinase|Yes
+motif_match	YNL154C	cdc14id2	1	0	Kinase|Yes
+motif_match	YCL024W	hog1id32	1	0	Kinase|Yes
+motif_match	YJR059W	cdc14rd20	1	0	Kinase|Yes
+motif_unmatched	YGL179C	pde2ra52	1	0	Kinase|Yes
+motif_unmatched	YGL179C	cdc14rd15	1	0	Kinase|Yes
+unknown_recognition_motif	YNL161W	npr68	1	0	Kinase|Yes
+motif_unmatched	YMR139W	npi61	1	0	Kinase|Yes
+unknown_recognition_motif	YGL059W	npr75	1	0	Kinase|Yes
+motif_match	YDR477W	pde2id47	1	0	Kinase|Yes
+motif_match	YDR507C	npi63	1	0	Kinase|Yes
+motif_unmatched	YDR507C	npi60	1	0	Kinase|Yes
+motif_unmatched	YJR059W	hog1id27	1	0	Kinase|Yes
+unknown_recognition_motif	YHR079C	pde2ra52	1	0	Kinase|Yes
+motif_match	YPL203W	pde2ra52	1	0	Kinase|Yes
+motif_unmatched	YMR139W	npr72	1	0	Kinase|Yes
+motif_match	YLR248W	hog1id31	1	0	Kinase|Yes
+motif_unmatched	YJL164C	npr66	1	0	Kinase|Yes
+unknown_recognition_motif	YNL161W	npi65	1	0	Kinase|Yes
+unknown_recognition_motif	YJL187C	hog1rd33	1	0	Kinase|Yes
+motif_match	YKL116C	hog1id29	1	0	Kinase|Yes
+motif_unmatched	YKL101W	npr67	1	0	Kinase|Yes
+motif_unmatched	YBR059C	pde2ra58	1	0	Kinase|Yes
+motif_unmatched	YMR139W	npr73	1	0	Kinase|Yes
+unknown_recognition_motif	YLR096W	pde2ra52	1	0	Kinase|Yes
+motif_match	YJL141C	npi61	1	0	Kinase|Yes
+unknown_recognition_motif	YDL214C	npr72	1	0	Kinase|Yes
+motif_unmatched	YJL141C	npr72	1	0	Kinase|Yes
+motif_match	YGR052W	hog1id32	1	0	Kinase|Yes
+motif_unmatched	YGL180W	npr76	1	0	Kinase|Yes
+motif_match	YPL153C	cdc14rd19	1	0	Kinase|Yes
+motif_unmatched	YPL153C	npi61	1	0	Kinase|Yes
+motif_unmatched	YJR059W	hog1id28	1	0	Kinase|Yes
+unknown_recognition_motif	YFR028C	cdc14rd23	1	0	Phosphatase|Yes
+unknown_recognition_motif	YML016C	npi61	1	0	Phosphatase|Yes
+unknown_recognition_motif	YFR028C	npr66	1	0	Phosphatase|Yes
+unknown_recognition_motif	YFR028C	npr74	1	0	Phosphatase|Yes
+unknown_recognition_motif	YFR028C	hog1rd38	1	0	Phosphatase|Yes
+unknown_recognition_motif	YML016C	npr75	1	0	Phosphatase|Yes
+unknown_recognition_motif	YFR028C	hog1rd33	1	0	Phosphatase|Yes
+unknown_recognition_motif	YFR028C	pde2id42	1	0	Phosphatase|Yes
+unknown_recognition_motif	YMR036C	hog1id29	1	0	Phosphatase|Yes
+unknown_recognition_motif	YER133W	npi64	1	0	Phosphatase|Yes
+unknown_recognition_motif	YER133W	cdc14rd24	1	0	Phosphatase|Yes
+Output	npi65	YOR208W	1	0	Phosphatase|Yes
