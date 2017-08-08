@@ -1,0 +1,9 @@
+Scripts and executables that are useful for these results.
+
+Step 1: Process Matt's data files so that they can be input to my pathfinder program. (This entails giving modules short IDs, removing dashes from gene names, putting the files into a slightly different cosmetic format, and extracting various subsets of information from them.)
+
+Step 2: Run the pathfinder program on DTT and NaCl to generate input files for the IP solver.
+
+Step 3 (not here): Run the IP solver and retrieve results.
+
+Step 4: Visualize input and results in Cytoscape.
