@@ -1,6 +1,6 @@
 # Computational phospho-proteomic network inference pipeline
 
-This pipeline turns a list of S. cerevesiae phospho-peptides that exhibit stress responsive
+This pipeline turns a list of _S. cerevesiae_ phospho-peptides that exhibit stress responsive
 abundance changes, as measured by mass spectrometry, into a hierarchical signaling
 network, connecting upstream kinases and phosphatases to their downstream targets. Our
 computational pipeline is based on the premise that kinases and phosphatases recognize
@@ -13,6 +13,14 @@ shared interactors, are identified through enrichment analysis using a protein i
 network in yeast (Chasman et al., 2014). Shared interactor-submodule pairs serve as
 inputs for a previously developed Integer Programming (IP) approach that connects the
 sources to their downstream target submodules (Chasman et al., 2014).
+
+Please see our _bioRxiv_ preprint for additional information:
+
+Matthew E. MacGilvray<sup>+</sup>, Evgenia Shishkova<sup>+</sup>, Deborah Chasman, Michael Place, Anthony Gitter, Joshua J. Coon, Audrey P. Gasch.
+_bioRxiv_ 2017.
+[doi:10.1101/176230](https://doi.org/10.1101/176230)
+
+<sup>+</sup>These authors contributed equally to the work.
 
 ## Prerequisites
 The user should define differentially changing phospho-peptides in the "WT" or "Parent"
