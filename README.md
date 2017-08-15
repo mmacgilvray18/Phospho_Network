@@ -16,9 +16,9 @@ sources to their downstream target submodules (Chasman et al., 2014).
 
 Please see our _bioRxiv_ preprint for additional information:
 
+[Network inference reveals novel connections in pathways regulating growth and defense in the yeast salt response](https://doi.org/10.1101/176230).
 Matthew E. MacGilvray<sup>+</sup>, Evgenia Shishkova<sup>+</sup>, Deborah Chasman, Michael Place, Anthony Gitter, Joshua J. Coon, Audrey P. Gasch.
-_bioRxiv_ 2017.
-[doi:10.1101/176230](https://doi.org/10.1101/176230)
+_bioRxiv_ 2017. doi:10.1101/176230
 
 <sup>+</sup>These authors contributed equally to the work.
 
