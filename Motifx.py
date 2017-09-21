@@ -1,4 +1,4 @@
-#!/home/GLBRCORG/mplace/anaconda3/bin/python
+#!/home/mplace/anaconda3/bin/python
 """
 Program: motifx.py
 
@@ -380,7 +380,7 @@ def main():
         proteome = cmdResults['UPLOAD']
         proteome = os.getcwd() + '/' + proteome    # user provides a proteome fasta
         if not os.path.exists(proteome):
-            print('\n\tAlternate proteome file does not exist.\n')
+            print('\n\tAlternate proteome file does not exist %s.\n' %(proteome))
             cmdparser.print_help()
             sys.exit(1)
     else:
