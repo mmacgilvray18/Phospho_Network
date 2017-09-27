@@ -53,7 +53,8 @@ change.
 ## Ways to run pipeline
 
 ### Clone git repository
-   * open a terminal git clone https://github.com/mmacgilvray18/Phospho_Network.git
+   * open a terminal and type:  git clone https://github.com/mmacgilvray18/Phospho_Network.git
+     This will copy the git repository into a folder called Phospho_Network.
 
 
 1. Use the provided ipython notebook, Phospho_Network.ipynb.  This is an ipython notebook
