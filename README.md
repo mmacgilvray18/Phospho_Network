@@ -35,12 +35,12 @@ change.
  * python libraries required:  Pandas, numpy, Biopython, jupyter
    
    Code has successfully executed using these versions:
-   python                    3.4.4
-   biopython                 1.68               
-   jupyter                   1.0.0             
-   jupyter_core              4.1.0            
-   numpy                     1.11.0          
-   pandas                    0.19.2         
+  > python                    3.4.4
+  > biopython                 1.68               
+  > jupyter                   1.0.0             
+  > jupyter_core              4.1.0            
+  > numpy                     1.11.0          
+  > pandas                    0.19.2         
    
    once anaconda has been downloaded the required libraries may be installed using:
 
@@ -50,14 +50,12 @@ change.
    *conda install jupyter=1.0.0
 
 
-## Ways to run pipeline
-
-### First way:
-### Clone git repository
+## To run pipeline requires that you clone git repository
    
    * open a terminal and type:  git clone https://github.com/mmacgilvray18/Phospho_Network.git
      This will copy the git repository into a folder called Phospho_Network.
 
+### First way:
 1. Use the provided ipython notebook, Phospho_Network.ipynb.  This is an ipython notebook
    generated using jupyter notebook.  
 
