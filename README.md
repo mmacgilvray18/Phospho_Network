@@ -28,6 +28,37 @@ strain using their own criteria (eg; fold-change, p-value, etc.), followed by
 grouping/clustering phospho-peptides based on similar directionality of abundance
 change.
 
+# Prerequisites:
+ * This code has been run successfully on Mac OS X, Ubuntu 14
+ * Python 3 (version 3.4 although any version 3 should work)
+   Anaconda is an easy way to install python, https://www.anaconda.com/download/
+ * python libraries required:  Pandas, numpy, Biopython, jupyter
+   
+   Code has successfully executed using these versions:
+   python                    3.4.4
+   biopython                 1.68               
+   jupyter                   1.0.0             
+   jupyter_core              4.1.0            
+   numpy                     1.11.0          
+   pandas                    0.19.2         
+   
+   once anaconda has been downloaded the required libraries may be installed using:
+
+   conda install -c anaconda biopython=1.68 
+   conda install panda=0.19.2
+   conda install numpy=1.11.0
+   conda install jupyter=1.0.0
+
+
+## Ways to run pipeline
+
+1. Use the provided ipython notebook, Phospho_Network.ipynb.  This is an ipython notebook
+   generated using jupyter notebook.  
+
+   The setup goes as follows:
+    
+   * open a terminal git clone https://github.com/mmacgilvray18/Phospho_Network.git
+
 ## Scripts
 ************************************************************************
 ### MotifxPreAlign.py
