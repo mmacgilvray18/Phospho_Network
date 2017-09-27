@@ -32,7 +32,7 @@ change.
  * This code has been run successfully on Mac OS X, Ubuntu 14
  * Python 3 (version 3.4 although any version 3 should work)
    Anaconda is an easy way to install python, https://www.anaconda.com/download/
- * python libraries required:  Pandas, numpy, Biopython, jupyter
+ * python libraries required:  Pandas, numpy, Biopython, jupyter, beautifulsoup
    
    Code has successfully executed using these versions:
   > python                    3.4.4
@@ -41,6 +41,7 @@ change.
   > jupyter_core              4.1.0            
   > numpy                     1.11.0          
   > pandas                    0.19.2         
+  > beautifulsoup4            4.4.1
    
    once anaconda has been downloaded the required libraries may be installed using:
 
@@ -51,6 +52,9 @@ change.
     conda install numpy=1.11.0
     
     conda install jupyter=1.0.0
+
+    conda install -c anaconda beautifulsoup4 
+
 
 ## To run pipeline requires that you clone the git repository
    
@@ -76,22 +80,16 @@ change.
    Directory outputs:
    
    >FastaFiles_Modules  -- peptide input files for 'Create PWMs From Module Fasta' step
-   
    >ClassA_NoShuffle_KL -- Kullback-Leibler Module to Each Kinase results
-
    >Shuffle_KL          -- random shuffle of  Kullback-Leibler Module to Each Kinase used
                            to generate a FDR (False Discovery Rate)
 
    File outputs:
 
     >Network_Submodule_Nodes_background_Network.csv -- All identified submodules
-
     >Final_enriched.csv -- Filtered set of identified submodules, strict criteria
-
     >SIs_submodule_Relationships_Define_ClassA_Network.csv -- Classify Shared Interactors Outputs
-
     >position_weight_matrix.txt  -- position weight matrix created from fasta input
-
     >FDR_Scores.csv   --  Calculate FDR Each Module step results
 
 
