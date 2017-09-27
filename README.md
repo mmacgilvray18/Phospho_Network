@@ -44,13 +44,13 @@ change.
    
    once anaconda has been downloaded the required libraries may be installed using:
 
-    *conda install -c anaconda biopython=1.68 
+    conda install -c anaconda biopython=1.68 
 
-    *conda install panda=0.19.2
+    conda install panda=0.19.2
    
-    *conda install numpy=1.11.0
+    conda install numpy=1.11.0
     
-    *conda install jupyter=1.0.0
+    conda install jupyter=1.0.0
 
 ## To run pipeline requires that you clone the git repository
    
@@ -76,11 +76,23 @@ change.
    Directory outputs:
    
    >FastaFiles_Modules  -- peptide input files for 'Create PWMs From Module Fasta' step
+   
    >ClassA_NoShuffle_KL -- Kullback-Leibler Module to Each Kinase results
+
    >Shuffle_KL          -- random shuffle of  Kullback-Leibler Module to Each Kinase used
                            to generate a FDR (False Discovery Rate)
 
    File outputs:
+
+    >Network_Submodule_Nodes_background_Network.csv -- All identified submodules
+
+    >Final_enriched.csv -- Filtered set of identified submodules, strict criteria
+
+    >SIs_submodule_Relationships_Define_ClassA_Network.csv -- Classify Shared Interactors Outputs
+
+    >position_weight_matrix.txt  -- position weight matrix created from fasta input
+
+    >FDR_Scores.csv   --  Calculate FDR Each Module step results
 
 
 ### Second way:
