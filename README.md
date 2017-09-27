@@ -44,37 +44,49 @@ change.
    
    once anaconda has been downloaded the required libraries may be installed using:
 
-   *conda install -c anaconda biopython=1.68 
-   *conda install panda=0.19.2
-   *conda install numpy=1.11.0
-   *conda install jupyter=1.0.0
+    *conda install -c anaconda biopython=1.68 
 
+    *conda install panda=0.19.2
+   
+    *conda install numpy=1.11.0
+    
+    *conda install jupyter=1.0.0
 
-## To run pipeline requires that you clone git repository
+## To run pipeline requires that you clone the git repository
    
    * open a terminal and type:  git clone https://github.com/mmacgilvray18/Phospho_Network.git
      This will copy the git repository into a folder called Phospho_Network.
 
 ### First way:
-1. Use the provided ipython notebook, Phospho_Network.ipynb.  This is an ipython notebook
+1. Use the provided ipython notebook, Phospho_Network.ipynb.  This notebook was
    generated using jupyter notebook.  
 
    cd to the git repository, the notebook is setup to be run from that directory.
 
-2. Using the terminal run 'jupyter notebook' in that directory. This will open a 
-   web browser w/ a page showing the directory contents.  Click on Phospho_Network.ipynb
-   which opens another page showing the script.  
+2. Using the terminal run 'jupyter notebook' in that directory. If you installed anaconda python
+   you may have to run ~/anaconda/bin/jupyter notebook.
+   This will open a web browser w/ a page showing the directory contents.  
+   Click on Phospho_Network.ipynb which opens another page showing the script.  
 
-3. Follow the script and change any input and output names.  All output directories and files
+3. Follow the script and change any input and output names as desired.  All output directories and files
    will be created in your current directory.
 
    This method will automatically create any intermediate files.
 
+   Directory outputs:
+   
+   >FastaFiles_Modules  -- peptide input files for 'Create PWMs From Module Fasta' step
+   >ClassA_NoShuffle_KL -- Kullback-Leibler Module to Each Kinase results
+   >Shuffle_KL          -- random shuffle of  Kullback-Leibler Module to Each Kinase used
+                           to generate a FDR (False Discovery Rate)
+
+   File outputs:
+
+
 ### Second way:
   
-  This method will require each script to be run on the command line w/ the user responsible
+  This method will require each script to be run individually on the command line w/ the user responsible
   for any intermediate files.  The order of the scripts is the same as the steps listed below.
-
     
 
 ## Scripts
