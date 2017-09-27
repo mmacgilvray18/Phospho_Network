@@ -44,20 +44,32 @@ change.
    
    once anaconda has been downloaded the required libraries may be installed using:
 
-   conda install -c anaconda biopython=1.68 
-   conda install panda=0.19.2
-   conda install numpy=1.11.0
-   conda install jupyter=1.0.0
+   *conda install -c anaconda biopython=1.68 
+   *conda install panda=0.19.2
+   *conda install numpy=1.11.0
+   *conda install jupyter=1.0.0
 
 
 ## Ways to run pipeline
 
+### Clone git repository
+   * open a terminal git clone https://github.com/mmacgilvray18/Phospho_Network.git
+
+
 1. Use the provided ipython notebook, Phospho_Network.ipynb.  This is an ipython notebook
    generated using jupyter notebook.  
 
-   The setup goes as follows:
+   cd to the git repository, the notebook is setup to be run from that directory.
+
+2. Using the terminal run 'jupyter notebook' in that directory. This will open a 
+   web browser w/ a page showing the directory contents.  Click on Phospho_Network.ipynb
+   which opens another page showing the script.  
+
+3. Follow the script and change any input and output names.  All output directories and files
+   will be created in your current directory.
+
+
     
-   * open a terminal git clone https://github.com/mmacgilvray18/Phospho_Network.git
 
 ## Scripts
 ************************************************************************
