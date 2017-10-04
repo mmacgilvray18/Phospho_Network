@@ -186,6 +186,52 @@ def TotalScore(df):
     n=Lst[0]
     return n
 
+def runShuffle(iterations, DF_CompareTo_lst, dfs_lst ):
+    """
+    """
+        # CHANGE THE NUMBER OF ITERATIONS HERE IF DESIRED
+    ITER_NUM=iterations                               # interations of this function
+    dict_Final={}
+    for df2 in dfs_lst:                                                                 # this is the dataframe that has Mok Kinase PWMs
+        
+        subModule_name=df2['Motif'].unique()
+        for df in DF_CompareTo_lst:                                                     # select one of the compare to dataframes (Modules)
+            Kinase_name=[]
+            Kinase_name=df['Motif'].unique()
+       
+            for iteration in range (ITER_NUM):                                          # for iteration x 
+        
+                Shuffled=Shuffle(df2)                                                   # shuffle the dataframe by row and column
+                df_merged=mergeInputMotifFile_withDF_CompareTo(Shuffled, df)   
+                DF_1=Calculate_log_x_y(df_merged)
+                DF_2=Calculate_log_y_x(DF_1)
+                DF_3=Calculate_Faax_times_log_x_y(DF_2)
+                DF_4=Calculate_Faay_times_log_y_x(DF_3)
+                DF_5=Column_SUM(DF_4)
+            
+                n=TotalScore(DF_5)
+                #print (n)
+                test_tup = (n, subModule_name[0])
+                if Kinase_name[0] in dict_Final:
+                    dict_Final[Kinase_name[0]].append(test_tup)
+                else:
+                    lst=[]
+                    dict_Final[Kinase_name[0]] = lst
+                    dict_Final[Kinase_name[0]].append(test_tup)
+    
+    path=r"Shuffle_TEST/"  # path to output directory
+                  
+    for k, v in dict_Final.items():  
+        newFile=path+ k +'.csv'       
+        #print (newFile)
+        with open(newFile, 'w') as output:  
+            output.write(k)
+            output.write("\n")
+            for x in v:
+                #for subModule_name in filenames:
+                output.write(str(x))
+                output.write("\n")
+
 
 def main():
     """
@@ -220,53 +266,15 @@ def main():
     dfs_lst = []
     for filename in filenames:
         dfs_lst.append(pd.read_csv(filename, sep=","))
-        
-    # CHANGE THE NUMBER OF ITERATIONS HERE IF DESIRED
-    ITER_NUM=1                                                                         # 1000 interations of this function
-    dict_Final={}
-    for df2 in dfs_lst:                                                                 # this is the dataframe that has Mok Kinase PWMs
-        
-        subModule_name=df2['Motif'].unique()
-        for df in DF_CompareTo_lst:                                                     # select one of the compare to dataframes (Modules)
-            Kinase_name=[]
-            Kinase_name=df['Motif'].unique()
-       
-            for iteration in range (ITER_NUM):                                          # for iteration x 
-        
-                Shuffled=Shuffle(df2)                                                   # shuffle the dataframe by row and column
-                df_merged=mergeInputMotifFile_withDF_CompareTo(Shuffled, df)   
-                DF_1=Calculate_log_x_y(df_merged)
-                DF_2=Calculate_log_y_x(DF_1)
-                DF_3=Calculate_Faax_times_log_x_y(DF_2)
-                DF_4=Calculate_Faay_times_log_y_x(DF_3)
-                DF_5=Column_SUM(DF_4)
-            
-                n=TotalScore(DF_5)
-                #print (n)
-                test_tup = (n, subModule_name[0])
-                if Kinase_name[0] in dict_Final:
-                    dict_Final[Kinase_name[0]].append(test_tup)
-                else:
-                    lst=[]
-                    dict_Final[Kinase_name[0]] = lst
-                    dict_Final[Kinase_name[0]].append(test_tup)
     
     # write out the final dictionary to a folder where each key and value pair is an independent csv file. 
     if not os.path.exists('Shuffle_TEST'):
         os.mkdir('Shuffle_TEST')
-        
-    path=r"Shuffle_TEST/"  # path to output directory
-                  
-    for k, v in dict_Final.items():  
-        newFile=path+ k +'.csv'       
-        #print (newFile)
-        with open(newFile, 'w') as output:  
-            output.write(k)
-            output.write("\n")
-            for x in v:
-                #for subModule_name in filenames:
-                output.write(str(x))
-                output.write("\n")
+
+
+    # run shuffle
+    runShuffle(5, DF_CompareTo_lst, dfs_lst) 
+
 
 if __name__ == "__main__":
     main()
