@@ -5,6 +5,7 @@ Purpose:
 
 @author: mplace
 """
+import multiprocessing
 import argparse	                # handle command line args
 import glob
 import math
@@ -186,7 +187,7 @@ def TotalScore(df):
     n=Lst[0]
     return n
 
-def runShuffle(iterations, DF_CompareTo_lst, dfs_lst ):
+def runShuffle(iterations, DF_CompareTo_lst, dfs_lst, n ):
     """
     """
         # CHANGE THE NUMBER OF ITERATIONS HERE IF DESIRED
@@ -222,9 +223,8 @@ def runShuffle(iterations, DF_CompareTo_lst, dfs_lst ):
     path=r"Shuffle_TEST/"  # path to output directory
                   
     for k, v in dict_Final.items():  
-        newFile=path+ k +'.csv'       
-        #print (newFile)
-        with open(newFile, 'w') as output:  
+        newFile=path+ k + '.csv'       
+        with open(newFile, 'a') as output:  
             output.write(k)
             output.write("\n")
             for x in v:
@@ -271,9 +271,23 @@ def main():
     if not os.path.exists('Shuffle_TEST'):
         os.mkdir('Shuffle_TEST')
 
+    procs = 3
+    iterations = 5    
+    jobs = []
+    for i in range(0,procs):
+        process = multiprocessing.Process(target=runShuffle, args=(iterations,DF_CompareTo_lst, dfs_lst, str(i)))
+        jobs.append(process)
+    
+    for j in jobs:
+        j.start()
+    
+    for j in jobs:
+        j.join()
+        
+    
 
     # run shuffle
-    runShuffle(5, DF_CompareTo_lst, dfs_lst) 
+    #runShuffle(5, DF_CompareTo_lst, dfs_lst) 
 
 
 if __name__ == "__main__":
