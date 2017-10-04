@@ -241,8 +241,8 @@ def main():
                                         usage='%(prog)s -f <Position weight matrix file>  ', prog='Shuffle_kullback-Leibler.py'  )                                  
     cmdparser.add_argument('-f', '--file', action='store', dest='FILE', 
                            help='Position Weight Matrix file, from Matt\'s script', metavar='')
-    cmdparser.add_argument('-i', '--iterations', action='store', dest='ITER', help='Total number of iterations')
-    cmdparser.add_argument('-p', '--processes', action='store', dest='PROC', help='Number of processes to run, be smart don\'t use more than you have')
+    cmdparser.add_argument('-i', '--iterations', action='store', dest='ITER', help='Total number of iterations, this will be divided by number of processes.')
+    cmdparser.add_argument('-p', '--processes', action='store', dest='PROC', help='Number of processes to run, be smart don\'t use more than you have!')
     cmdResults = vars(cmdparser.parse_args())
     
     
@@ -258,7 +258,18 @@ def main():
     else:
         print('')
         cmdparser.print_help()
-        sys.exit(1)    
+        sys.exit(1)
+        
+    if cmdResults['PROC']:
+        procs = int(cmdResults['PROC'])
+    else:
+        procs = 2     # number of processes, defaults to 2            
+        
+    if cmdResults['ITER']:
+        iterations = int(int(cmdResults['ITER'])/procs)
+    else:
+        iterations = 24     # number of iterations for each process
+        
         
     DF_CompareTo_lst=SplitCompareTOMotifs_df(Input)
     
@@ -273,8 +284,6 @@ def main():
     if not os.path.exists('Shuffle_TEST'):
         os.mkdir('Shuffle_TEST')
 
-    procs = 4          # number of processes to create
-    iterations = 2     # number of iterations for each process
     jobs = []          # list of jobs
     for i in range(0,procs):
         process = multiprocessing.Process(target=runShuffle, args=(iterations,DF_CompareTo_lst, dfs_lst, str(i)))
