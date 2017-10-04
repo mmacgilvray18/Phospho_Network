@@ -1,9 +1,10 @@
 #!/home/mplace/anaconda3/bin/python
 """
-Purpose:  
+Purpose:  We want to make use of extra cores, when running matt's Kullback-Leibler shuffle
+for FDR using the python Multiprocessing library.
 
-
-@author: mplace
+@author: mplace (multiprocessing)
+         Matt Macgilvray (shuffle)
 """
 import multiprocessing
 import argparse	                # handle command line args
@@ -13,7 +14,6 @@ import numpy as np
 import os
 import pandas as pd
 import random
-import re
 import sys
 
 def SplitCompareTOMotifs_df(Input):
@@ -225,8 +225,8 @@ def runShuffle(iterations, DF_CompareTo_lst, dfs_lst, n ):
     for k, v in dict_Final.items():  
         newFile=path+ k + '.csv'       
         with open(newFile, 'a') as output:  
-            output.write(k)
-            output.write("\n")
+#            output.write(k)
+#            output.write("\n")
             for x in v:
                 #for subModule_name in filenames:
                 output.write(str(x))
@@ -241,6 +241,8 @@ def main():
                                         usage='%(prog)s -f <Position weight matrix file>  ', prog='Shuffle_kullback-Leibler.py'  )                                  
     cmdparser.add_argument('-f', '--file', action='store', dest='FILE', 
                            help='Position Weight Matrix file, from Matt\'s script', metavar='')
+    cmdparser.add_argument('-i', '--iterations', action='store', dest='ITER', help='Total number of iterations')
+    cmdparser.add_argument('-p', '--processes', action='store', dest='PROC', help='Number of processes to run, be smart don\'t use more than you have')
     cmdResults = vars(cmdparser.parse_args())
     
     
@@ -271,24 +273,19 @@ def main():
     if not os.path.exists('Shuffle_TEST'):
         os.mkdir('Shuffle_TEST')
 
-    procs = 3
-    iterations = 5    
-    jobs = []
+    procs = 4          # number of processes to create
+    iterations = 2     # number of iterations for each process
+    jobs = []          # list of jobs
     for i in range(0,procs):
         process = multiprocessing.Process(target=runShuffle, args=(iterations,DF_CompareTo_lst, dfs_lst, str(i)))
         jobs.append(process)
-    
+    # start the jobs
     for j in jobs:
         j.start()
-    
+    # ensure all of the process have finished.
     for j in jobs:
         j.join()
         
-    
-
-    # run shuffle
-    #runShuffle(5, DF_CompareTo_lst, dfs_lst) 
-
 
 if __name__ == "__main__":
     main()
