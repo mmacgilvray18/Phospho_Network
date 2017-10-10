@@ -156,7 +156,8 @@ motifx_sample-Motifx-results.txt
 These contain the LOGO pngs and the original html results page.
 ```
 ************************************************************************
-### Identify_Modules_and_Submodules
+## Primary Steps in Notebook Pipeline
+### Identify Modules and Submodules
 ```
 Purpose: Group phospho-peptides into modules and submodules based on stress-
 dependent phosphorylation changes, motifs, and the presence mutant phenotypes.
@@ -179,7 +180,7 @@ A final csv file in table format that contains on each row a phospho-peptide and
 module and submodule(s) it resides within.
 ```
 ************************************************************************
-### Identify_Shared_Interactors
+### Identify Shared Interactors
 ```
 Purpose: Identify proteins enriched for interactions with submodule constituent proteins
 utilizing a background network of protein-protein interactions in yeast.
@@ -217,7 +218,7 @@ interactions with submodule proteins.
 -A table containing all enriched shared interactors identified for submodule proteins.
 ```
 ************************************************************************
-### Classify_Shared_Interactors_Inputs_Outputs
+### Classify Shared Interactors Inputs Outputs
 ```
 Purpose: Classify shared interactors based on their interaction(s) directionality with
 submodule constituent proteins. "Input" shared interacotrs have at least one directed
@@ -241,7 +242,7 @@ Output: A table containing each SI-submodule pair and if the interaction
 is an "Input" or "Output"
 ```
 ************************************************************************
-### CreateFastaFile
+### Create Fasta File
 ```
 Purpose: Turn a list of modules and their phospho-peptide amino acid sequences into a
 Fasta file that will be used later in the pipeline to generate position weight matrices
@@ -264,15 +265,13 @@ Output: A directory containing a Fasta File for each module and its phospho-pept
 constituents.
 ```
 ************************************************************************
-### Create_PWMs_From_Module_Fasta
+### Create PWMs From Module Fasta
 ```
 Purpose: Generate PWMs for each module, using the module Fasta files. Module PWMs
 can then be compared to PWMs for 63 known kinase recognition motifs (Mok et al.,
 2010).
 
 Input: A directory containing plain .txt files in Fasta format.
-
-usage: python3 Create_PWMs_From_Module_Fasta
 
 Required parameters: User must specify the directory where the
 input Fasta Files for each module will be deposited. Results will print to screen and can
@@ -282,7 +281,7 @@ Output: A PWM for each module that indicates the frequency of each amino acid at
 position.
 ```
 ************************************************************************
-### Kullback_Leibler_Module_toEachKinase
+### Kullback Leibler Module toEachKinase
 ```
 Purpose:  To quantify similarity between the Mok et al kinase PWMs and the module
 PWMs, this script employs a previously described quantitative motif comparison method
@@ -312,7 +311,7 @@ Induced_...sP..txt). Within the .csv files are 63 KLD scores representing how we
 63 Mok et al kinases match the module motif.
 ```
 ************************************************************************
-### Kullback_Leibler_Module_toEachKinase_Shuffled1000x
+### Kullback_Leibler Module toEachKinase Shuffled1000x
 ```
 Purpose:  To quantify similarity between the Mok et al kinase PWMs and the module
 PWMs, this script employs a previously described quantitative motif comparison method
@@ -344,7 +343,7 @@ the .csv files are 63,000 KLD scores representing how well the 63 Mok et al kina
 match the module motif after 1000 permutations of each Mok kinase.
 ```
 ************************************************************************
-### CalculateFDR_EachModule_toEachKinase
+### CalculateFDR Each Module to Each Kinase
 ```
 Purpose: Identify FDR scores for each Mok et al kinase and each module by comparing
 the non-shuffled scores to the distribution of shuffled scores. The user can then manually
