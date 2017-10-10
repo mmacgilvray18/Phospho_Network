@@ -58,8 +58,8 @@ change.
 
 ## To run pipeline requires that you clone the git repository
    
-   * open a terminal and type:  git clone https://github.com/mmacgilvray18/Phospho_Network.git
-     This will copy the git repository into a folder called Phospho_Network.
+  Open a terminal and type:  git clone https://github.com/mmacgilvray18/Phospho_Network.git
+  This will copy the git repository into a folder called Phospho_Network.
 
 1. Use the provided ipython notebook, Phospho_Network.ipynb.  This notebook was
    generated using jupyter notebook.  
@@ -78,19 +78,19 @@ change.
 
    Directory outputs:
    
-   >FastaFiles_Modules  -- peptide input files for 'Create PWMs From Module Fasta' step
-   >ClassA_NoShuffle_KL -- Kullback-Leibler Module to Each Kinase results
+   >FastaFiles_Modules  -- peptide input files for 'Create PWMs From Module Fasta' step<br>
+   >ClassA_NoShuffle_KL -- Kullback-Leibler Module to Each Kinase results<br>
    >Shuffle_KL          -- random shuffle of  Kullback-Leibler Module to Each Kinase used
-                           to generate a FDR (False Discovery Rate)
+                           to generate a FDR (False Discovery Rate)<br>
 
    Primary File outputs:
 
-    >Network_Submodule_Nodes_background_Network.csv -- All identified submodules
-    >Final_enriched.csv          -- Filtered set of identified submodules, strict criteria
-    >SIs_submodule_Relationships_Define_ClassA_Network.csv -- Classify Shared Interactors Outputs
-    >position_weight_matrix.txt  -- position weight matrix created from fasta input
-    >FDR_Scores.csv              -- Calculate FDR Each Module step results
-    >FINAL_SIF.csv               -- SIF file for cytoscape
+    >Network_Submodule_Nodes_background_Network.csv -- All identified submodules<br>
+    >Final_enriched.csv          -- Filtered set of identified submodules, strict criteria<br>
+    >SIs_submodule_Relationships_Define_ClassA_Network.csv -- Classify Shared Interactors Outputs<br>
+    >position_weight_matrix.txt  -- position weight matrix created from fasta input<br>
+    >FDR_Scores.csv              -- Calculate FDR Each Module step results<br>
+    >FINAL_SIF.csv               -- SIF file for cytoscape<br>
 
 
 ## Scripts
