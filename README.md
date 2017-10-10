@@ -156,7 +156,7 @@ motifx_sample-Motifx-results.txt
 These contain the LOGO pngs and the original html results page.
 ```
 ************************************************************************
-### Identify_Modules_and_Submodules.py
+### Identify_Modules_and_Submodules
 ```
 Purpose: Group phospho-peptides into modules and submodules based on stress-
 dependent phosphorylation changes, motifs, and the presence mutant phenotypes.
@@ -174,14 +174,12 @@ Column order is unimportant, column names must match above.
 The Cluster and MutantNamePhenotype columns are user defined and can be changed in
 the script.
 
-Required parameters: Pandas must be downloaded and installed on your machine.
-
 Output:
 A final csv file in table format that contains on each row a phospho-peptide and the
 module and submodule(s) it resides within.
 ```
 ************************************************************************
-### Identify_Shared_Interactors.py
+### Identify_Shared_Interactors
 ```
 Purpose: Identify proteins enriched for interactions with submodule constituent proteins
 utilizing a background network of protein-protein interactions in yeast.
@@ -213,16 +211,13 @@ YKL135WA,YKL135W-A
 Column order is unimportant, column names must match above.
 User can modify the FDR cutoff.
 
-Required parameters: Pandas must be downloaded and installed on your machine.
-Numpy, scipy.stats import hypergeom
-
 Output:
 -A table containing all shared interactors, without enrichment analysis, and their
 interactions with submodule proteins.
 -A table containing all enriched shared interactors identified for submodule proteins.
 ```
 ************************************************************************
-### Classify_Shared_Interactors_Inputs_Outputs.py
+### Classify_Shared_Interactors_Inputs_Outputs
 ```
 Purpose: Classify shared interactors based on their interaction(s) directionality with
 submodule constituent proteins. "Input" shared interacotrs have at least one directed
@@ -242,13 +237,11 @@ Repressed_..RR.s.No_Phenotype_Exists, kinase_substrate
 
 Column order is unimportant, column names must match above.
 
-Required parameters: Pandas must be downloaded and installed on your machine.
-
 Output: A table containing each SI-submodule pair and if the interaction
 is an "Input" or "Output"
 ```
 ************************************************************************
-### CreateFastaFile.py
+### CreateFastaFile
 ```
 Purpose: Turn a list of modules and their phospho-peptide amino acid sequences into a
 Fasta file that will be used later in the pipeline to generate position weight matrices
@@ -262,7 +255,7 @@ Induced_...sP.,YDR497C_S55,IQRAPASDDEDRI
 
 Column order is unimportant, column names must match above.
 
-Required parameters: Pandas must be downloaded and installed on your machine.
+Required parameters:
 All peptide sequences should be the same length (13 amino acids). Module constituents
 should be used here, not submodules. User must modify the directory where the output
 Fasta Files for each module will be deposited.
@@ -271,7 +264,7 @@ Output: A directory containing a Fasta File for each module and its phospho-pept
 constituents.
 ```
 ************************************************************************
-### Create_PWMs_From_Module_Fasta.py
+### Create_PWMs_From_Module_Fasta
 ```
 Purpose: Generate PWMs for each module, using the module Fasta files. Module PWMs
 can then be compared to PWMs for 63 known kinase recognition motifs (Mok et al.,
@@ -279,9 +272,9 @@ can then be compared to PWMs for 63 known kinase recognition motifs (Mok et al.,
 
 Input: A directory containing plain .txt files in Fasta format.
 
-usage: python3 Create_PWMs_From_Module_Fasta.py
+usage: python3 Create_PWMs_From_Module_Fasta
 
-Required parameters: BioPython is required. User must specify the directory where the
+Required parameters: User must specify the directory where the
 input Fasta Files for each module will be deposited. Results will print to screen and can
 be moved to a .txt file manually.
 
@@ -289,7 +282,7 @@ Output: A PWM for each module that indicates the frequency of each amino acid at
 position.
 ```
 ************************************************************************
-### Kullback_Leibler_Module_toEachKinase.py
+### Kullback_Leibler_Module_toEachKinase
 ```
 Purpose:  To quantify similarity between the Mok et al kinase PWMs and the module
 PWMs, this script employs a previously described quantitative motif comparison method
@@ -314,14 +307,12 @@ In addition, a directory that contains the Mok et al kinase PWMs. They have the 
 format as above. They have been pre-generated and are available for download on Github.
 The repository is titled, "Mok_kinase_PWMs"
 
-Required Parameters: Pandas must be installed on your machine.
-
 Output: A directory containing plain text .csv files named after each module (ie.
 Induced_...sP..txt). Within the .csv files are 63 KLD scores representing how well the
 63 Mok et al kinases match the module motif.
 ```
 ************************************************************************
-### Kullback_Leibler_Module_toEachKinase_Shuffled1000x.py
+### Kullback_Leibler_Module_toEachKinase_Shuffled1000x
 ```
 Purpose:  To quantify similarity between the Mok et al kinase PWMs and the module
 PWMs, this script employs a previously described quantitative motif comparison method
@@ -348,14 +339,12 @@ In addition, a directory that contains the Mok et al kinase PWMs. They have the 
 format as above. They have been pre-generated and are available for download on Github.
 The repository is titled, "Mok_kinase_PWMs"
 
-Required Parameters: Pandas must be installed on your machine. Numpy
-
 Output: A directory containing plain text .csv files named after each module. Within
 the .csv files are 63,000 KLD scores representing how well the 63 Mok et al kinases
 match the module motif after 1000 permutations of each Mok kinase.
 ```
 ************************************************************************
-### CalculateFDR_EachModule_toEachKinase.py
+### CalculateFDR_EachModule_toEachKinase
 ```
 Purpose: Identify FDR scores for each Mok et al kinase and each module by comparing
 the non-shuffled scores to the distribution of shuffled scores. The user can then manually
@@ -371,8 +360,6 @@ Csv format (For both Input Directories)
 
 Scores,Kinase,Module,
 13.25,cdc15,Induced.sP.
-
-Required Parameters: Pandas
 
 Output: A table that contains for each module, all yeast kinases, including those found in
 the Mok et al dataset and those that were absent, and their FDR scores for each module.
