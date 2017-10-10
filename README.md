@@ -41,7 +41,7 @@ change.
   > jupyter_core              4.1.0            
   > numpy                     1.11.0          
   > pandas                    0.19.2         
-  > beautifulsoup4            4.4.1
+  > beautifulsoup4            4.4.1  (required for motfix.py)
    
    once anaconda has been downloaded the required libraries may be installed using:
 
@@ -61,7 +61,6 @@ change.
    * open a terminal and type:  git clone https://github.com/mmacgilvray18/Phospho_Network.git
      This will copy the git repository into a folder called Phospho_Network.
 
-### First way:
 1. Use the provided ipython notebook, Phospho_Network.ipynb.  This notebook was
    generated using jupyter notebook.  
 
@@ -84,20 +83,15 @@ change.
    >Shuffle_KL          -- random shuffle of  Kullback-Leibler Module to Each Kinase used
                            to generate a FDR (False Discovery Rate)
 
-   File outputs:
+   Primary File outputs:
 
     >Network_Submodule_Nodes_background_Network.csv -- All identified submodules
-    >Final_enriched.csv -- Filtered set of identified submodules, strict criteria
+    >Final_enriched.csv          -- Filtered set of identified submodules, strict criteria
     >SIs_submodule_Relationships_Define_ClassA_Network.csv -- Classify Shared Interactors Outputs
     >position_weight_matrix.txt  -- position weight matrix created from fasta input
-    >FDR_Scores.csv   --  Calculate FDR Each Module step results
+    >FDR_Scores.csv              -- Calculate FDR Each Module step results
+    >FINAL_SIF.csv               -- SIF file for cytoscape
 
-
-### Second way:
-  
-  This method will require each script to be run individually on the command line w/ the user responsible
-  for any intermediate files.  The order of the scripts is the same as the steps listed below.
-    
 
 ## Scripts
 ************************************************************************
