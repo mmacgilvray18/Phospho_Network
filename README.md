@@ -57,24 +57,25 @@ change.
 
 
 ## To run pipeline requires that you clone the git repository
-   
+  Assuming you are running linux: 
   Open a terminal and type:  git clone https://github.com/mmacgilvray18/Phospho_Network.git
   This will copy the git repository into a folder called Phospho_Network.
 
 1. Use the provided ipython notebook, Phospho_Network.ipynb.  This notebook was
    generated using jupyter notebook.  
 
-   cd to the git repository, the notebook is setup to be run from that directory.
+   cd to the repository, the notebook is setup to be run from that directory.
 
 2. Using the terminal run 'jupyter notebook' in that directory. If you installed anaconda python
    you may have to run ~/anaconda/bin/jupyter notebook.
    This will open a web browser w/ a page showing the directory contents.  
    Click on Phospho_Network.ipynb which opens another page showing the script.  
 
-3. Follow the script and change any input and output names as desired.  All output directories and files
+3. Follow the script and change any input and output names as desired. Gene Names will definitely
+   need to be changed in the Identify Modules & Submodules step. All output directories and files
    will be created in your current directory.
 
-   This method will automatically create any intermediate files.
+   The code will create all required intermediate files.
 
    Directory outputs:
    
