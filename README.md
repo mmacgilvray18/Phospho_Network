@@ -373,11 +373,11 @@ usage: Shuffle_kullback-Leibler.py -f <Position weight matrix file>
 
 Shuffle kullback-Leibler results for use w/ FDR function.
 
-optional arguments:
-  -h, --help            show this help message and exit
-  -f , --file           Position Weight Matrix file, from Matt's script
-  -i ITER, --iterations Total number of iterations, this will be divided by number of processes.
-  -p PROC, --processes  Number of processes to run, be smart don't use more than you have!
+optional arguments:<br>
+  -h, --help            show this help message and exit<br>
+  -f , --file           Position Weight Matrix file, from Matt's script<br>
+  -i ITER, --iterations Total number of iterations, this will be divided by number of processes.<br>
+  -p PROC, --processes  Number of processes to run, be smart don't use more than you have!<br>
                                                                                 
 
 ************************************************************************
