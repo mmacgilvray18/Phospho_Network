@@ -314,6 +314,8 @@ Induced_...sP..txt). Within the .csv files are 63 KLD scores representing how we
 ************************************************************************
 ### Kullback_Leibler Module toEachKinase Shuffled1000x
 ```
+This is slow, for a faster command line version use: Shuffle-kullback-Leibler.py
+
 Purpose:  To quantify similarity between the Mok et al kinase PWMs and the module
 PWMs, this script employs a previously described quantitative motif comparison method
 called Kullback-Leibler divergence (KLD) (Thijs et al., 2002, Gupta et al., 2007). KLD
@@ -365,6 +367,19 @@ Output: A table that contains for each module, all yeast kinases, including thos
 the Mok et al dataset and those that were absent, and their FDR scores for each module.
 Kinases not found in the Mok et al dataset are given an FDR score of 1.
 ```
+************************************************************************
+
+usage: Shuffle_kullback-Leibler.py -f <Position weight matrix file>  
+
+Shuffle kullback-Leibler results for use w/ FDR function.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -f , --file           Position Weight Matrix file, from Matt's script
+  -i ITER, --iterations Total number of iterations, this will be divided by number of processes.
+  -p PROC, --processes  Number of processes to run, be smart don't use more than you have!
+                                                                                
+
 ************************************************************************
 ## phospho_subnet
 The [phospho_subnet](phospho_subnet) subdirectory contains code, data, and results for the ILP
