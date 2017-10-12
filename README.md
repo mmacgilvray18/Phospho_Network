@@ -379,7 +379,9 @@ the Mok et al dataset and those that were absent, and their FDR scores for each 
 Kinases not found in the Mok et al dataset are given an FDR score of 1.
 ```
 ************************************************************************
-### Shuffle_kullback-Leibler.py
+### Shuffle_kullback-Leibler.py  
+
+command line alternative to Kullback_Leibler Module toEachKinase Shuffled1000x  
 
     Usage: Shuffle_kullback-Leibler.py -f <Position weight matrix file> -i 1000 -p 10 
 
