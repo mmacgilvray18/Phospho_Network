@@ -13,14 +13,14 @@ Integer Programming (IP) approach that connects the sources to their downstream 
 (Chasman et al., 2014).
 
 The pipeline titled “Phospho_Network.ipynb” consists of the scripts used to analyze data from MacGilvray et al.  
+The output is a .sif file compatible with Cytoscape 24 for visualization and analysis.
 
 Most users with wild-type S. cerevisiae phospho-proteomic data will be interested in a second pipeline 
 titled, “Shared_interactors.ipynb”.  This pipeline takes as input user-defined groups of phospho-peptides
 (e.g. those with increased phosphorylation in response stimulus or those with decreased phosphorylation
 in response to stimulus).  The first script partitions each group into ‘modules’ of phospho-peptides that
 share the same sequence motif around the phosphorylation site.  The method then identifies Shared Interactors
-as described above for each identified module.  The output is a .sif file compatible with Cytoscape
-for visualization and analysis.
+as described above for each identified module. 
 
 
 Please see our _bioRxiv_ preprint for additional information:
