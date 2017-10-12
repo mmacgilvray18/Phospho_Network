@@ -404,7 +404,7 @@ comparison with the prize-collecting Steiner forest network algorithm.
 Initial scripts used to create the ipython notebook pipeline.  
 
 ## reference folder
-orf_trans_all.20150113.fasta file  
+orf_trans_all.20150113.fasta file for running motifx w/ a more recent reference. 
 
 ## required folder  
 Annotated kinase and phosphatase background files.
