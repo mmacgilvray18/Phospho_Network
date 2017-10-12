@@ -66,15 +66,14 @@ change.
 
 
 ## To run pipeline requires that you clone the git repository
-  Assuming you are running linux:   
-  Open a terminal and type:  
+  Assuming you are running linux, Open a terminal and type:  
   
     git clone https://github.com/mmacgilvray18/Phospho_Network.git
   
   This will copy the git repository into a folder called Phospho_Network.
 
-1. Use the provided ipython notebook, Phospho_Network.ipynb.  This notebook was
-   generated using jupyter notebook.  
+1. Use the provided ipython notebook, Phospho_Network.ipynb or Shared_interactors.ipynb depending
+   on what you want to run.  These notebooks were generated using jupyter notebook.  
 
    cd to the repository, the notebook is setup to be run from that directory.
 
