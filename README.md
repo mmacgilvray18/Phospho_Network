@@ -35,13 +35,13 @@ change.
  * python libraries required:  Pandas, numpy, Biopython, jupyter, beautifulsoup
    
    Code has successfully executed using these versions:
-  > python                    3.4.4 <br>
+  > python                    3.4.4   
   > biopython                 1.68               
-  > jupyter                   1.0.0             
-  > jupyter_core              4.1.0            
-  > numpy                     1.11.0          
-  > pandas                    0.19.2         
-  > beautifulsoup4            4.4.1  (required for motfix.py)
+  > jupyter                   1.0.0               
+  > jupyter_core              4.1.0              
+  > numpy                     1.11.0            
+  > pandas                    0.19.2           
+  > beautifulsoup4            4.4.1  (required for motfix.py)  
    
    once anaconda has been downloaded the required libraries may be installed using:
 
@@ -57,8 +57,11 @@ change.
 
 
 ## To run pipeline requires that you clone the git repository
-  Assuming you are running linux: 
-  Open a terminal and type:  git clone https://github.com/mmacgilvray18/Phospho_Network.git
+  Assuming you are running linux:   
+  Open a terminal and type:  
+  
+    git clone https://github.com/mmacgilvray18/Phospho_Network.git
+  
   This will copy the git repository into a folder called Phospho_Network.
 
 1. Use the provided ipython notebook, Phospho_Network.ipynb.  This notebook was
@@ -375,10 +378,10 @@ Kinases not found in the Mok et al dataset are given an FDR score of 1.
     Shuffle kullback-Leibler results for use w/ FDR function.
 
     optional arguments:<br>
-        -h, --help            show this help message and exit<br>
-        -f , --file           Position Weight Matrix file, from Matt's script<br>
-        -i ITER, --iterations Total number of iterations, this will be divided by number of processes.<br>
-        -p PROC, --processes  Number of processes to run, be smart don't use more than you have!<br>                                                                      
+        -h, --help            show this help message and exit  
+        -f , --file           Position Weight Matrix file, from Matt's script  
+        -i ITER, --iterations Total number of iterations, this will be divided by number of processes.   
+        -p PROC, --processes  Number of processes to run, be smart don't use more than you have!                                                                         
 
 ************************************************************************
 ## phospho_subnet
