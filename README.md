@@ -13,7 +13,7 @@ Integer Programming (IP) approach that connects the sources to their downstream 
 (Chasman et al., 2014).
 
 The pipeline titled “Phospho_Network.ipynb” consists of the scripts used to analyze data from MacGilvray et al.  
-The output is a .sif file compatible with Cytoscape 24 for visualization and analysis.
+The output is a .sif file compatible with Cytoscape for visualization and analysis.
 
 Most users with wild-type S. cerevisiae phospho-proteomic data will be interested in a second pipeline 
 titled, “Shared_interactors.ipynb”.  This pipeline takes as input user-defined groups of phospho-peptides
@@ -392,14 +392,25 @@ Kinases not found in the Mok et al dataset are given an FDR score of 1.
         -p PROC, --processes  Number of processes to run, be smart don't use more than you have!                                                                         
 
 ************************************************************************
-## phospho_subnet
-The [phospho_subnet](phospho_subnet) subdirectory contains code, data, and results for the ILP
-approach to infer the NaCl-dependent phosphoproteomic signaling subnetwork.
+## phospho_subnet folder  
+The [phospho_subnet](phospho_subnet) subdirectory contains code, data, and results for the ILP  
+approach to infer the NaCl-dependent phosphoproteomic signaling subnetwork.  
 
-## pcsf
-The [pcsf](pcsf) subdirectory contains code, data, and results for the
-comparison with the prize-collecting Steiner forest network algorithm.
+## pcsf folder  
+The [pcsf](pcsf) subdirectory contains code, data, and results for the  
+comparison with the prize-collecting Steiner forest network algorithm.  
 
+## python folder  
+Initial scripts used to create the ipython notebook pipeline.  
+
+## reference folder
+orf_trans_all.20150113.fasta file  
+
+## required folder  
+Annotated kinase and phosphatase background files.
+
+## SI_Identification_Input_Files
+Background network and interactions files use in pipeline.
 
 ## References
 Chasman D, Ho YH, Berry DB, et al. (2014) Pathway connectivity and signaling
