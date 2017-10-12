@@ -368,17 +368,17 @@ the Mok et al dataset and those that were absent, and their FDR scores for each 
 Kinases not found in the Mok et al dataset are given an FDR score of 1.
 ```
 ************************************************************************
+### Shuffle_kullback-Leibler.py
 
-usage: Shuffle_kullback-Leibler.py -f <Position weight matrix file>  
+    Usage: Shuffle_kullback-Leibler.py -f <Position weight matrix file>  
 
-Shuffle kullback-Leibler results for use w/ FDR function.
+    Shuffle kullback-Leibler results for use w/ FDR function.
 
-optional arguments:<br>
-  -h, --help            show this help message and exit<br>
-  -f , --file           Position Weight Matrix file, from Matt's script<br>
-  -i ITER, --iterations Total number of iterations, this will be divided by number of processes.<br>
-  -p PROC, --processes  Number of processes to run, be smart don't use more than you have!<br>
-                                                                                
+    optional arguments:<br>
+        -h, --help            show this help message and exit<br>
+        -f , --file           Position Weight Matrix file, from Matt's script<br>
+        -i ITER, --iterations Total number of iterations, this will be divided by number of processes.<br>
+        -p PROC, --processes  Number of processes to run, be smart don't use more than you have!<br>                                                                      
 
 ************************************************************************
 ## phospho_subnet
