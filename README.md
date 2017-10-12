@@ -35,7 +35,7 @@ change.
  * python libraries required:  Pandas, numpy, Biopython, jupyter, beautifulsoup
    
    Code has successfully executed using these versions:
-  > python                    3.4.4
+  > python                    3.4.4 <br>
   > biopython                 1.68               
   > jupyter                   1.0.0             
   > jupyter_core              4.1.0            
