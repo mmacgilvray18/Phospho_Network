@@ -1,18 +1,27 @@
 # Computational phospho-proteomic network inference pipeline
 
-This pipeline turns a list of _S. cerevesiae_ phospho-peptides that exhibit stress responsive
-abundance changes, as measured by mass spectrometry, into a hierarchical signaling
-network, connecting upstream kinases and phosphatases to their downstream targets. Our
-computational pipeline is based on the premise that kinases and phosphatases recognize
-target substrates through specific amino acid sequences at the phosphorylated residue,
-called phosphorylation motifs. This pipeline groups phospho-peptides with similar
-abundance changes and the same phosphorylation motif into modules. Modules are
-partitioned into smaller groups, called submodules, based on differences in phospho-
-peptide abundance in mutant strain(s) (sources). Candidate submodule regulators, called
-shared interactors, are identified through enrichment analysis using a protein interaction
-network in yeast (Chasman et al., 2014). Shared interactor-submodule pairs serve as
-inputs for a previously developed Integer Programming (IP) approach that connects the
-sources to their downstream target submodules (Chasman et al., 2014).
+The scripts enclosed were used to analyze wild type and mutant phosphoproteomic data as submitted in 
+MacGilvray et al. (Network inference reveals novel connections in pathways regulating growth and defense 
+in the yeast salt response. Matthew E. MacGilvray+, Evgenia Shishkova+, Deborah Chasman, Michael Place,
+Anthony Gitter, Joshua J. Coon, Audrey P. Gasch. bioRxiv 2017. doi:10.1101/176230).  The pipeline takes
+a list of phospho-peptides from S. cerevisiae and defines groups of likely co-regulated peptides that
+share the same phosphorylation motif (see manuscript Methods for details).  For each of these ‘modules’
+of peptides, the pipeline then identifies ‘shared interactors’, defined as proteins from a background
+network of protein interactions that show more physical interactions with module constituent proteins
+then expected by chance.  Shared interactor-module pairs serve as inputs for a previously developed 
+Integer Programming (IP) approach that connects the sources to their downstream target submodules
+(Chasman et al., 2014).
+
+The pipeline titled “Phospho_Network.ipynb” consists of the scripts used to analyze data from MacGilvray et al.  
+
+Most users with wild-type S. cerevisiae phospho-proteomic data will be interested in a second pipeline 
+titled, “Shared_interactors.ipynb”.  This pipeline takes as input user-defined groups of phospho-peptides
+(e.g. those with increased phosphorylation in response stimulus or those with decreased phosphorylation
+in response to stimulus).  The first script partitions each group into ‘modules’ of phospho-peptides that
+share the same sequence motif around the phosphorylation site.  The method then identifies Shared Interactors
+as described above for each identified module.  The output is a .sif file compatible with Cytoscape
+for visualization and analysis.
+
 
 Please see our _bioRxiv_ preprint for additional information:
 
