@@ -1,0 +1,21 @@
+#Node	Node type
+YOR360C	source
+Induced_.....s..S..._pde2_Induced_Defective	target
+Induced_.....sP....._pde2_Induced_Defective	target
+Induced_.....tP....._pde2_Induced_Defective	target
+Induced_..K..s......_pde2_Induced_Defective	target
+Induced_..R..s......_pde2_Induced_Amplified	target
+Induced_..R..s......_pde2_Induced_Defective	target
+Induced_..S..s......_pde2_Induced_Defective	target
+Repressed_.....sP....._pde2_Repressed_Amplified	target
+Repressed_.....sP....._pde2_Repressed_Defective	target
+Repressed_.....tP....._pde2_Repressed_Amplified	target
+Repressed_...R.s......_pde2_Repressed_Amplified	target
+Repressed_..R..s......_pde2_Repressed_Amplified	target
+Repressed_..R..t......_pde2_Repressed_Amplified	target
+Repressed_..RK.s......_pde2_Repressed_Amplified	target
+Repressed_..RR.s......_pde2_Repressed_Amplified	target
+Repressed_..RS.s......_pde2_Repressed_Amplified	target
+Repressed_..RS.s......_pde2_Repressed_Defective	target
+Repressed_R.....s......_pde2_Repressed_Amplified	target
+Repressed_R.R..s......_pde2_Repressed_Amplified	target

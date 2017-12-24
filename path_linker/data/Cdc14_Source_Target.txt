@@ -1,0 +1,27 @@
+#Node	Node type			
+YFR028C	source			
+Induced_.....s..S..._cdc14_Induced_Amplified	target			
+Induced_.....s..S..._cdc14_Induced_Defective	target			
+Induced_.....sP....._cdc14_Induced_Defective	target			
+Induced_.....tP....._cdc14_Induced_Amplified	target			
+Induced_.....tP....._cdc14_Induced_Defective	target			
+Induced_..K..s......_cdc14_Induced_Amplified	target			
+Induced_..K..s......_cdc14_Induced_Defective	target			
+Induced_..R..s......_cdc14_Induced_Amplified	target			
+Induced_..R..s......_cdc14_Induced_Defective	target			
+Induced_..S..s......_cdc14_Induced_Amplified	target			
+Induced_..S..s......_cdc14_Induced_Defective	target			
+Repressed_.....tP....._cdc14_Repressed_Amplified	target			
+Repressed_.....tP....._cdc14_Repressed_Defective	target			
+Repressed_..R..s......_cdc14_Repressed_Amplified	target			
+Repressed_..R..s......_cdc14_Repressed_Defective	target			
+Repressed_..R..t......_cdc14_Repressed_Amplified	target			
+Repressed_..R..t......_cdc14_Repressed_Defective	target			
+Repressed_..RK.s......_cdc14_Repressed_Amplified	target			
+Repressed_..RK.s......_cdc14_Repressed_Defective	target			
+Repressed_..RR.s......_cdc14_Repressed_Defective	target			
+Repressed_..RS.s......_cdc14_Repressed_Defective	target			
+Repressed_R.....s......_cdc14_Repressed_Amplified	target			
+Repressed_R.....s......_cdc14_Repressed_Defective	target			
+Repressed_R.R..s......_cdc14_Repressed_Defective	target			
+Repressed_R.R..s......_cdc14_Repressed_Defective	target			

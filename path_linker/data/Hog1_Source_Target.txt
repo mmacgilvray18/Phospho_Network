@@ -1,0 +1,18 @@
+#Node	Node type
+YLR113W	source
+Induced_.....s..S..._hog1_Induced_Defective	target
+Induced_.....sP....._hog1_Induced_Amplified	target
+Induced_.....sP....._hog1_Induced_Defective	target
+Induced_.....tP....._hog1_Induced_Defective	target
+Induced_..K..s......_hog1_Induced_Defective	target
+Induced_..R..s......_hog1_Induced_Amplified	target
+Induced_..R..s......_hog1_Induced_Defective	target
+Induced_..S..s......_hog1_Induced_Defective	target
+Repressed_.....sP....._hog1_Repressed_Defective	target
+Repressed_...R.s......_hog1_Repressed_Defective	target
+Repressed_..R..s......_hog1_Repressed_Defective	target
+Repressed_..RK.s......_hog1_Repressed_Defective	target
+Repressed_..RR.s......_hog1_Repressed_Defective	target
+Repressed_..RS.s......_hog1_Repressed_Defective	target
+Repressed_R.R..s......_hog1_Repressed_Amplified	target
+Repressed_R.R..s......_hog1_Repressed_Defective	target
