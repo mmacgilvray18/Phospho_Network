@@ -15,7 +15,7 @@ PathLinker was run independently for each source so each of the three sources ha
 ## results
 The `cdc14_hog1_pde2_sources_pl_120917` subdirectory contains the PathLinker output.
 See the [PathLinker repository](https://github.com/Murali-group/PathLinker) for a description of the output file formats.
-The three results were merged by taking the minimum rank for each edge across the three runs.
+The three sets of source-specific results were merged by taking the minimum rank for each edge across the three runs.
 
 ## References
 Ritz A, Poirel CL, Tegge AN, Sharp N, Simmons K, Powell A, Kale SD, Murali TM.
