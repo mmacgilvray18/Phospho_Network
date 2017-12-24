@@ -1,6 +1,6 @@
 # PathLinker
 This subdirectory contains network analysis of the yeast salt stress phosphorylation response with the [PathLinker](https://github.com/Murali-group/PathLinker) software.
-PathLinker was run in the conda environment specified by `environment.yml`.
+PathLinker was run in the [conda environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) specified by `environment.yml`.
 
 ## cluster
 The script in this subdirectory is provided for transparency and is intended to show in detail how PathLinker was run.
@@ -15,6 +15,7 @@ PathLinker was run independently for each source so each of the three sources ha
 ## results
 The `cdc14_hog1_pde2_sources_pl_120917` subdirectory contains the PathLinker output.
 See the [PathLinker repository](https://github.com/Murali-group/PathLinker) for a description of the output file formats.
+The three results were merged by taking the minimum rank for each edge across the three runs.
 
 ## References
 Ritz A, Poirel CL, Tegge AN, Sharp N, Simmons K, Powell A, Kale SD, Murali TM.
