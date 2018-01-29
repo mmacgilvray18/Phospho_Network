@@ -1,0 +1,27 @@
+# NaCl phosphonet config file for pathfinding in random networks
+# Assumes "-" are removed from gene names before running!
+# DC Jan 2018
+
+# background network
+EDGE_LIBRARY	../rand_ilp/input_data/network//rewired-BG-network-474_4_bgnet.txt	null	1	0
+
+# Matt's edges 
+# Read in special edge type: matchType
+EFEATURE	matchType=CatSet(Constituent|motif_match|motif_unmatched|Output|Shared_Interaction|unknown_recognition_motif)
+EDGE_LIBRARY	../rand_ilp/input_data/NaCl_RAND/NaCl_module_edges_Randomized_4.txt	null	1	0|5
+
+# souce module pairs
+ST_PAIRS	pair	../rand_ilp/input_data/NaCl_RAND/NaCl_source_module_pairs_Randomized_4.txt
+
+NFEATURE	ntype=Discrete(module|source)	"node type"	../rand_ilp/input_data/NaCl_RAND/NaCl_node_types_Randomized_4.txt	\t	1
+NFILTER	source_f	EqualsFilter	ntype	source
+
+# Get constituent edges for free
+EFILTER	const_f	EqualsFilter	matchType	Constituent
+EFILTERMANAGER	const_m	or	any	const_f
+
+# Connect source-module pairs - allow paths to continue to multiple targets
+PATHFINDER	paths	FreeEdgePairPathFinder	pair	3	const_m	CONTINUE		
+
+GAMS_FILE	../rand_ilp/pathfinder/NaCl_rand4/NaCl_rand4
+OUT_PREFIX	../rand_ilp/pathfinder/NaCl_rand4/NaCl_rand4

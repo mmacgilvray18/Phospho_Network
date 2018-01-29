@@ -17,8 +17,8 @@ outhome=../rand_ilp/pathfinder
 # {OUT}  -- directory to put output in
 # {OUTPREF} -- file prefix for output
 
-nrand=4
-for i in `seq 1 $nrand`;
+nrand=4  # max ID for rand nets
+for i in `seq 0 $nrand`;
 do
 
 	echo "Running pathfinding for $cond"
@@ -28,7 +28,7 @@ do
 	if [[ ! -d $OUT ]]; then
 		mkdir -p $OUT
 	fi
-	OUTPREF=${OUT}
+	OUTPREF=$(basename ${OUT})
 
 	# generate config file
 	CONFIG=${OUT}/${OUTPREF}_config.txt
@@ -45,6 +45,6 @@ do
 	echo "Check output in ${OUT}"
 	echo "See ${OUT}/run_${cond}_rand${i}_pathfinder.log"
 	date
-
+	
 done # end loop over bgnets
 
