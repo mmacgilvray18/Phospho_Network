@@ -1,26 +1,26 @@
 # Computational phospho-proteomic network inference pipeline
 
-The scripts enclosed were used to analyze wild type and mutant phosphoproteomic data as submitted in 
-MacGilvray et al. (Network inference reveals novel connections in pathways regulating growth and defense 
+The scripts enclosed were used to analyze wild type and mutant phosphoproteomic data as submitted in
+MacGilvray et al. (Network inference reveals novel connections in pathways regulating growth and defense
 in the yeast salt response. Matthew E. MacGilvray+, Evgenia Shishkova+, Deborah Chasman, Michael Place,
 Anthony Gitter, Joshua J. Coon, Audrey P. Gasch. bioRxiv 2017. doi:10.1101/176230).  The pipeline takes
 a list of phospho-peptides from S. cerevisiae and defines groups of likely co-regulated peptides that
 share the same phosphorylation motif (see manuscript Methods for details).  For each of these ‘modules’
 of peptides, the pipeline then identifies ‘shared interactors’, defined as proteins from a background
 network of protein interactions that show more physical interactions with module constituent proteins
-then expected by chance.  Shared interactor-module pairs serve as inputs for a previously developed 
+then expected by chance.  Shared interactor-module pairs serve as inputs for a previously developed
 Integer Programming (IP) approach that connects the sources to their downstream target submodules
 (Chasman et al., 2014).
 
 The pipeline titled **“Phospho_Network.ipynb”** consists of the scripts used to analyze data from MacGilvray et al.  
 The output is a .sif file compatible with Cytoscape for visualization and analysis.
 
-**Most users** with wild-type S. cerevisiae phospho-proteomic data will be interested in a second pipeline 
+**Most users** with wild-type S. cerevisiae phospho-proteomic data will be interested in a second pipeline
 titled,**“Shared_interactors.ipynb”**.  This pipeline takes as input user-defined groups of phospho-peptides
 (e.g. those with increased phosphorylation in response stimulus or those with decreased phosphorylation
 in response to stimulus).  The first script partitions each group into ‘modules’ of phospho-peptides that
 share the same sequence motif around the phosphorylation site.  The method then identifies Shared Interactors
-as described above for each identified module. 
+as described above for each identified module.
 
 
 Please see our _bioRxiv_ preprint for additional information:
@@ -42,7 +42,7 @@ change.
  * Python 3 (version 3.4 although any version 3 should work)
    Anaconda is an easy way to install python, https://www.anaconda.com/download/
  * python libraries required:  Pandas, numpy, Biopython, jupyter, beautifulsoup
-   
+
    Code has successfully executed using these versions:
   > python                    3.4.4   
   > biopython                 1.68               
@@ -51,25 +51,25 @@ change.
   > numpy                     1.11.0            
   > pandas                    0.19.2           
   > beautifulsoup4            4.4.1  (required for motfix.py)  
-   
+
    once anaconda has been downloaded the required libraries may be installed using:
 
-    conda install -c anaconda biopython=1.68 
+    conda install -c anaconda biopython=1.68
 
     conda install panda=0.19.2
-   
+
     conda install numpy=1.11.0
-    
+
     conda install jupyter=1.0.0
 
-    conda install -c anaconda beautifulsoup4 
+    conda install -c anaconda beautifulsoup4
 
 
 ## To run pipeline requires that you clone the git repository
   Assuming you are running linux, Open a terminal and type:  
-  
+
     git clone https://github.com/mmacgilvray18/Phospho_Network.git
-  
+
   This will copy the git repository into a folder called Phospho_Network.
 
 1. Use the provided ipython notebook, Phospho_Network.ipynb or Shared_interactors.ipynb depending
@@ -89,7 +89,7 @@ change.
    The code will create all required intermediate files.
 
    Directory outputs:
-   
+
    >FastaFiles_Modules  -- peptide input files for 'Create PWMs From Module Fasta' step<br>
    >ClassA_NoShuffle_KL -- Kullback-Leibler Module to Each Kinase results<br>
    >Shuffle_KL          -- random shuffle of  Kullback-Leibler Module to Each Kinase used
@@ -383,7 +383,7 @@ Kinases not found in the Mok et al dataset are given an FDR score of 1.
 
 command line alternative to Kullback_Leibler Module toEachKinase Shuffled1000x  
 
-    Usage: Shuffle_kullback-Leibler.py -f <Position weight matrix file> -i 1000 -p 10 
+    Usage: Shuffle_kullback-Leibler.py -f <Position weight matrix file> -i 1000 -p 10
 
     Shuffle kullback-Leibler results for use w/ FDR function.
 
@@ -398,6 +398,10 @@ command line alternative to Kullback_Leibler Module toEachKinase Shuffled1000x
 The [phospho_subnet](phospho_subnet) subdirectory contains code, data, and results for the ILP  
 approach to infer the NaCl-dependent phosphoproteomic signaling subnetwork.  
 
+## path_linker folder
+The [path_linker](path_linker) subdirectory contains code, data, and results for
+the comparison with the PathLinker network algorithm.  
+
 ## pcsf folder  
 The [pcsf](pcsf) subdirectory contains code, data, and results for the  
 comparison with the prize-collecting Steiner forest network algorithm.  
@@ -406,7 +410,7 @@ comparison with the prize-collecting Steiner forest network algorithm.
 Initial scripts used to create the ipython notebook pipeline.  
 
 ## reference folder
-orf_trans_all.20150113.fasta file for running motifx w/ a more recent reference. 
+orf_trans_all.20150113.fasta file for running motifx w/ a more recent reference.
 
 ## required folder  
 Annotated kinase and phosphatase background files.
