@@ -8,7 +8,7 @@ Code for inferring the NaCl-responsive phosphoproteomic subnetwork.
 * input_data: Condition-specific data files and background network
 
 * pathfinder: Location for solving the ILP. Contains scripts for setting up and processing GAMS results.
-	pathfinder/nacl_3_lesion contains the output from the ILP
+	pathfinder/run_NaCl contains the output from the ILP
 
 * rand_ilp: Location for files pertaining to running the ILP on the randomized input networks/data.
 
