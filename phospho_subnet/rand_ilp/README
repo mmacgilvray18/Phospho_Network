@@ -1,0 +1,42 @@
+This directory contains input and output files for running the ILP subnet inference on the randomized background networks and submodules.
+
+(1) From ../scripts, these scripts were run (from the scripts directory)
+
+step1R_gen_rand_input_data.sh (Generates ILP-friendly input from the randomized submodule files)
+
+step2R_run_pathfinder_rand.sh (Uses randomized BG nets and their submodules to identify candidate paths)
+
+(2) To set up individual GAMS models, run scripts/set_up_local.sh from this directory. This creates the run_NaCl* subdirectories.
+
+(3) From within each subdirectory, invoke GAMS: gams run_lesion.gms lo=2
+
+(4) After completion, run process_lesion.sh per directory to compile results.
+
+
+Contents
+--------
+NaCl_rand_node_rankings:
+	Contains the final node rankings from the 5 ILP runs.
+
+config:
+	Contains the config file for the pathfinding step
+
+input_data: 
+	NaCl_RAND/ processed input data
+	network/ randomized background networks, formatted for ILP
+	
+pathfinder: 
+	scripts: scripts for setting up and processing GAMS/CPLEX
+
+	model: ILP modeled in GAMS
+	NaCl_rand{0-4}: result of running step2R_run_pathfinder_rand.sh - input files for GAMS/CPLEX
+	run_NaCl_rand{0-4}: after running scripts/set_up_local.sh and then solving run_lesion.gms with GAMS.
+		cyto: cytoscape format results
+		gdx: raw GAMS output (deleted for space concerns)
+		result: processed gams output (individual solutions tarred up into solution_dumps.tar.gz; summarized results in path_x.tab (edges), path_y.tab (nodes), path_sigma.tab (paths)
+	
+
+	
+
+
+

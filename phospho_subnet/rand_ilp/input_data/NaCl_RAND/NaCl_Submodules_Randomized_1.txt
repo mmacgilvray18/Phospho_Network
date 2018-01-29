@@ -1,0 +1,77 @@
+subModule	Source
+Induced_..K..s......_No_Phenotype_Exists
+Induced_..R..s......_No_Phenotype_Exists
+Induced_.....sP....._No_Phenotype_Exists
+Induced_.....s..S..._No_Phenotype_Exists
+Induced_..S..s......_No_Phenotype_Exists
+Induced_.....tP....._No_Phenotype_Exists
+Repressed_..KR.s......_No_Phenotype_Exists
+Repressed_..RK.s......_No_Phenotype_Exists
+Repressed_..RR.s......_No_Phenotype_Exists
+Repressed_R.R..s......_No_Phenotype_Exists
+Repressed_...R.s......_No_Phenotype_Exists
+Repressed_..R..s......_No_Phenotype_Exists
+Repressed_R.....s......_No_Phenotype_Exists
+Repressed_..RS.s......_No_Phenotype_Exists
+Repressed_..R..t......_No_Phenotype_Exists
+Repressed_.....sP....._No_Phenotype_Exists
+Repressed_.....tP....._No_Phenotype_Exists
+Induced_..K..s......_cdc14_Induced_Amplified	cdc14
+Induced_..K..s......_cdc14_Induced_Defective	cdc14
+Induced_..R..s......_cdc14_Induced_Amplified	cdc14
+Induced_..R..s......_cdc14_Induced_Defective	cdc14
+Induced_.....sP....._cdc14_Induced_Defective	cdc14
+Induced_.....s..S..._cdc14_Induced_Amplified	cdc14
+Induced_..S..s......_cdc14_Induced_Amplified	cdc14
+Induced_.....s..S..._cdc14_Induced_Defective	cdc14
+Induced_..S..s......_cdc14_Induced_Defective	cdc14
+Induced_.....tP....._cdc14_Induced_Amplified	cdc14
+Induced_.....tP....._cdc14_Induced_Defective	cdc14
+Repressed_..RK.s......_cdc14_Repressed_Amplified	cdc14
+Repressed_..RK.s......_cdc14_Repressed_Defective	cdc14
+Repressed_..RR.s......_cdc14_Repressed_Defective	cdc14
+Repressed_R.R..s......_cdc14_Repressed_Defective	cdc14
+Repressed_..R..s......_cdc14_Repressed_Amplified	cdc14
+Repressed_R.....s......_cdc14_Repressed_Amplified	cdc14
+Repressed_..R..s......_cdc14_Repressed_Defective	cdc14
+Repressed_R.....s......_cdc14_Repressed_Defective	cdc14
+Repressed_..RS.s......_cdc14_Repressed_Defective	cdc14
+Repressed_..R..t......_cdc14_Repressed_Amplified	cdc14
+Repressed_..R..t......_cdc14_Repressed_Defective	cdc14
+Repressed_.....tP....._cdc14_Repressed_Amplified	cdc14
+Repressed_.....tP....._cdc14_Repressed_Defective	cdc14
+Induced_..K..s......_hog1_Induced_Defective	hog1
+Induced_..R..s......_hog1_Induced_Amplified	hog1
+Induced_..R..s......_hog1_Induced_Defective	hog1
+Induced_.....sP....._hog1_Induced_Amplified	hog1
+Induced_.....sP....._hog1_Induced_Defective	hog1
+Induced_.....s..S..._hog1_Induced_Defective	hog1
+Induced_..S..s......_hog1_Induced_Defective	hog1
+Induced_.....tP....._hog1_Induced_Defective	hog1
+Repressed_..RK.s......_hog1_Repressed_Defective	hog1
+Repressed_R.R..s......_hog1_Repressed_Amplified	hog1
+Repressed_..RR.s......_hog1_Repressed_Defective	hog1
+Repressed_R.R..s......_hog1_Repressed_Defective	hog1
+Repressed_...R.s......_hog1_Repressed_Defective	hog1
+Repressed_..R..s......_hog1_Repressed_Defective	hog1
+Repressed_..RS.s......_hog1_Repressed_Defective	hog1
+Repressed_.....sP....._hog1_Repressed_Defective	hog1
+Induced_..K..s......_pde2_Induced_Defective	pde2
+Induced_..R..s......_pde2_Induced_Amplified	pde2
+Induced_..R..s......_pde2_Induced_Defective	pde2
+Induced_.....sP....._pde2_Induced_Defective	pde2
+Induced_.....s..S..._pde2_Induced_Defective	pde2
+Induced_..S..s......_pde2_Induced_Defective	pde2
+Induced_.....tP....._pde2_Induced_Defective	pde2
+Repressed_..RK.s......_pde2_Repressed_Amplified	pde2
+Repressed_..RR.s......_pde2_Repressed_Amplified	pde2
+Repressed_R.R..s......_pde2_Repressed_Amplified	pde2
+Repressed_...R.s......_pde2_Repressed_Amplified	pde2
+Repressed_..R..s......_pde2_Repressed_Amplified	pde2
+Repressed_R.....s......_pde2_Repressed_Amplified	pde2
+Repressed_..RS.s......_pde2_Repressed_Amplified	pde2
+Repressed_..RS.s......_pde2_Repressed_Defective	pde2
+Repressed_..R..t......_pde2_Repressed_Amplified	pde2
+Repressed_.....sP....._pde2_Repressed_Amplified	pde2
+Repressed_.....sP....._pde2_Repressed_Defective	pde2
+Repressed_.....tP....._pde2_Repressed_Amplified	pde2

@@ -1,0 +1,1820 @@
+Interactor_A	Edge_Type	Interactor_B	Annotation	SI	FDR_Score	Match_FDR
+Induced_.....s..S..._cdc14_Induced_Amplified	Constituent	YMR031C				
+Induced_.....s..S..._cdc14_Induced_Amplified	Constituent	YHR131C				
+Induced_.....s..S..._cdc14_Induced_Defective	Constituent	YBL061C				
+Induced_.....s..S..._cdc14_Induced_Defective	Constituent	YHR158C				
+Induced_.....s..S..._cdc14_Induced_Defective	Constituent	YNL180C				
+Induced_.....s..S..._cdc14_Induced_Defective	Constituent	YNL267W				
+Induced_.....s..S..._hog1_Induced_Defective	Constituent	YBR080C				
+Induced_.....s..S..._hog1_Induced_Defective	Constituent	YDR407C				
+Induced_.....s..S..._hog1_Induced_Defective	Constituent	YER105C				
+Induced_.....s..S..._hog1_Induced_Defective	Constituent	YGL099W				
+Induced_.....s..S..._hog1_Induced_Defective	Constituent	YJR076C				
+Induced_.....s..S..._hog1_Induced_Defective	Constituent	YLR206W				
+Induced_.....s..S..._hog1_Induced_Defective	Constituent	YLR260W				
+Induced_.....s..S..._hog1_Induced_Defective	Constituent	YHR131C				
+Induced_.....s..S..._hog1_Induced_Defective	Constituent	YHR158C				
+Induced_.....s..S..._hog1_Induced_Defective	Constituent	YNL180C				
+Induced_.....s..S..._hog1_Induced_Defective	Constituent	YNL267W				
+Induced_.....s..S..._No_Phenotype_Exists	Constituent	YBL047C				
+Induced_.....s..S..._No_Phenotype_Exists	Constituent	YDL146W				
+Induced_.....s..S..._No_Phenotype_Exists	Constituent	YDL225W				
+Induced_.....s..S..._No_Phenotype_Exists	Constituent	YDR093W				
+Induced_.....s..S..._No_Phenotype_Exists	Constituent	YDR490C	Kinase			
+Induced_.....s..S..._No_Phenotype_Exists	Constituent	YER087C-B				
+Induced_.....s..S..._No_Phenotype_Exists	Constituent	YER166W				
+Induced_.....s..S..._No_Phenotype_Exists	Constituent	YFL009W				
+Induced_.....s..S..._No_Phenotype_Exists	Constituent	YGL181W				
+Induced_.....s..S..._No_Phenotype_Exists	Constituent	YGR038W				
+Induced_.....s..S..._No_Phenotype_Exists	Constituent	YGR097W				
+Induced_.....s..S..._No_Phenotype_Exists	Constituent	YIR006C		Yes		
+Induced_.....s..S..._No_Phenotype_Exists	Constituent	YLL040C				
+Induced_.....s..S..._No_Phenotype_Exists	Constituent	YLR410W				
+Induced_.....s..S..._No_Phenotype_Exists	Constituent	YNL118C				
+Induced_.....s..S..._No_Phenotype_Exists	Constituent	YNL166C				
+Induced_.....s..S..._No_Phenotype_Exists	Constituent	YOL093W				
+Induced_.....s..S..._No_Phenotype_Exists	Constituent	YPL032C				
+Induced_.....s..S..._pde2_Induced_Defective	Constituent	YER087C-B				
+Induced_.....s..S..._pde2_Induced_Defective	Constituent	YGL181W				
+Induced_.....s..S..._pde2_Induced_Defective	Constituent	YIL036W				
+Induced_.....s..S..._pde2_Induced_Defective	Constituent	YMR031C				
+Induced_.....sP....._cdc14_Induced_Defective	Constituent	YBR059C	Kinase			
+Induced_.....sP....._cdc14_Induced_Defective	Constituent	YBR140C				
+Induced_.....sP....._cdc14_Induced_Defective	Constituent	YML059C				
+Induced_.....sP....._cdc14_Induced_Defective	Constituent	YLR006C				
+Induced_.....sP....._hog1_Induced_Amplified	Constituent	YDL195W				
+Induced_.....sP....._hog1_Induced_Amplified	Constituent	YDR033W				
+Induced_.....sP....._hog1_Induced_Amplified	Constituent	YJL095W	Kinase			
+Induced_.....sP....._hog1_Induced_Amplified	Constituent	YNL278W				
+Induced_.....sP....._hog1_Induced_Defective	Constituent	YBL004W				
+Induced_.....sP....._hog1_Induced_Defective	Constituent	YBR059C	Kinase			
+Induced_.....sP....._hog1_Induced_Defective	Constituent	YDL117W				
+Induced_.....sP....._hog1_Induced_Defective	Constituent	YDL224C				
+Induced_.....sP....._hog1_Induced_Defective	Constituent	YDR003W				
+Induced_.....sP....._hog1_Induced_Defective	Constituent	YDR227W				
+Induced_.....sP....._hog1_Induced_Defective	Constituent	YER083C				
+Induced_.....sP....._hog1_Induced_Defective	Constituent	YGL208W				
+Induced_.....sP....._hog1_Induced_Defective	Constituent	YGR094W				
+Induced_.....sP....._hog1_Induced_Defective	Constituent	YGR097W				
+Induced_.....sP....._hog1_Induced_Defective	Constituent	YGR253C				
+Induced_.....sP....._hog1_Induced_Defective	Constituent	YHR007C				
+Induced_.....sP....._hog1_Induced_Defective	Constituent	YIL115C				
+Induced_.....sP....._hog1_Induced_Defective	Constituent	YLR248W	Kinase			
+Induced_.....sP....._hog1_Induced_Defective	Constituent	YLR357W				
+Induced_.....sP....._hog1_Induced_Defective	Constituent	YML059C				
+Induced_.....sP....._hog1_Induced_Defective	Constituent	YML081W				
+Induced_.....sP....._hog1_Induced_Defective	Constituent	YMR205C				
+Induced_.....sP....._hog1_Induced_Defective	Constituent	YNL321W				
+Induced_.....sP....._hog1_Induced_Defective	Constituent	YOR151C				
+Induced_.....sP....._hog1_Induced_Defective	Constituent	YLR006C				
+Induced_.....sP....._hog1_Induced_Defective	Constituent	YLR257W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YAR002W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YBR059C	Kinase			
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YBR112C				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YBR198C				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YCL032W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YCR034W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YCR061W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YDL173W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YDL195W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YDR004W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YDR093W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YDR475C				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YDR490C	Kinase			
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YER155C				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YER169W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YFL007W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YGL083W	Kinase			
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YGL222C				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YGR178C				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YGR184C				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YGR281W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YHL009C		Yes		
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YHR146W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YHR158C		Yes		
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YHR159W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YIL038C				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YIL129C				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YIR003W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YIR006C		Yes		
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YJL020C		Yes		
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YJL080C				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YJL095W	Kinase			
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YLL021W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YLR006C				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YLR371W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YML059C				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YML064C				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YML081W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YML100W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YMR011W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YMR109W		Yes		
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YMR261C				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YMR311C				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YNL078W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YNL166C				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YNL278W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YNL293W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YNR053C				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YOL070C				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YOL081W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YOL100W	Kinase			
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YOR018W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YOR056C				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YOR109W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YOR233W	Kinase			
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YOR267C	Kinase			
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YOR329C		Yes		
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YOR352W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YPL133C				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YPL141C	Kinase			
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YPL150W	Kinase			
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YPL221W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YPL226W				
+Induced_.....sP....._No_Phenotype_Exists	Constituent	YPR161C	Kinase			
+Induced_.....sP....._pde2_Induced_Defective	Constituent	YBL085W				
+Induced_.....sP....._pde2_Induced_Defective	Constituent	YCL032W				
+Induced_.....sP....._pde2_Induced_Defective	Constituent	YDR389W				
+Induced_.....sP....._pde2_Induced_Defective	Constituent	YJL128C	Kinase	Yes		
+Induced_.....sP....._pde2_Induced_Defective	Constituent	YLL043W				
+Induced_.....sP....._pde2_Induced_Defective	Constituent	YLR248W	Kinase	Yes		
+Induced_.....sP....._pde2_Induced_Defective	Constituent	YLR257W				
+Induced_.....tP....._cdc14_Induced_Amplified	Constituent	YDR033W				
+Induced_.....tP....._cdc14_Induced_Amplified	Constituent	YPL226W				
+Induced_.....tP....._cdc14_Induced_Amplified	Constituent	YDR310C				
+Induced_.....tP....._cdc14_Induced_Defective	Constituent	YHR149C				
+Induced_.....tP....._cdc14_Induced_Defective	Constituent	YHR158C				
+Induced_.....tP....._hog1_Induced_Defective	Constituent	YDR093W				
+Induced_.....tP....._hog1_Induced_Defective	Constituent	YDR145W				
+Induced_.....tP....._hog1_Induced_Defective	Constituent	YDR170C				
+Induced_.....tP....._hog1_Induced_Defective	Constituent	YDR385W				
+Induced_.....tP....._hog1_Induced_Defective	Constituent	YDR475C				
+Induced_.....tP....._hog1_Induced_Defective	Constituent	YGR162W				
+Induced_.....tP....._hog1_Induced_Defective	Constituent	YLR350W				
+Induced_.....tP....._hog1_Induced_Defective	Constituent	YLR433C	Phosphatase			
+Induced_.....tP....._hog1_Induced_Defective	Constituent	YPL242C				
+Induced_.....tP....._hog1_Induced_Defective	Constituent	YPR124W				
+Induced_.....tP....._hog1_Induced_Defective	Constituent	YDR310C				
+Induced_.....tP....._hog1_Induced_Defective	Constituent	YJL070C				
+Induced_.....tP....._hog1_Induced_Defective	Constituent	YKL054C				
+Induced_.....tP....._No_Phenotype_Exists	Constituent	YBR225W				
+Induced_.....tP....._No_Phenotype_Exists	Constituent	YBR245C				
+Induced_.....tP....._No_Phenotype_Exists	Constituent	YCL037C				
+Induced_.....tP....._No_Phenotype_Exists	Constituent	YDL226C				
+Induced_.....tP....._No_Phenotype_Exists	Constituent	YFL021W				
+Induced_.....tP....._No_Phenotype_Exists	Constituent	YHR097C				
+Induced_.....tP....._No_Phenotype_Exists	Constituent	YHR102W	Kinase			
+Induced_.....tP....._No_Phenotype_Exists	Constituent	YKL204W				
+Induced_.....tP....._No_Phenotype_Exists	Constituent	YKR090W				
+Induced_.....tP....._No_Phenotype_Exists	Constituent	YLR450W				
+Induced_.....tP....._No_Phenotype_Exists	Constituent	YML075C				
+Induced_.....tP....._No_Phenotype_Exists	Constituent	YMR275C				
+Induced_.....tP....._No_Phenotype_Exists	Constituent	YNL166C				
+Induced_.....tP....._No_Phenotype_Exists	Constituent	YPL226W				
+Induced_.....tP....._pde2_Induced_Defective	Constituent	YAL019W				
+Induced_.....tP....._pde2_Induced_Defective	Constituent	YBL047C				
+Induced_.....tP....._pde2_Induced_Defective	Constituent	YFL007W				
+Induced_.....tP....._pde2_Induced_Defective	Constituent	YGL181W				
+Induced_.....tP....._pde2_Induced_Defective	Constituent	YIR006C				
+Induced_.....tP....._pde2_Induced_Defective	Constituent	YLL040C				
+Induced_.....tP....._pde2_Induced_Defective	Constituent	YMR184W				
+Induced_.....tP....._pde2_Induced_Defective	Constituent	YMR275C				
+Induced_.....tP....._pde2_Induced_Defective	Constituent	YPL085W				
+Induced_.....tP....._pde2_Induced_Defective	Constituent	YPR041W				
+Induced_.....tP....._pde2_Induced_Defective	Constituent	YJL070C				
+Induced_.....tP....._pde2_Induced_Defective	Constituent	YKL054C				
+Induced_.....tP....._pde2_Induced_Defective	Constituent	YPL226W				
+Induced_..K..s......_cdc14_Induced_Amplified	Constituent	YGR130C				
+Induced_..K..s......_cdc14_Induced_Amplified	Constituent	YIR003W				
+Induced_..K..s......_cdc14_Induced_Amplified	Constituent	YOR227W				
+Induced_..K..s......_cdc14_Induced_Amplified	Constituent	YFR016C				
+Induced_..K..s......_cdc14_Induced_Defective	Constituent	YFL025C				
+Induced_..K..s......_cdc14_Induced_Defective	Constituent	YFR048W				
+Induced_..K..s......_cdc14_Induced_Defective	Constituent	YML072C				
+Induced_..K..s......_cdc14_Induced_Defective	Constituent	YHR158C				
+Induced_..K..s......_cdc14_Induced_Defective	Constituent	YIR003W				
+Induced_..K..s......_cdc14_Induced_Defective	Constituent	YJR059W	Kinase			
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YBR086C				
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YDL117W		Yes		
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YDR233C				
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YDR292C				
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YDR302W				
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YDR326C				
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YER005W				
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YER157W				
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YGR180C				
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YHR195W				
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YIR003W				
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YJL026W				
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YKL054C				
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YLR096W	Kinase			
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YLR248W	Kinase			
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YLR257W		Yes		
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YML100W				
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YMR205C				
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YMR219W				
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YNL321W				
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YOL070C				
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YOL087C				
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YOR109W				
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YOR264W				
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YPL037C				
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YFR016C				
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YHR158C		Yes		
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YJR059W	Kinase			
+Induced_..K..s......_hog1_Induced_Defective	Constituent	YLR452C				
+Induced_..K..s......_No_Phenotype_Exists	Constituent	YBR059C	Kinase			
+Induced_..K..s......_No_Phenotype_Exists	Constituent	YBR068C				
+Induced_..K..s......_No_Phenotype_Exists	Constituent	YDL173W				
+Induced_..K..s......_No_Phenotype_Exists	Constituent	YDL223C				
+Induced_..K..s......_No_Phenotype_Exists	Constituent	YER002W				
+Induced_..K..s......_No_Phenotype_Exists	Constituent	YER165W				
+Induced_..K..s......_No_Phenotype_Exists	Constituent	YGL173C				
+Induced_..K..s......_No_Phenotype_Exists	Constituent	YGR097W				
+Induced_..K..s......_No_Phenotype_Exists	Constituent	YGR162W		Yes		
+Induced_..K..s......_No_Phenotype_Exists	Constituent	YHR158C				
+Induced_..K..s......_No_Phenotype_Exists	Constituent	YJR059W	Kinase	Yes		
+Induced_..K..s......_No_Phenotype_Exists	Constituent	YKL195W				
+Induced_..K..s......_No_Phenotype_Exists	Constituent	YLR410W				
+Induced_..K..s......_No_Phenotype_Exists	Constituent	YMR086W				
+Induced_..K..s......_No_Phenotype_Exists	Constituent	YMR153W				
+Induced_..K..s......_No_Phenotype_Exists	Constituent	YNL020C	Kinase	Yes		
+Induced_..K..s......_No_Phenotype_Exists	Constituent	YNL321W				
+Induced_..K..s......_No_Phenotype_Exists	Constituent	YNR012W				
+Induced_..K..s......_pde2_Induced_Defective	Constituent	YKR023W				
+Induced_..K..s......_pde2_Induced_Defective	Constituent	YLR452C				
+Induced_..R..s......_cdc14_Induced_Amplified	Constituent	YMR031C				
+Induced_..R..s......_cdc14_Induced_Amplified	Constituent	YML027W				
+Induced_..R..s......_cdc14_Induced_Defective	Constituent	YFR053C				
+Induced_..R..s......_cdc14_Induced_Defective	Constituent	YJL129C				
+Induced_..R..s......_cdc14_Induced_Defective	Constituent	YER165W				
+Induced_..R..s......_cdc14_Induced_Defective	Constituent	YMR002W				
+Induced_..R..s......_cdc14_Induced_Defective	Constituent	YNL267W				
+Induced_..R..s......_cdc14_Induced_Defective	Constituent	YOR204W				
+Induced_..R..s......_hog1_Induced_Amplified	Constituent	YPL190C				
+Induced_..R..s......_hog1_Induced_Amplified	Constituent	YER165W				
+Induced_..R..s......_hog1_Induced_Defective	Constituent	YCL005W				
+Induced_..R..s......_hog1_Induced_Defective	Constituent	YDR170C				
+Induced_..R..s......_hog1_Induced_Defective	Constituent	YDR348C				
+Induced_..R..s......_hog1_Induced_Defective	Constituent	YDR372C				
+Induced_..R..s......_hog1_Induced_Defective	Constituent	YGL099W				
+Induced_..R..s......_hog1_Induced_Defective	Constituent	YGR068C				
+Induced_..R..s......_hog1_Induced_Defective	Constituent	YJL029C				
+Induced_..R..s......_hog1_Induced_Defective	Constituent	YLR133W				
+Induced_..R..s......_hog1_Induced_Defective	Constituent	YLR259C				
+Induced_..R..s......_hog1_Induced_Defective	Constituent	YML101C				
+Induced_..R..s......_hog1_Induced_Defective	Constituent	YML111W				
+Induced_..R..s......_hog1_Induced_Defective	Constituent	YML115C				
+Induced_..R..s......_hog1_Induced_Defective	Constituent	YMR261C				
+Induced_..R..s......_hog1_Induced_Defective	Constituent	YMR275C				
+Induced_..R..s......_hog1_Induced_Defective	Constituent	YNL049C				
+Induced_..R..s......_hog1_Induced_Defective	Constituent	YNL224C				
+Induced_..R..s......_hog1_Induced_Defective	Constituent	YOR018W				
+Induced_..R..s......_hog1_Induced_Defective	Constituent	YPL180W				
+Induced_..R..s......_hog1_Induced_Defective	Constituent	YML027W				
+Induced_..R..s......_hog1_Induced_Defective	Constituent	YMR002W				
+Induced_..R..s......_hog1_Induced_Defective	Constituent	YNL267W				
+Induced_..R..s......_hog1_Induced_Defective	Constituent	YOL138C				
+Induced_..R..s......_hog1_Induced_Defective	Constituent	YOR204W				
+Induced_..R..s......_hog1_Induced_Defective	Constituent	YPL070W				
+Induced_..R..s......_No_Phenotype_Exists	Constituent	YAR002W				
+Induced_..R..s......_No_Phenotype_Exists	Constituent	YBR172C				
+Induced_..R..s......_No_Phenotype_Exists	Constituent	YDR017C				
+Induced_..R..s......_No_Phenotype_Exists	Constituent	YDR338C				
+Induced_..R..s......_No_Phenotype_Exists	Constituent	YDR450W				
+Induced_..R..s......_No_Phenotype_Exists	Constituent	YER167W				
+Induced_..R..s......_No_Phenotype_Exists	Constituent	YFL007W				
+Induced_..R..s......_No_Phenotype_Exists	Constituent	YGR097W				
+Induced_..R..s......_No_Phenotype_Exists	Constituent	YGR240C				
+Induced_..R..s......_No_Phenotype_Exists	Constituent	YKL105C				
+Induced_..R..s......_No_Phenotype_Exists	Constituent	YLR133W				
+Induced_..R..s......_No_Phenotype_Exists	Constituent	YLR259C				
+Induced_..R..s......_No_Phenotype_Exists	Constituent	YMR031C				
+Induced_..R..s......_No_Phenotype_Exists	Constituent	YMR086W		Yes		
+Induced_..R..s......_No_Phenotype_Exists	Constituent	YNL175C				
+Induced_..R..s......_No_Phenotype_Exists	Constituent	YOL045W	Kinase			
+Induced_..R..s......_No_Phenotype_Exists	Constituent	YOL100W	Kinase			
+Induced_..R..s......_No_Phenotype_Exists	Constituent	YOR052C				
+Induced_..R..s......_No_Phenotype_Exists	Constituent	YOR329C				
+Induced_..R..s......_No_Phenotype_Exists	Constituent	YPL023C				
+Induced_..R..s......_No_Phenotype_Exists	Constituent	YPR079W				
+Induced_..R..s......_pde2_Induced_Amplified	Constituent	YOL138C				
+Induced_..R..s......_pde2_Induced_Amplified	Constituent	YPL070W				
+Induced_..R..s......_pde2_Induced_Defective	Constituent	YFL007W				
+Induced_..R..s......_pde2_Induced_Defective	Constituent	YMR031C				
+Induced_..S..s......_cdc14_Induced_Amplified	Constituent	YOR220W				
+Induced_..S..s......_cdc14_Induced_Amplified	Constituent	YPL265W				
+Induced_..S..s......_cdc14_Induced_Amplified	Constituent	YBL085W				
+Induced_..S..s......_cdc14_Induced_Amplified	Constituent	YPL226W				
+Induced_..S..s......_cdc14_Induced_Defective	Constituent	YHR158C				
+Induced_..S..s......_cdc14_Induced_Defective	Constituent	YNL267W				
+Induced_..S..s......_hog1_Induced_Defective	Constituent	YBR054W				
+Induced_..S..s......_hog1_Induced_Defective	Constituent	YBR151W				
+Induced_..S..s......_hog1_Induced_Defective	Constituent	YCR088W				
+Induced_..S..s......_hog1_Induced_Defective	Constituent	YDR150W				
+Induced_..S..s......_hog1_Induced_Defective	Constituent	YDR219C				
+Induced_..S..s......_hog1_Induced_Defective	Constituent	YFR051C				
+Induced_..S..s......_hog1_Induced_Defective	Constituent	YGL181W				
+Induced_..S..s......_hog1_Induced_Defective	Constituent	YGL208W				
+Induced_..S..s......_hog1_Induced_Defective	Constituent	YGR068C				
+Induced_..S..s......_hog1_Induced_Defective	Constituent	YJR076C				
+Induced_..S..s......_hog1_Induced_Defective	Constituent	YLL029W				
+Induced_..S..s......_hog1_Induced_Defective	Constituent	YLR072W				
+Induced_..S..s......_hog1_Induced_Defective	Constituent	YLR309C				
+Induced_..S..s......_hog1_Induced_Defective	Constituent	YLR429W				
+Induced_..S..s......_hog1_Induced_Defective	Constituent	YMR102C				
+Induced_..S..s......_hog1_Induced_Defective	Constituent	YMR212C				
+Induced_..S..s......_hog1_Induced_Defective	Constituent	YMR261C				
+Induced_..S..s......_hog1_Induced_Defective	Constituent	YBL085W				
+Induced_..S..s......_hog1_Induced_Defective	Constituent	YDL225W				
+Induced_..S..s......_hog1_Induced_Defective	Constituent	YHR158C				
+Induced_..S..s......_hog1_Induced_Defective	Constituent	YNL267W				
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YBL037W				
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YBR059C	Kinase			
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YDL146W				
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YDL173W				
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YER087C-B				
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YGL181W				
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YGR038W				
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YGR240C				
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YGR281W				
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YHL007C	Kinase			
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YHR082C	Kinase			
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YHR086W				
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YIR006C		Yes		
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YJR092W				
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YKL004W				
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YKL064W				
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YLR096W	Kinase			
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YLR371W				
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YLR410W				
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YLR436C				
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YNL166C				
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YOL081W				
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YOL087C				
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YOR052C				
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YOR153W				
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YPL085W				
+Induced_..S..s......_No_Phenotype_Exists	Constituent	YPL226W				
+Induced_..S..s......_pde2_Induced_Defective	Constituent	YBL061C				
+Induced_..S..s......_pde2_Induced_Defective	Constituent	YBR059C	Kinase			
+Induced_..S..s......_pde2_Induced_Defective	Constituent	YLR257W				
+Induced_..S..s......_pde2_Induced_Defective	Constituent	YOL004W				
+Induced_..S..s......_pde2_Induced_Defective	Constituent	YDL225W				
+Induced_..S..s......_pde2_Induced_Defective	Constituent	YPL226W				
+Repressed_.....sP....._hog1_Repressed_Defective	Constituent	YDR293C				
+Repressed_.....sP....._hog1_Repressed_Defective	Constituent	YGL197W				
+Repressed_.....sP....._hog1_Repressed_Defective	Constituent	YIL107C				
+Repressed_.....sP....._hog1_Repressed_Defective	Constituent	YJL020C				
+Repressed_.....sP....._hog1_Repressed_Defective	Constituent	YJL128C	Kinase			
+Repressed_.....sP....._hog1_Repressed_Defective	Constituent	YLR096W	Kinase			
+Repressed_.....sP....._hog1_Repressed_Defective	Constituent	YPL085W				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YBL103C				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YBR102C				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YBR172C				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YBR275C				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YDL054C				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YDR017C				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YDR186C				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YDR229W				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YDR436W	Phosphatase			
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YDR439W				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YEL032W				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YER111C				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YER114C				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YER132C				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YGL023C				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YGL197W				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YGR217W				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YHR082C	Kinase			
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YHR205W	Kinase			
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YKR089C				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YLR049C				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YLR190W				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YLR429W				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YML057W	Phosphatase			
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YML119W				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YMR005W				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YNL243W				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YOR058C				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YOR220W				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YPL115C				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YPR019W				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YPR159W				
+Repressed_.....sP....._No_Phenotype_Exists	Constituent	YPR185W				
+Repressed_.....sP....._pde2_Repressed_Amplified	Constituent	YCR088W				
+Repressed_.....sP....._pde2_Repressed_Amplified	Constituent	YDR293C				
+Repressed_.....sP....._pde2_Repressed_Defective	Constituent	YDR432W				
+Repressed_.....sP....._pde2_Repressed_Defective	Constituent	YJL162C				
+Repressed_.....tP....._cdc14_Repressed_Amplified	Constituent	YBR028C	Kinase			
+Repressed_.....tP....._cdc14_Repressed_Amplified	Constituent	YHR082C	Kinase			
+Repressed_.....tP....._cdc14_Repressed_Amplified	Constituent	YJL176C				
+Repressed_.....tP....._cdc14_Repressed_Amplified	Constituent	YPR041W				
+Repressed_.....tP....._cdc14_Repressed_Defective	Constituent	YBL103C				
+Repressed_.....tP....._cdc14_Repressed_Defective	Constituent	YHL007C	Kinase			
+Repressed_.....tP....._cdc14_Repressed_Defective	Constituent	YLR425W				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YBL035C				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YBL103C				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YBR028C	Kinase			
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YBR102C				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YBR172C				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YDL150W				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YDR033W				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YDR407C				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YDR507C	Kinase			
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YFR024C-A				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YHL007C	Kinase			
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YHR119W				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YIL038C				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YIL063C				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YJL084C				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YKR048C				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YLR220W				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YLR310C				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YLR319C				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YNL243W				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YNL309W				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YNL326C				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YOR014W				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YOR042W				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YOR140W				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YOR310C				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YOR344C				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YPL032C				
+Repressed_.....tP....._No_Phenotype_Exists	Constituent	YPR133C				
+Repressed_.....tP....._pde2_Repressed_Amplified	Constituent	YFR024C-A				
+Repressed_.....tP....._pde2_Repressed_Amplified	Constituent	YIL038C				
+Repressed_.....tP....._pde2_Repressed_Amplified	Constituent	YNL102W				
+Repressed_.....tP....._pde2_Repressed_Amplified	Constituent	YOR227W				
+Repressed_.....tP....._pde2_Repressed_Amplified	Constituent	YHL007C	Kinase			
+Repressed_.....tP....._pde2_Repressed_Amplified	Constituent	YLR138W				
+Repressed_...R.s......_hog1_Repressed_Defective	Constituent	YDR293C				
+Repressed_...R.s......_hog1_Repressed_Defective	Constituent	YPL070W				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YBL097W				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YBR023C				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YBR207W				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YDR293C				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YER155C				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YFR024C-A				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YGL181W				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YGL197W				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YGR196C				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YGR250C				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YHR023W				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YIL105C				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YIL107C				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YJL100W				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YJL112W				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YLR319C				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YLR332W				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YML006C				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YML117W				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YML123C				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YMR109W				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YNL039W				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YNL233W				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YOR092W				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YOR140W				
+Repressed_...R.s......_No_Phenotype_Exists	Constituent	YOR233W	Kinase			
+Repressed_...R.s......_pde2_Repressed_Amplified	Constituent	YDR432W				
+Repressed_...R.s......_pde2_Repressed_Amplified	Constituent	YER155C				
+Repressed_...R.s......_pde2_Repressed_Amplified	Constituent	YHL007C	Kinase			
+Repressed_...R.s......_pde2_Repressed_Amplified	Constituent	YML117W				
+Repressed_..KR.s......_No_Phenotype_Exists	Constituent	YAL041W		Yes		
+Repressed_..KR.s......_No_Phenotype_Exists	Constituent	YBL005W-B				
+Repressed_..KR.s......_No_Phenotype_Exists	Constituent	YBR059C	Kinase			
+Repressed_..KR.s......_No_Phenotype_Exists	Constituent	YBR102C				
+Repressed_..KR.s......_No_Phenotype_Exists	Constituent	YBR130C				
+Repressed_..KR.s......_No_Phenotype_Exists	Constituent	YDL102W				
+Repressed_..KR.s......_No_Phenotype_Exists	Constituent	YDR017C				
+Repressed_..KR.s......_No_Phenotype_Exists	Constituent	YDR507C	Kinase			
+Repressed_..KR.s......_No_Phenotype_Exists	Constituent	YER016W				
+Repressed_..KR.s......_No_Phenotype_Exists	Constituent	YGR157W				
+Repressed_..KR.s......_No_Phenotype_Exists	Constituent	YHL007C	Kinase	Yes		
+Repressed_..KR.s......_No_Phenotype_Exists	Constituent	YKR010C				
+Repressed_..KR.s......_No_Phenotype_Exists	Constituent	YLR271W				
+Repressed_..KR.s......_No_Phenotype_Exists	Constituent	YML051W				
+Repressed_..KR.s......_No_Phenotype_Exists	Constituent	YML117W				
+Repressed_..KR.s......_No_Phenotype_Exists	Constituent	YNL118C		Yes		
+Repressed_..KR.s......_No_Phenotype_Exists	Constituent	YNL197C				
+Repressed_..KR.s......_No_Phenotype_Exists	Constituent	YPL141C	Kinase			
+Repressed_..R..s......_cdc14_Repressed_Amplified	Constituent	YML016C	Phosphatase			
+Repressed_..R..s......_cdc14_Repressed_Amplified	Constituent	YML072C				
+Repressed_..R..s......_cdc14_Repressed_Defective	Constituent	YFL002W-A				
+Repressed_..R..s......_cdc14_Repressed_Defective	Constituent	YJL076W				
+Repressed_..R..s......_cdc14_Repressed_Defective	Constituent	YJL165C	Kinase			
+Repressed_..R..s......_cdc14_Repressed_Defective	Constituent	YKR092C				
+Repressed_..R..s......_cdc14_Repressed_Defective	Constituent	YNL297C				
+Repressed_..R..s......_cdc14_Repressed_Defective	Constituent	YOL036W				
+Repressed_..R..s......_cdc14_Repressed_Defective	Constituent	YOR092W				
+Repressed_..R..s......_cdc14_Repressed_Defective	Constituent	YBR130C				
+Repressed_..R..s......_cdc14_Repressed_Defective	Constituent	YBR133C				
+Repressed_..R..s......_cdc14_Repressed_Defective	Constituent	YDR169C				
+Repressed_..R..s......_cdc14_Repressed_Defective	Constituent	YKR048C				
+Repressed_..R..s......_hog1_Repressed_Defective	Constituent	YDR379W				
+Repressed_..R..s......_hog1_Repressed_Defective	Constituent	YPR072W				
+Repressed_..R..s......_hog1_Repressed_Defective	Constituent	YBL085W				
+Repressed_..R..s......_hog1_Repressed_Defective	Constituent	YBL103C				
+Repressed_..R..s......_hog1_Repressed_Defective	Constituent	YBR133C				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YAL041W				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YBL101C				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YBL103C				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YBR023C				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YBR059C	Kinase			
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YBR130C				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YDL019C				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YDL167C				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YDL195W				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YDR122W	Kinase			
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YDR348C				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YDR351W				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YDR422C				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YDR429C				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YDR436W	Phosphatase			
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YDR439W				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YDR466W	Kinase			
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YEL043W				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YER123W	Kinase			
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YER155C				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YFR024C-A				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YGR170W				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YGR217W				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YIL038C				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YIL047C				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YIL105C				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YKL010C				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YKR090W				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YLL029W				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YLR219W				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YLR360W				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YLR425W				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YML017W				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YML035C				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YML072C				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YMR109W				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YMR124W				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YMR126C				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YMR140W				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YNL039W				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YNL076W				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YNL088W				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YNL095C				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YNL224C				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YNL243W				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YNL298W	Kinase			
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YOR069W				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YOR140W				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YPL058C				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YPL265W				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YPR070W				
+Repressed_..R..s......_No_Phenotype_Exists	Constituent	YPR185W				
+Repressed_..R..s......_pde2_Repressed_Amplified	Constituent	YCL032W				
+Repressed_..R..s......_pde2_Repressed_Amplified	Constituent	YDR507C	Kinase	Yes		
+Repressed_..R..s......_pde2_Repressed_Amplified	Constituent	YIL038C				
+Repressed_..R..s......_pde2_Repressed_Amplified	Constituent	YLR257W				
+Repressed_..R..s......_pde2_Repressed_Amplified	Constituent	YNL265C				
+Repressed_..R..s......_pde2_Repressed_Amplified	Constituent	YBL085W				
+Repressed_..R..s......_pde2_Repressed_Amplified	Constituent	YBL103C				
+Repressed_..R..s......_pde2_Repressed_Amplified	Constituent	YBR130C				
+Repressed_..R..s......_pde2_Repressed_Amplified	Constituent	YDR169C				
+Repressed_..R..s......_pde2_Repressed_Amplified	Constituent	YKR048C				
+Repressed_..R..s......_pde2_Repressed_Amplified	Constituent	YOL081W				
+Repressed_..R..t......_cdc14_Repressed_Amplified	Constituent	YMR212C				
+Repressed_..R..t......_cdc14_Repressed_Amplified	Constituent	YOL070C				
+Repressed_..R..t......_cdc14_Repressed_Amplified	Constituent	YOR153W				
+Repressed_..R..t......_cdc14_Repressed_Defective	Constituent	YBR276C				
+Repressed_..R..t......_cdc14_Repressed_Defective	Constituent	YJL134W				
+Repressed_..R..t......_cdc14_Repressed_Defective	Constituent	YLR192C				
+Repressed_..R..t......_cdc14_Repressed_Defective	Constituent	YMR231W				
+Repressed_..R..t......_cdc14_Repressed_Defective	Constituent	YOR153W				
+Repressed_..R..t......_No_Phenotype_Exists	Constituent	YDL161W				
+Repressed_..R..t......_No_Phenotype_Exists	Constituent	YDR475C				
+Repressed_..R..t......_No_Phenotype_Exists	Constituent	YGR197C				
+Repressed_..R..t......_No_Phenotype_Exists	Constituent	YIL095W	Kinase			
+Repressed_..R..t......_No_Phenotype_Exists	Constituent	YJL020C				
+Repressed_..R..t......_No_Phenotype_Exists	Constituent	YJL201W				
+Repressed_..R..t......_No_Phenotype_Exists	Constituent	YJR076C				
+Repressed_..R..t......_No_Phenotype_Exists	Constituent	YJR124C				
+Repressed_..R..t......_No_Phenotype_Exists	Constituent	YLR177W				
+Repressed_..R..t......_No_Phenotype_Exists	Constituent	YML113W				
+Repressed_..R..t......_No_Phenotype_Exists	Constituent	YML123C				
+Repressed_..R..t......_No_Phenotype_Exists	Constituent	YNL096C				
+Repressed_..R..t......_No_Phenotype_Exists	Constituent	YNL189W				
+Repressed_..R..t......_No_Phenotype_Exists	Constituent	YNL192W				
+Repressed_..R..t......_No_Phenotype_Exists	Constituent	YOR092W				
+Repressed_..R..t......_No_Phenotype_Exists	Constituent	YPR156C				
+Repressed_..R..t......_pde2_Repressed_Amplified	Constituent	YEL043W				
+Repressed_..R..t......_pde2_Repressed_Amplified	Constituent	YLR305C				
+Repressed_..R..t......_pde2_Repressed_Amplified	Constituent	YMR219W				
+Repressed_..RK.s......_cdc14_Repressed_Amplified	Constituent	YBL054W				
+Repressed_..RK.s......_cdc14_Repressed_Amplified	Constituent	YBL058W				
+Repressed_..RK.s......_cdc14_Repressed_Defective	Constituent	YDR145W				
+Repressed_..RK.s......_cdc14_Repressed_Defective	Constituent	YDR293C				
+Repressed_..RK.s......_cdc14_Repressed_Defective	Constituent	YER132C				
+Repressed_..RK.s......_cdc14_Repressed_Defective	Constituent	YHR082C	Kinase			
+Repressed_..RK.s......_cdc14_Repressed_Defective	Constituent	YKL008C				
+Repressed_..RK.s......_cdc14_Repressed_Defective	Constituent	YBR130C				
+Repressed_..RK.s......_cdc14_Repressed_Defective	Constituent	YHR097C				
+Repressed_..RK.s......_cdc14_Repressed_Defective	Constituent	YKL181W				
+Repressed_..RK.s......_cdc14_Repressed_Defective	Constituent	YNL098C				
+Repressed_..RK.s......_hog1_Repressed_Defective	Constituent	YER114C				
+Repressed_..RK.s......_hog1_Repressed_Defective	Constituent	YIL129C				
+Repressed_..RK.s......_No_Phenotype_Exists	Constituent	YAR002W				
+Repressed_..RK.s......_No_Phenotype_Exists	Constituent	YBL085W				
+Repressed_..RK.s......_No_Phenotype_Exists	Constituent	YBL091C-A				
+Repressed_..RK.s......_No_Phenotype_Exists	Constituent	YBR086C				
+Repressed_..RK.s......_No_Phenotype_Exists	Constituent	YCR073W-A				
+Repressed_..RK.s......_No_Phenotype_Exists	Constituent	YDR005C				
+Repressed_..RK.s......_No_Phenotype_Exists	Constituent	YDR006C				
+Repressed_..RK.s......_No_Phenotype_Exists	Constituent	YDR293C				
+Repressed_..RK.s......_No_Phenotype_Exists	Constituent	YDR505C				
+Repressed_..RK.s......_No_Phenotype_Exists	Constituent	YDR508C				
+Repressed_..RK.s......_No_Phenotype_Exists	Constituent	YFR019W				
+Repressed_..RK.s......_No_Phenotype_Exists	Constituent	YGR090W				
+Repressed_..RK.s......_No_Phenotype_Exists	Constituent	YIL107C				
+Repressed_..RK.s......_No_Phenotype_Exists	Constituent	YJL084C				
+Repressed_..RK.s......_No_Phenotype_Exists	Constituent	YJR049C				
+Repressed_..RK.s......_No_Phenotype_Exists	Constituent	YKL008C				
+Repressed_..RK.s......_No_Phenotype_Exists	Constituent	YKL166C	Kinase			
+Repressed_..RK.s......_No_Phenotype_Exists	Constituent	YLR310C				
+Repressed_..RK.s......_No_Phenotype_Exists	Constituent	YLR410W				
+Repressed_..RK.s......_No_Phenotype_Exists	Constituent	YNL074C				
+Repressed_..RK.s......_No_Phenotype_Exists	Constituent	YNL298W	Kinase			
+Repressed_..RK.s......_No_Phenotype_Exists	Constituent	YOR219C				
+Repressed_..RK.s......_No_Phenotype_Exists	Constituent	YPL032C				
+Repressed_..RK.s......_No_Phenotype_Exists	Constituent	YPL085W				
+Repressed_..RK.s......_pde2_Repressed_Amplified	Constituent	YJL020C				
+Repressed_..RK.s......_pde2_Repressed_Amplified	Constituent	YML016C	Phosphatase			
+Repressed_..RK.s......_pde2_Repressed_Amplified	Constituent	YBR130C				
+Repressed_..RK.s......_pde2_Repressed_Amplified	Constituent	YHR097C				
+Repressed_..RK.s......_pde2_Repressed_Amplified	Constituent	YKL181W				
+Repressed_..RK.s......_pde2_Repressed_Amplified	Constituent	YNL098C				
+Repressed_..RR.s......_cdc14_Repressed_Defective	Constituent	YER155C				
+Repressed_..RR.s......_cdc14_Repressed_Defective	Constituent	YGL021W	Kinase			
+Repressed_..RR.s......_cdc14_Repressed_Defective	Constituent	YGR008C				
+Repressed_..RR.s......_cdc14_Repressed_Defective	Constituent	YHR082C	Kinase			
+Repressed_..RR.s......_cdc14_Repressed_Defective	Constituent	YIL135C		Yes		
+Repressed_..RR.s......_cdc14_Repressed_Defective	Constituent	YKL101W	Kinase			
+Repressed_..RR.s......_cdc14_Repressed_Defective	Constituent	YLR096W	Kinase			
+Repressed_..RR.s......_cdc14_Repressed_Defective	Constituent	YLR371W				
+Repressed_..RR.s......_cdc14_Repressed_Defective	Constituent	YNR031C	Kinase			
+Repressed_..RR.s......_cdc14_Repressed_Defective	Constituent	YOR008C				
+Repressed_..RR.s......_cdc14_Repressed_Defective	Constituent	YOR070C				
+Repressed_..RR.s......_cdc14_Repressed_Defective	Constituent	YER088C				
+Repressed_..RR.s......_hog1_Repressed_Defective	Constituent	YNL027W				
+Repressed_..RR.s......_hog1_Repressed_Defective	Constituent	YER088C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YAL017W	Kinase			
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YBR001C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YBR028C	Kinase			
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YBR157C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YBR225W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YBR235W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YCL010C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YCL011C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YCR023C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YCR077C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YDL105W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YDL189W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YDR001C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YDR005C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YDR207C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YDR227W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YDR293C		Yes		
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YDR422C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YDR436W	Phosphatase			
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YER088C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YER093C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YER114C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YER132C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YFL004W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YFL042C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YFR034C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YGL197W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YHL003C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YHR009C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YHR082C	Kinase			
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YHR117W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YIL047C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YIL074C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YJL005W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YJL020C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YJL042W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YJL084C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YJL146W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YJR001W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YJR049C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YKL008C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YKL064W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YKL088W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YKL185W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YKR031C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YLL018C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YLL029W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YLR045C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YLR190W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YLR219W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YLR259C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YLR319C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YLR371W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YLR410W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YMR037C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YMR219W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YNL076W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YNL167C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YOL081W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YOR018W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YOR093C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YOR156C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YOR324C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YOR352W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YPL019C				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YPR032W				
+Repressed_..RR.s......_No_Phenotype_Exists	Constituent	YPR091C				
+Repressed_..RR.s......_pde2_Repressed_Amplified	Constituent	YKL140W				
+Repressed_..RR.s......_pde2_Repressed_Amplified	Constituent	YLL015W				
+Repressed_..RS.s......_cdc14_Repressed_Defective	Constituent	YGR278W				
+Repressed_..RS.s......_cdc14_Repressed_Defective	Constituent	YHL023C				
+Repressed_..RS.s......_cdc14_Repressed_Defective	Constituent	YLR257W				
+Repressed_..RS.s......_cdc14_Repressed_Defective	Constituent	YML029W				
+Repressed_..RS.s......_cdc14_Repressed_Defective	Constituent	YOR204W				
+Repressed_..RS.s......_cdc14_Repressed_Defective	Constituent	YPR095C				
+Repressed_..RS.s......_hog1_Repressed_Defective	Constituent	YBL085W				
+Repressed_..RS.s......_hog1_Repressed_Defective	Constituent	YDR006C				
+Repressed_..RS.s......_hog1_Repressed_Defective	Constituent	YDR379W				
+Repressed_..RS.s......_hog1_Repressed_Defective	Constituent	YJL128C	Kinase			
+Repressed_..RS.s......_hog1_Repressed_Defective	Constituent	YEL046C				
+Repressed_..RS.s......_hog1_Repressed_Defective	Constituent	YIL129C				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YAL031C				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YBL051C				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YBL085W				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YDL070W				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YDR186C				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YDR326C				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YEL015W				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YEL022W				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YER088C				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YER129W	Kinase			
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YER155C				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YGL178W				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YGR196C				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YGR237C				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YHR102W	Kinase			
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YHR159W				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YIL129C				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YIL159W				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YKL176C				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YLR190W				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YLR309C				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YLR405W				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YML017W				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YMR086W				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YMR261C				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YMR275C				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YNL267W				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YNL271C				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YOL059W				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YPL020C				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YPL137C				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YPL155C				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YPR185W				
+Repressed_..RS.s......_No_Phenotype_Exists	Constituent	YPR190C				
+Repressed_..RS.s......_pde2_Repressed_Amplified	Constituent	YDR310C				
+Repressed_..RS.s......_pde2_Repressed_Amplified	Constituent	YIL047C				
+Repressed_..RS.s......_pde2_Repressed_Amplified	Constituent	YKL112W				
+Repressed_..RS.s......_pde2_Repressed_Amplified	Constituent	YOR204W				
+Repressed_..RS.s......_pde2_Repressed_Amplified	Constituent	YPR095C				
+Repressed_..RS.s......_pde2_Repressed_Defective	Constituent	YEL046C				
+Repressed_..RS.s......_pde2_Repressed_Defective	Constituent	YIL129C				
+Repressed_R.....s......_cdc14_Repressed_Amplified	Constituent	YDL022W				
+Repressed_R.....s......_cdc14_Repressed_Amplified	Constituent	YML072C				
+Repressed_R.....s......_cdc14_Repressed_Amplified	Constituent	YOR153W				
+Repressed_R.....s......_cdc14_Repressed_Defective	Constituent	YCR002C				
+Repressed_R.....s......_cdc14_Repressed_Defective	Constituent	YEL032W				
+Repressed_R.....s......_cdc14_Repressed_Defective	Constituent	YER008C				
+Repressed_R.....s......_cdc14_Repressed_Defective	Constituent	YER155C				
+Repressed_R.....s......_cdc14_Repressed_Defective	Constituent	YFR048W				
+Repressed_R.....s......_cdc14_Repressed_Defective	Constituent	YKL101W	Kinase			
+Repressed_R.....s......_cdc14_Repressed_Defective	Constituent	YML029W				
+Repressed_R.....s......_cdc14_Repressed_Defective	Constituent	YOR093C				
+Repressed_R.....s......_cdc14_Repressed_Defective	Constituent	YOR153W				
+Repressed_R.....s......_cdc14_Repressed_Defective	Constituent	YPR042C				
+Repressed_R.....s......_cdc14_Repressed_Defective	Constituent	YPR156C				
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YBL007C				
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YBL051C				
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YBL054W				
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YDL022W				
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YDR182W				
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YDR293C				
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YDR348C				
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YDR389W				
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YDR436W	Phosphatase			
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YDR496C				
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YEL032W				
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YFL016C				
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YGL021W	Kinase			
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YGR054W				
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YGR138C		Yes		
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YHL008C				
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YIL047C				
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YJR049C				
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YKL126W	Kinase			
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YLL028W		Yes		
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YLR287C-A				
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YML072C				
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YMR295C				
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YNR008W				
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YOL081W				
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YPL019C				
+Repressed_R.....s......_No_Phenotype_Exists	Constituent	YPR156C		Yes		
+Repressed_R.....s......_pde2_Repressed_Amplified	Constituent	YER155C				
+Repressed_R.....s......_pde2_Repressed_Amplified	Constituent	YIL084C				
+Repressed_R.....s......_pde2_Repressed_Amplified	Constituent	YIL095W	Kinase			
+Repressed_R.....s......_pde2_Repressed_Amplified	Constituent	YLR138W				
+Repressed_R.....s......_pde2_Repressed_Amplified	Constituent	YOL059W				
+Repressed_R.....s......_pde2_Repressed_Amplified	Constituent	YPR156C				
+Repressed_R.....s......_pde2_Repressed_Amplified	Constituent	YPL019C				
+Repressed_R.R..s......_cdc14_Repressed_Defective	Constituent	YBL007C				
+Repressed_R.R..s......_cdc14_Repressed_Defective	Constituent	YDL022W				
+Repressed_R.R..s......_cdc14_Repressed_Defective	Constituent	YDR186C				
+Repressed_R.R..s......_cdc14_Repressed_Defective	Constituent	YJL134W				
+Repressed_R.R..s......_cdc14_Repressed_Defective	Constituent	YPR042C				
+Repressed_R.R..s......_cdc14_Repressed_Defective	Constituent	YAL031C				
+Repressed_R.R..s......_cdc14_Repressed_Defective	Constituent	YGR004W				
+Repressed_R.R..s......_cdc14_Repressed_Defective	Constituent	YLR436C				
+Repressed_R.R..s......_hog1_Repressed_Amplified	Constituent	YOR175C				
+Repressed_R.R..s......_hog1_Repressed_Amplified	Constituent	YJR059W	Kinase			
+Repressed_R.R..s......_hog1_Repressed_Amplified	Constituent	YLR436C				
+Repressed_R.R..s......_hog1_Repressed_Amplified	Constituent	YOR204W				
+Repressed_R.R..s......_hog1_Repressed_Defective	Constituent	YDL201W				
+Repressed_R.R..s......_hog1_Repressed_Defective	Constituent	YLR206W				
+Repressed_R.R..s......_hog1_Repressed_Defective	Constituent	YNR008W				
+Repressed_R.R..s......_hog1_Repressed_Defective	Constituent	YOL013C				
+Repressed_R.R..s......_hog1_Repressed_Defective	Constituent	YPL070W				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YBL007C				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YDL022W				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YDR001C				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YDR108W				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YDR186C				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YDR326C				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YER040W				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YER111C				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YER157W				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YFR016C				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YFR017C				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YGR100W				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YGR161C				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YHL003C				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YHR005C				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YHR016C				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YHR131C				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YIR010W				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YJL084C				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YJR005W				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YJR059W	Kinase	Yes		
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YKL146W				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YKL168C	Kinase			
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YKR090W				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YLL043W				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YLR386W				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YMR261C				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YNL027W				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YNL299W				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YNR008W				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YNR039C				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YNR047W	Kinase			
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YOR204W				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YPL020C				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YPL085W				
+Repressed_R.R..s......_No_Phenotype_Exists	Constituent	YPL137C				
+Repressed_R.R..s......_pde2_Repressed_Amplified	Constituent	YGL140C				
+Repressed_R.R..s......_pde2_Repressed_Amplified	Constituent	YGL181W				
+Repressed_R.R..s......_pde2_Repressed_Amplified	Constituent	YHL003C				
+Repressed_R.R..s......_pde2_Repressed_Amplified	Constituent	YHR103W				
+Repressed_R.R..s......_pde2_Repressed_Amplified	Constituent	YJL165C	Kinase			
+Repressed_R.R..s......_pde2_Repressed_Amplified	Constituent	YML119W				
+Repressed_R.R..s......_pde2_Repressed_Amplified	Constituent	YAL031C				
+Repressed_R.R..s......_pde2_Repressed_Amplified	Constituent	YBL007C				
+Repressed_R.R..s......_pde2_Repressed_Amplified	Constituent	YGR004W				
+Repressed_R.R..s......_pde2_Repressed_Amplified	Constituent	YJR059W	Kinase			
+Repressed_R.R..s......_pde2_Repressed_Amplified	Constituent	YLR436C				
+Repressed_R.R..s......_pde2_Repressed_Amplified	Constituent	YOR204W				
+YAL024C	Shared_Interaction	Repressed_..RR.s......_cdc14_Repressed_Defective				
+YAL033W	Shared_Interaction	Repressed_R.R..s......_No_Phenotype_Exists				
+YAL033W	Shared_Interaction	Repressed_R.R..s......_pde2_Repressed_Amplified				
+YAL047C	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YAR002W	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YAR019C	Shared_Interaction	Induced_.....s..S..._hog1_Induced_Defective				
+YAR019C	Shared_Interaction	Repressed_..R..t......_No_Phenotype_Exists				
+YAR019C	Shared_Interaction	Induced_..S..s......_hog1_Induced_Defective				
+YBL016W	Shared_Interaction	Induced_..K..s......_cdc14_Induced_Defective				
+YBL024W	Shared_Interaction	Repressed_...R.s......_No_Phenotype_Exists				
+YBL026W	Shared_Interaction	Induced_..S..s......_hog1_Induced_Defective				
+YBL027W	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YBL050W	Shared_Interaction	Induced_.....tP....._No_Phenotype_Exists				
+YBL061C	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YBL064C	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YBL092W	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YBL093C	Shared_Interaction	Repressed_..RS.s......_No_Phenotype_Exists				
+YBL103C	Shared_Interaction	Repressed_...R.s......_No_Phenotype_Exists				
+YBL105C	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YBR009C	Shared_Interaction	Repressed_..RR.s......_cdc14_Repressed_Defective				
+YBR010W	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YBR023C	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YBR028C	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YBR081C	Shared_Interaction	Repressed_..RR.s......_cdc14_Repressed_Defective				
+YBR081C	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YBR086C	Shared_Interaction	Repressed_...R.s......_No_Phenotype_Exists				
+YBR108W	Shared_Interaction	Repressed_..RR.s......_cdc14_Repressed_Defective				
+YBR109C	Shared_Interaction	Repressed_..RR.s......_cdc14_Repressed_Defective				
+YBR109C	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YBR111W-A	Shared_Interaction	Induced_.....tP....._hog1_Induced_Defective				
+YBR118W	Shared_Interaction	Induced_..R..s......_No_Phenotype_Exists				
+YBR129C	Shared_Interaction	Repressed_..R..s......_No_Phenotype_Exists				
+YBR135W	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YBR154C	Shared_Interaction	Induced_..S..s......_hog1_Induced_Defective				
+YBR173C	Shared_Interaction	Repressed_.....sP....._No_Phenotype_Exists				
+YCL014W	Shared_Interaction	Repressed_..R..t......_No_Phenotype_Exists				
+YCL024W	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YCL028W	Shared_Interaction	Induced_..R..s......_hog1_Induced_Defective				
+YCL037C	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YCL056C	Shared_Interaction	Induced_..K..s......_hog1_Induced_Defective				
+YCR035C	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YCR038C	Shared_Interaction	Repressed_.....tP....._pde2_Repressed_Amplified				
+YCR038C	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YCR066W	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YCR077C	Shared_Interaction	Repressed_..RR.s......_No_Phenotype_Exists				
+YDL005C	Shared_Interaction	Induced_..K..s......_hog1_Induced_Defective				
+YDL014W	Shared_Interaction	Repressed_...R.s......_No_Phenotype_Exists				
+YDL014W	Shared_Interaction	Repressed_R.R..s......_No_Phenotype_Exists				
+YDL040C	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YDL084W	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YDL087C	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YDL101C	Shared_Interaction	Repressed_..R..s......_No_Phenotype_Exists				
+YDL117W	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YDL126C	Shared_Interaction	Induced_.....s..S..._hog1_Induced_Defective				
+YDL132W	Shared_Interaction	Repressed_..RK.s......_cdc14_Repressed_Defective				
+YDL140C	Shared_Interaction	Repressed_..R..s......_pde2_Repressed_Amplified				
+YDL140C	Shared_Interaction	Repressed_.....tP....._cdc14_Repressed_Amplified				
+YDL147W	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YDL147W	Shared_Interaction	Repressed_..RR.s......_cdc14_Repressed_Defective				
+YDL184C	Shared_Interaction	Induced_.....tP....._No_Phenotype_Exists				
+YDL210W	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YDL229W	Shared_Interaction	Repressed_..RR.s......_cdc14_Repressed_Defective				
+YDL239C	Shared_Interaction	Repressed_..R..t......_No_Phenotype_Exists				
+YDR034C-C	Shared_Interaction	Repressed_..R..s......_No_Phenotype_Exists				
+YDR064W	Shared_Interaction	Repressed_.....sP....._hog1_Repressed_Defective				
+YDR080W	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YDR103W	Shared_Interaction	Repressed_.....sP....._hog1_Repressed_Defective				
+YDR145W	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YDR170C	Shared_Interaction	Repressed_R.R..s......_hog1_Repressed_Amplified				
+YDR170C	Shared_Interaction	Induced_..K..s......_cdc14_Induced_Defective				
+YDR170C	Shared_Interaction	Repressed_R.R..s......_pde2_Repressed_Amplified				
+YDR170C	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YDR170C	Shared_Interaction	Induced_..K..s......_hog1_Induced_Defective				
+YDR170C	Shared_Interaction	Repressed_R.R..s......_No_Phenotype_Exists				
+YDR179C	Shared_Interaction	Repressed_.....sP....._No_Phenotype_Exists				
+YDR208W	Shared_Interaction	Repressed_.....sP....._No_Phenotype_Exists				
+YDR224C	Shared_Interaction	Induced_.....s..S..._hog1_Induced_Defective				
+YDR225W	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YDR247W	Shared_Interaction	Induced_.....tP....._hog1_Induced_Defective				
+YDR280W	Shared_Interaction	Induced_.....s..S..._hog1_Induced_Defective				
+YDR293C	Shared_Interaction	Repressed_R.R..s......_No_Phenotype_Exists				
+YDR293C	Shared_Interaction	Repressed_R.R..s......_pde2_Repressed_Amplified				
+YDR320C-A	Shared_Interaction	Repressed_..RR.s......_No_Phenotype_Exists				
+YDR341C	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YDR378C	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YDR429C	Shared_Interaction	Repressed_..R..s......_No_Phenotype_Exists				
+YDR432W	Shared_Interaction	Repressed_..KR.s......_No_Phenotype_Exists				
+YDR451C	Shared_Interaction	Induced_..K..s......_hog1_Induced_Defective				
+YDR489W	Shared_Interaction	Repressed_..RS.s......_No_Phenotype_Exists				
+YEL002C	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YEL054C	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YER031C	Shared_Interaction	Repressed_R.R..s......_No_Phenotype_Exists				
+YER044C	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YER112W	Shared_Interaction	Repressed_..KR.s......_No_Phenotype_Exists				
+YER114C	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YER126C	Shared_Interaction	Induced_..K..s......_hog1_Induced_Defective				
+YER133W	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YER146W	Shared_Interaction	Induced_..K..s......_hog1_Induced_Defective				
+YER148W	Shared_Interaction	Induced_..K..s......_hog1_Induced_Defective				
+YER155C	Shared_Interaction	Repressed_...R.s......_pde2_Repressed_Amplified				
+YER155C	Shared_Interaction	Repressed_R.....s......_pde2_Repressed_Amplified				
+YER155C	Shared_Interaction	Repressed_R.....s......_cdc14_Repressed_Defective				
+YER155C	Shared_Interaction	Repressed_..RR.s......_cdc14_Repressed_Defective				
+YER155C	Shared_Interaction	Repressed_...R.s......_No_Phenotype_Exists				
+YER155C	Shared_Interaction	Repressed_..RS.s......_No_Phenotype_Exists				
+YER155C	Shared_Interaction	Repressed_..R..s......_No_Phenotype_Exists				
+YER165W	Shared_Interaction	Induced_..R..s......_hog1_Induced_Amplified				
+YER165W	Shared_Interaction	Induced_..R..s......_cdc14_Induced_Defective				
+YER172C	Shared_Interaction	Repressed_..RK.s......_pde2_Repressed_Amplified				
+YFL008W	Shared_Interaction	Repressed_..R..s......_No_Phenotype_Exists				
+YFL009W	Shared_Interaction	Repressed_..RK.s......_No_Phenotype_Exists				
+YFL009W	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YFL013C	Shared_Interaction	Repressed_..RK.s......_No_Phenotype_Exists				
+YFL013C	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YFR028C	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YFR034C	Shared_Interaction	Induced_.....sP....._hog1_Induced_Defective				
+YFR050C	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YFR050C	Shared_Interaction	Repressed_R.R..s......_No_Phenotype_Exists				
+YFR052W	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YGL008C	Shared_Interaction	Repressed_.....tP....._cdc14_Repressed_Amplified				
+YGL044C	Shared_Interaction	Induced_..S..s......_hog1_Induced_Defective				
+YGL058W	Shared_Interaction	Induced_..K..s......_hog1_Induced_Defective				
+YGL059W	Shared_Interaction	Repressed_..R..t......_cdc14_Repressed_Defective				
+YGL066W	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YGL066W	Shared_Interaction	Repressed_..R..s......_pde2_Repressed_Amplified				
+YGL092W	Shared_Interaction	Induced_..K..s......_hog1_Induced_Defective				
+YGL097W	Shared_Interaction	Induced_.....sP....._pde2_Induced_Defective				
+YGL112C	Shared_Interaction	Repressed_.....sP....._No_Phenotype_Exists				
+YGL120C	Shared_Interaction	Induced_..R..s......_cdc14_Induced_Defective				
+YGL120C	Shared_Interaction	Repressed_..RK.s......_cdc14_Repressed_Defective				
+YGL122C	Shared_Interaction	Induced_.....s..S..._No_Phenotype_Exists				
+YGL123W	Shared_Interaction	Repressed_..RS.s......_hog1_Repressed_Defective				
+YGL123W	Shared_Interaction	Repressed_.....sP....._hog1_Repressed_Defective				
+YGL123W	Shared_Interaction	Induced_.....sP....._pde2_Induced_Defective				
+YGL150C	Shared_Interaction	Repressed_..RK.s......_No_Phenotype_Exists				
+YGL158W	Shared_Interaction	Induced_.....s..S..._hog1_Induced_Defective				
+YGL173C	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YGL173C	Shared_Interaction	Repressed_.....sP....._No_Phenotype_Exists				
+YGL179C	Shared_Interaction	Repressed_.....sP....._hog1_Repressed_Defective				
+YGL179C	Shared_Interaction	Repressed_R.....s......_No_Phenotype_Exists				
+YGL180W	Shared_Interaction	Repressed_...R.s......_pde2_Repressed_Amplified				
+YGL191W	Shared_Interaction	Induced_.....sP....._hog1_Induced_Defective				
+YGL206C	Shared_Interaction	Induced_.....sP....._hog1_Induced_Defective				
+YGL226C-A	Shared_Interaction	Induced_..S..s......_hog1_Induced_Defective				
+YGL240W	Shared_Interaction	Repressed_..RR.s......_cdc14_Repressed_Defective				
+YGL240W	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YGL246C	Shared_Interaction	Repressed_..RK.s......_No_Phenotype_Exists				
+YGL253W	Shared_Interaction	Repressed_.....sP....._No_Phenotype_Exists				
+YGL256W	Shared_Interaction	Induced_.....sP....._hog1_Induced_Defective				
+YGR005C	Shared_Interaction	Repressed_R.R..s......_pde2_Repressed_Amplified				
+YGR047C	Shared_Interaction	Repressed_..RR.s......_cdc14_Repressed_Defective				
+YGR047C	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YGR082W	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YGR092W	Shared_Interaction	Repressed_.....tP....._cdc14_Repressed_Amplified				
+YGR108W	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YGR109C	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YGR116W	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YGR120C	Shared_Interaction	Repressed_..R..t......_No_Phenotype_Exists				
+YGR135W	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YGR140W	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YGR140W	Shared_Interaction	Repressed_..KR.s......_No_Phenotype_Exists				
+YGR156W	Shared_Interaction	Repressed_R.....s......_No_Phenotype_Exists				
+YGR173W	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YGR174C	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YGR175C	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YGR175C	Shared_Interaction	Repressed_..R..s......_No_Phenotype_Exists				
+YGR177C	Shared_Interaction	Repressed_..RR.s......_No_Phenotype_Exists				
+YGR186W	Shared_Interaction	Repressed_..R..s......_pde2_Repressed_Amplified				
+YGR186W	Shared_Interaction	Repressed_..R..s......_cdc14_Repressed_Defective				
+YGR200C	Shared_Interaction	Induced_.....sP....._cdc14_Induced_Defective				
+YGR200C	Shared_Interaction	Induced_.....sP....._hog1_Induced_Defective				
+YGR200C	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YGR218W	Shared_Interaction	Repressed_..R..s......_cdc14_Repressed_Defective				
+YGR250C	Shared_Interaction	Induced_..K..s......_hog1_Induced_Defective				
+YGR251W	Shared_Interaction	Repressed_..R..s......_No_Phenotype_Exists				
+YGR270W	Shared_Interaction	Repressed_R.R..s......_No_Phenotype_Exists				
+YGR270W	Shared_Interaction	Repressed_..RR.s......_No_Phenotype_Exists				
+YHL007C	Shared_Interaction	Induced_..S..s......_pde2_Induced_Defective				
+YHL033C	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YHR027C	Shared_Interaction	Repressed_..RS.s......_pde2_Repressed_Amplified				
+YHR030C	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YHR083W	Shared_Interaction	Repressed_..RR.s......_No_Phenotype_Exists				
+YHR084W	Shared_Interaction	Repressed_..KR.s......_No_Phenotype_Exists				
+YHR088W	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YHR089C	Shared_Interaction	Repressed_..KR.s......_No_Phenotype_Exists				
+YHR099W	Shared_Interaction	Repressed_.....sP....._hog1_Repressed_Defective				
+YHR119W	Shared_Interaction	Induced_.....s..S..._No_Phenotype_Exists				
+YHR135C	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YHR164C	Shared_Interaction	Repressed_..R..s......_No_Phenotype_Exists				
+YHR165C	Shared_Interaction	Repressed_..RS.s......_No_Phenotype_Exists				
+YHR181W	Shared_Interaction	Repressed_..R..s......_No_Phenotype_Exists				
+YHR186C	Shared_Interaction	Induced_..K..s......_cdc14_Induced_Defective				
+YHR186C	Shared_Interaction	Repressed_R.....s......_cdc14_Repressed_Defective				
+YHR186C	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YHR187W	Shared_Interaction	Repressed_R.R..s......_No_Phenotype_Exists				
+YHR197W	Shared_Interaction	Induced_.....tP....._No_Phenotype_Exists				
+YHR216W	Shared_Interaction	Repressed_..RR.s......_No_Phenotype_Exists				
+YIL004C	Shared_Interaction	Repressed_.....sP....._No_Phenotype_Exists				
+YIL004C	Shared_Interaction	Induced_.....s..S..._hog1_Induced_Defective				
+YIL004C	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YIL018W	Shared_Interaction	Induced_..K..s......_hog1_Induced_Defective				
+YIL022W	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YIL030C	Shared_Interaction	Induced_..R..s......_hog1_Induced_Defective				
+YIL030C	Shared_Interaction	Repressed_...R.s......_No_Phenotype_Exists				
+YIL064W	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YIL091C	Shared_Interaction	Repressed_..R..s......_No_Phenotype_Exists				
+YIL091C	Shared_Interaction	Repressed_.....sP....._No_Phenotype_Exists				
+YIL115C	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YIL126W	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YIL159W	Shared_Interaction	Induced_.....s..S..._No_Phenotype_Exists				
+YIR002C	Shared_Interaction	Repressed_..RK.s......_No_Phenotype_Exists				
+YIR010W	Shared_Interaction	Repressed_..R..s......_No_Phenotype_Exists				
+YIR010W	Shared_Interaction	Induced_.....sP....._hog1_Induced_Defective				
+YIR026C	Shared_Interaction	Induced_..K..s......_cdc14_Induced_Defective				
+YJL057C	Shared_Interaction	Repressed_..RS.s......_hog1_Repressed_Defective				
+YJL057C	Shared_Interaction	Repressed_..RK.s......_cdc14_Repressed_Defective				
+YJL076W	Shared_Interaction	Induced_.....tP....._No_Phenotype_Exists				
+YJL076W	Shared_Interaction	Repressed_..KR.s......_No_Phenotype_Exists				
+YJL095W	Shared_Interaction	Repressed_.....tP....._pde2_Repressed_Amplified				
+YJL112W	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YJL143W	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YJL187C	Shared_Interaction	Repressed_..RK.s......_cdc14_Repressed_Defective				
+YJL187C	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YJL187C	Shared_Interaction	Induced_..K..s......_hog1_Induced_Defective				
+YJL187C	Shared_Interaction	Induced_..S..s......_pde2_Induced_Defective				
+YJL187C	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YJL189W	Shared_Interaction	Repressed_..RR.s......_No_Phenotype_Exists				
+YJL198W	Shared_Interaction	Repressed_R.R..s......_No_Phenotype_Exists				
+YJR022W	Shared_Interaction	Repressed_...R.s......_No_Phenotype_Exists				
+YJR060W	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YJR066W	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YJR066W	Shared_Interaction	Repressed_R.R..s......_pde2_Repressed_Amplified				
+YJR072C	Shared_Interaction	Induced_.....sP....._hog1_Induced_Defective				
+YJR076C	Shared_Interaction	Induced_..R..s......_No_Phenotype_Exists				
+YJR096W	Shared_Interaction	Repressed_.....tP....._cdc14_Repressed_Amplified				
+YJR148W	Shared_Interaction	Repressed_..R..s......_No_Phenotype_Exists				
+YJR154W	Shared_Interaction	Repressed_R.R..s......_No_Phenotype_Exists				
+YKL001C	Shared_Interaction	Repressed_R.R..s......_pde2_Repressed_Amplified				
+YKL001C	Shared_Interaction	Repressed_R.R..s......_No_Phenotype_Exists				
+YKL009W	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YKL009W	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YKL014C	Shared_Interaction	Repressed_R.R..s......_pde2_Repressed_Amplified				
+YKL014C	Shared_Interaction	Repressed_R.R..s......_cdc14_Repressed_Defective				
+YKL052C	Shared_Interaction	Repressed_R.R..s......_No_Phenotype_Exists				
+YKL057C	Shared_Interaction	Repressed_.....sP....._No_Phenotype_Exists				
+YKL059C	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YKL080W	Shared_Interaction	Repressed_..RK.s......_pde2_Repressed_Amplified				
+YKL080W	Shared_Interaction	Repressed_..RK.s......_cdc14_Repressed_Defective				
+YKL108W	Shared_Interaction	Repressed_R.....s......_cdc14_Repressed_Defective				
+YKL108W	Shared_Interaction	Repressed_..RR.s......_cdc14_Repressed_Defective				
+YKL117W	Shared_Interaction	Induced_..S..s......_pde2_Induced_Defective				
+YKL166C	Shared_Interaction	Repressed_R.R..s......_hog1_Repressed_Amplified				
+YKL166C	Shared_Interaction	Repressed_R.R..s......_No_Phenotype_Exists				
+YKL166C	Shared_Interaction	Induced_..R..s......_hog1_Induced_Defective				
+YKL168C	Shared_Interaction	Repressed_R.R..s......_hog1_Repressed_Amplified				
+YKL168C	Shared_Interaction	Repressed_R.R..s......_pde2_Repressed_Amplified				
+YKL168C	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YKL168C	Shared_Interaction	Induced_..K..s......_hog1_Induced_Defective				
+YKL196C	Shared_Interaction	Repressed_..RR.s......_No_Phenotype_Exists				
+YKL205W	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YKR002W	Shared_Interaction	Repressed_..RS.s......_No_Phenotype_Exists				
+YKR014C	Shared_Interaction	Induced_..K..s......_hog1_Induced_Defective				
+YKR029C	Shared_Interaction	Repressed_R.R..s......_No_Phenotype_Exists				
+YKR035W-A	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YKR081C	Shared_Interaction	Repressed_..R..s......_pde2_Repressed_Amplified				
+YLL008W	Shared_Interaction	Induced_..R..s......_No_Phenotype_Exists				
+YLL024C	Shared_Interaction	Induced_.....sP....._hog1_Induced_Defective				
+YLL034C	Shared_Interaction	Repressed_..RK.s......_No_Phenotype_Exists				
+YLL036C	Shared_Interaction	Repressed_..R..t......_No_Phenotype_Exists				
+YLL039C	Shared_Interaction	Repressed_..RK.s......_cdc14_Repressed_Defective				
+YLL039C	Shared_Interaction	Repressed_..RR.s......_cdc14_Repressed_Defective				
+YLR005W	Shared_Interaction	Repressed_R.R..s......_No_Phenotype_Exists				
+YLR024C	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YLR026C	Shared_Interaction	Induced_.....sP....._hog1_Induced_Amplified				
+YLR026C	Shared_Interaction	Repressed_R.R..s......_pde2_Repressed_Amplified				
+YLR060W	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YLR079W	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YLR096W	Shared_Interaction	Repressed_.....tP....._cdc14_Repressed_Amplified				
+YLR102C	Shared_Interaction	Induced_.....s..S..._No_Phenotype_Exists				
+YLR102C	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YLR117C	Shared_Interaction	Induced_.....s..S..._No_Phenotype_Exists				
+YLR117C	Shared_Interaction	Induced_..R..s......_No_Phenotype_Exists				
+YLR134W	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YLR148W	Shared_Interaction	Repressed_..KR.s......_No_Phenotype_Exists				
+YLR166C	Shared_Interaction	Repressed_..R..s......_pde2_Repressed_Amplified				
+YLR199C	Shared_Interaction	Repressed_..RR.s......_No_Phenotype_Exists				
+YLR258W	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YLR259C	Shared_Interaction	Repressed_..KR.s......_No_Phenotype_Exists				
+YLR268W	Shared_Interaction	Induced_..R..s......_No_Phenotype_Exists				
+YLR274W	Shared_Interaction	Repressed_..RR.s......_cdc14_Repressed_Defective				
+YLR274W	Shared_Interaction	Repressed_R.....s......_cdc14_Repressed_Defective				
+YLR274W	Shared_Interaction	Repressed_.....sP....._No_Phenotype_Exists				
+YLR310C	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YLR315W	Shared_Interaction	Repressed_..R..s......_No_Phenotype_Exists				
+YLR335W	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YLR340W	Shared_Interaction	Induced_.....sP....._hog1_Induced_Amplified				
+YLR347C	Shared_Interaction	Repressed_R.....s......_cdc14_Repressed_Defective				
+YLR347C	Shared_Interaction	Induced_.....s..S..._hog1_Induced_Defective				
+YLR347C	Shared_Interaction	Repressed_..R..t......_No_Phenotype_Exists				
+YLR355C	Shared_Interaction	Repressed_..KR.s......_No_Phenotype_Exists				
+YLR378C	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YLR418C	Shared_Interaction	Repressed_...R.s......_No_Phenotype_Exists				
+YLR439W	Shared_Interaction	Repressed_.....sP....._No_Phenotype_Exists				
+YML008C	Shared_Interaction	Repressed_.....sP....._No_Phenotype_Exists				
+YML010W	Shared_Interaction	Repressed_R.R..s......_pde2_Repressed_Amplified				
+YML010W	Shared_Interaction	Induced_..S..s......_hog1_Induced_Defective				
+YML031W	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YML032C	Shared_Interaction	Repressed_..KR.s......_No_Phenotype_Exists				
+YML032C	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YML035C	Shared_Interaction	Repressed_R.....s......_cdc14_Repressed_Defective				
+YML035C	Shared_Interaction	Repressed_..R..s......_No_Phenotype_Exists				
+YML037C	Shared_Interaction	Repressed_R.....s......_No_Phenotype_Exists				
+YML064C	Shared_Interaction	Induced_.....tP....._hog1_Induced_Defective				
+YML129C	Shared_Interaction	Repressed_...R.s......_No_Phenotype_Exists				
+YML129C	Shared_Interaction	Repressed_..R..s......_No_Phenotype_Exists				
+YMR001C	Shared_Interaction	Repressed_..RK.s......_cdc14_Repressed_Defective				
+YMR033W	Shared_Interaction	Repressed_..R..s......_pde2_Repressed_Amplified				
+YMR033W	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YMR033W	Shared_Interaction	Repressed_.....sP....._No_Phenotype_Exists				
+YMR036C	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YMR047C	Shared_Interaction	Repressed_..R..s......_cdc14_Repressed_Defective				
+YMR047C	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YMR047C	Shared_Interaction	Repressed_..R..s......_pde2_Repressed_Amplified				
+YMR093W	Shared_Interaction	Repressed_R.R..s......_No_Phenotype_Exists				
+YMR109W	Shared_Interaction	Repressed_..R..s......_pde2_Repressed_Amplified				
+YMR109W	Shared_Interaction	Repressed_..R..s......_No_Phenotype_Exists				
+YMR109W	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YMR109W	Shared_Interaction	Repressed_.....sP....._No_Phenotype_Exists				
+YMR115W	Shared_Interaction	Repressed_..R..s......_cdc14_Repressed_Defective				
+YMR117C	Shared_Interaction	Induced_.....s..S..._hog1_Induced_Defective				
+YMR127C	Shared_Interaction	Repressed_.....sP....._No_Phenotype_Exists				
+YMR129W	Shared_Interaction	Repressed_..RK.s......_cdc14_Repressed_Defective				
+YMR139W	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YMR140W	Shared_Interaction	Induced_.....s..S..._No_Phenotype_Exists				
+YMR165C	Shared_Interaction	Induced_.....s..S..._hog1_Induced_Defective				
+YMR190C	Shared_Interaction	Induced_.....tP....._hog1_Induced_Defective				
+YMR203W	Shared_Interaction	Repressed_R.R..s......_No_Phenotype_Exists				
+YMR231W	Shared_Interaction	Repressed_...R.s......_No_Phenotype_Exists				
+YMR290C	Shared_Interaction	Repressed_..RR.s......_cdc14_Repressed_Defective				
+YMR296C	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YMR308C	Shared_Interaction	Repressed_..KR.s......_No_Phenotype_Exists				
+YNL025C	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YNL027W	Shared_Interaction	Repressed_.....sP....._hog1_Repressed_Defective				
+YNL027W	Shared_Interaction	Repressed_..RK.s......_No_Phenotype_Exists				
+YNL027W	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YNL030W	Shared_Interaction	Repressed_..KR.s......_No_Phenotype_Exists				
+YNL047C	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YNL047C	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YNL139C	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YNL154C	Shared_Interaction	Repressed_..RR.s......_hog1_Repressed_Defective				
+YNL183C	Shared_Interaction	Induced_.....sP....._hog1_Induced_Defective				
+YNL183C	Shared_Interaction	Repressed_..RK.s......_No_Phenotype_Exists				
+YNL199C	Shared_Interaction	Repressed_..R..s......_No_Phenotype_Exists				
+YNL207W	Shared_Interaction	Repressed_..RR.s......_No_Phenotype_Exists				
+YNL207W	Shared_Interaction	Repressed_..RK.s......_cdc14_Repressed_Defective				
+YNL222W	Shared_Interaction	Repressed_.....sP....._No_Phenotype_Exists				
+YNL227C	Shared_Interaction	Induced_.....sP....._hog1_Induced_Defective				
+YNL271C	Shared_Interaction	Induced_..S..s......_hog1_Induced_Defective				
+YNL272C	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YNL284C-A	Shared_Interaction	Repressed_..R..s......_No_Phenotype_Exists				
+YNL298W	Shared_Interaction	Induced_..R..s......_cdc14_Induced_Defective				
+YNL298W	Shared_Interaction	Induced_.....s..S..._No_Phenotype_Exists				
+YNL307C	Shared_Interaction	Induced_.....sP....._hog1_Induced_Defective				
+YNL307C	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YNL307C	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YNL307C	Shared_Interaction	Repressed_.....tP....._cdc14_Repressed_Amplified				
+YNR006W	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YNR006W	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YNR006W	Shared_Interaction	Repressed_.....sP....._No_Phenotype_Exists				
+YNR024W	Shared_Interaction	Repressed_.....sP....._No_Phenotype_Exists				
+YNR035C	Shared_Interaction	Repressed_R.R..s......_pde2_Repressed_Amplified				
+YNR051C	Shared_Interaction	Repressed_..RR.s......_cdc14_Repressed_Defective				
+YNR051C	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YNR053C	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YOL004W	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YOL012C	Shared_Interaction	Repressed_..RR.s......_cdc14_Repressed_Defective				
+YOL013C	Shared_Interaction	Repressed_.....sP....._No_Phenotype_Exists				
+YOL018C	Shared_Interaction	Repressed_..RK.s......_cdc14_Repressed_Defective				
+YOL025W	Shared_Interaction	Induced_..S..s......_hog1_Induced_Defective				
+YOL026C	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YOL041C	Shared_Interaction	Repressed_R.....s......_cdc14_Repressed_Defective				
+YOL051W	Shared_Interaction	Repressed_..KR.s......_No_Phenotype_Exists				
+YOL051W	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YOL051W	Shared_Interaction	Repressed_R.R..s......_pde2_Repressed_Amplified				
+YOL091W	Shared_Interaction	Induced_..K..s......_hog1_Induced_Defective				
+YOL113W	Shared_Interaction	Induced_.....sP....._hog1_Induced_Amplified				
+YOL113W	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YOL117W	Shared_Interaction	Repressed_.....tP....._cdc14_Repressed_Defective				
+YOL117W	Shared_Interaction	Repressed_..R..s......_pde2_Repressed_Amplified				
+YOL117W	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YOL128C	Shared_Interaction	Induced_.....sP....._hog1_Induced_Defective				
+YOL128C	Shared_Interaction	Repressed_R.R..s......_No_Phenotype_Exists				
+YOL133W	Shared_Interaction	Repressed_..KR.s......_No_Phenotype_Exists				
+YOL133W	Shared_Interaction	Repressed_..RR.s......_No_Phenotype_Exists				
+YOL133W	Shared_Interaction	Induced_.....sP....._hog1_Induced_Defective				
+YOL149W	Shared_Interaction	Repressed_..KR.s......_No_Phenotype_Exists				
+YOL149W	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YOR001W	Shared_Interaction	Repressed_.....tP....._cdc14_Repressed_Amplified				
+YOR026W	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YOR046C	Shared_Interaction	Repressed_..R..s......_No_Phenotype_Exists				
+YOR048C	Shared_Interaction	Repressed_R.R..s......_pde2_Repressed_Amplified				
+YOR048C	Shared_Interaction	Repressed_R.R..s......_No_Phenotype_Exists				
+YOR054C	Shared_Interaction	Repressed_R.R..s......_pde2_Repressed_Amplified				
+YOR061W	Shared_Interaction	Induced_..K..s......_hog1_Induced_Defective				
+YOR070C	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YOR117W	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YOR117W	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YOR117W	Shared_Interaction	Repressed_..R..s......_pde2_Repressed_Amplified				
+YOR117W	Shared_Interaction	Repressed_..KR.s......_No_Phenotype_Exists				
+YOR117W	Shared_Interaction	Induced_.....s..S..._No_Phenotype_Exists				
+YOR117W	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YOR117W	Shared_Interaction	Repressed_..R..s......_No_Phenotype_Exists				
+YOR141C	Shared_Interaction	Repressed_R.R..s......_No_Phenotype_Exists				
+YOR153W	Shared_Interaction	Induced_..K..s......_hog1_Induced_Defective				
+YOR206W	Shared_Interaction	Induced_..K..s......_hog1_Induced_Defective				
+YOR209C	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YOR210W	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YOR231W	Shared_Interaction	Repressed_..KR.s......_No_Phenotype_Exists				
+YOR231W	Shared_Interaction	Repressed_..RK.s......_cdc14_Repressed_Defective				
+YOR244W	Shared_Interaction	Induced_.....s..S..._No_Phenotype_Exists				
+YOR259C	Shared_Interaction	Induced_..S..s......_cdc14_Induced_Defective				
+YOR259C	Shared_Interaction	Induced_.....s..S..._cdc14_Induced_Defective				
+YOR259C	Shared_Interaction	Induced_.....s..S..._hog1_Induced_Defective				
+YOR259C	Shared_Interaction	Induced_..S..s......_hog1_Induced_Defective				
+YOR269W	Shared_Interaction	Repressed_R.....s......_pde2_Repressed_Amplified				
+YOR269W	Shared_Interaction	Repressed_..RS.s......_No_Phenotype_Exists				
+YOR269W	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YOR270C	Shared_Interaction	Repressed_.....tP....._No_Phenotype_Exists				
+YOR308C	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YOR310C	Shared_Interaction	Repressed_...R.s......_pde2_Repressed_Amplified				
+YOR326W	Shared_Interaction	Repressed_...R.s......_pde2_Repressed_Amplified				
+YOR326W	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YOR326W	Shared_Interaction	Repressed_..RK.s......_cdc14_Repressed_Defective				
+YOR326W	Shared_Interaction	Repressed_..RR.s......_No_Phenotype_Exists				
+YOR340C	Shared_Interaction	Repressed_...R.s......_No_Phenotype_Exists				
+YPL031C	Shared_Interaction	Induced_..K..s......_hog1_Induced_Defective				
+YPL031C	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YPL031C	Shared_Interaction	Induced_..R..s......_No_Phenotype_Exists				
+YPL031C	Shared_Interaction	Repressed_..R..s......_cdc14_Repressed_Defective				
+YPL042C	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YPL076W	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YPL141C	Shared_Interaction	Repressed_.....sP....._pde2_Repressed_Defective				
+YPL141C	Shared_Interaction	Repressed_...R.s......_pde2_Repressed_Amplified				
+YPL169C	Shared_Interaction	Repressed_..KR.s......_No_Phenotype_Exists				
+YPL177C	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YPL195W	Shared_Interaction	Repressed_R.R..s......_No_Phenotype_Exists				
+YPL203W	Shared_Interaction	Induced_.....sP....._hog1_Induced_Defective				
+YPL204W	Shared_Interaction	Induced_.....sP....._pde2_Induced_Defective				
+YPL209C	Shared_Interaction	Repressed_R.....s......_cdc14_Repressed_Defective				
+YPL235W	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YPL236C	Shared_Interaction	Induced_.....s..S..._hog1_Induced_Defective				
+YPL240C	Shared_Interaction	Repressed_...R.s......_pde2_Repressed_Amplified				
+YPL240C	Shared_Interaction	Repressed_.....tP....._pde2_Repressed_Amplified				
+YPL240C	Shared_Interaction	Repressed_R.....s......_pde2_Repressed_Amplified				
+YPL240C	Shared_Interaction	Repressed_..RR.s......_cdc14_Repressed_Defective				
+YPL243W	Shared_Interaction	Induced_.....s..S..._No_Phenotype_Exists				
+YPL248C	Shared_Interaction	Repressed_R.R..s......_pde2_Repressed_Amplified				
+YPL253C	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YPL256C	Shared_Interaction	Repressed_..KR.s......_No_Phenotype_Exists				
+YPL256C	Shared_Interaction	Induced_..R..s......_hog1_Induced_Defective				
+YPL257W-A	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YPL257W-A	Shared_Interaction	Induced_.....sP....._No_Phenotype_Exists				
+YPL269W	Shared_Interaction	Repressed_...R.s......_pde2_Repressed_Amplified				
+YPR013C	Shared_Interaction	Repressed_R.....s......_cdc14_Repressed_Defective				
+YPR019W	Shared_Interaction	Induced_..K..s......_hog1_Induced_Defective				
+YPR019W	Shared_Interaction	Repressed_R.R..s......_No_Phenotype_Exists				
+YPR019W	Shared_Interaction	Repressed_..RR.s......_cdc14_Repressed_Defective				
+YPR032W	Shared_Interaction	Induced_..K..s......_hog1_Induced_Defective				
+YPR040W	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YPR072W	Shared_Interaction	Induced_..K..s......_No_Phenotype_Exists				
+YPR072W	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YPR080W	Shared_Interaction	Repressed_..R..s......_No_Phenotype_Exists				
+YPR102C	Shared_Interaction	Repressed_..RK.s......_cdc14_Repressed_Defective				
+YPR106W	Shared_Interaction	Repressed_.....tP....._pde2_Repressed_Amplified				
+YPR120C	Shared_Interaction	Repressed_..R..t......_No_Phenotype_Exists				
+YPR120C	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+YPR133C	Shared_Interaction	Repressed_..RR.s......_No_Phenotype_Exists				
+YPR135W	Shared_Interaction	Repressed_R.....s......_No_Phenotype_Exists				
+YPR141C	Shared_Interaction	Induced_.....s..S..._No_Phenotype_Exists				
+YPR165W	Shared_Interaction	Induced_.....sP....._hog1_Induced_Defective				
+YPR183W	Shared_Interaction	Repressed_.....sP....._No_Phenotype_Exists				
+YPR191W	Shared_Interaction	Induced_..S..s......_No_Phenotype_Exists				
+Repressed_..KR.s......_No_Phenotype_Exists	Shared_Interaction	YCR105W				
+Induced_..S..s......_No_Phenotype_Exists	Shared_Interaction	YDR023W				
+Induced_..K..s......_hog1_Induced_Defective	Shared_Interaction	YDR103W				
+Repressed_..RR.s......_cdc14_Repressed_Defective	Shared_Interaction	YDR341C				
+Repressed_R.R..s......_pde2_Repressed_Amplified	Shared_Interaction	YDR451C				
+Induced_..K..s......_No_Phenotype_Exists	Shared_Interaction	YDR451C				
+Repressed_..KR.s......_No_Phenotype_Exists	Shared_Interaction	YFL024C				
+Repressed_..RR.s......_cdc14_Repressed_Defective	Shared_Interaction	YGL253W				
+Induced_..K..s......_hog1_Induced_Defective	Shared_Interaction	YGR186W				
+Induced_.....sP....._No_Phenotype_Exists	Shared_Interaction	YHR133C				
+Induced_..K..s......_hog1_Induced_Defective	Shared_Interaction	YHR214C-C				
+Induced_..K..s......_hog1_Induced_Defective	Shared_Interaction	YIL148W				
+Induced_..S..s......_No_Phenotype_Exists	Shared_Interaction	YIR003W				
+Repressed_..RR.s......_cdc14_Repressed_Defective	Shared_Interaction	YJL084C				
+Induced_..S..s......_No_Phenotype_Exists	Shared_Interaction	YJL084C				
+Induced_..K..s......_No_Phenotype_Exists	Shared_Interaction	YJR148W				
+Repressed_..RR.s......_cdc14_Repressed_Defective	Shared_Interaction	YKL009W				
+Repressed_..KR.s......_No_Phenotype_Exists	Shared_Interaction	YKL074C				
+Repressed_..RR.s......_cdc14_Repressed_Defective	Shared_Interaction	YKL117W				
+Induced_..K..s......_No_Phenotype_Exists	Shared_Interaction	YKL172W				
+Repressed_..RR.s......_cdc14_Repressed_Defective	Shared_Interaction	YKL196C				
+Repressed_..KR.s......_No_Phenotype_Exists	Shared_Interaction	YLL008W				
+Induced_..S..s......_No_Phenotype_Exists	Shared_Interaction	YLR003C				
+Repressed_..RR.s......_cdc14_Repressed_Defective	Shared_Interaction	YLR003C				
+Repressed_..KR.s......_No_Phenotype_Exists	Shared_Interaction	YLR003C				
+Repressed_..RR.s......_cdc14_Repressed_Defective	Shared_Interaction	YLR170C				
+Induced_..S..s......_No_Phenotype_Exists	Shared_Interaction	YLR258W				
+Induced_..S..s......_No_Phenotype_Exists	Shared_Interaction	YLR274W				
+Repressed_..RK.s......_No_Phenotype_Exists	Shared_Interaction	YLR291C				
+Induced_..K..s......_No_Phenotype_Exists	Shared_Interaction	YLR315W				
+Repressed_R.R..s......_pde2_Repressed_Amplified	Shared_Interaction	YLR429W				
+Induced_..S..s......_No_Phenotype_Exists	Shared_Interaction	YML032C				
+Induced_..S..s......_No_Phenotype_Exists	Shared_Interaction	YMR109W				
+Repressed_..RR.s......_cdc14_Repressed_Defective	Shared_Interaction	YMR129W				
+Induced_..S..s......_No_Phenotype_Exists	Shared_Interaction	YNL222W				
+Induced_.....sP....._No_Phenotype_Exists	Shared_Interaction	YNR033W				
+Repressed_..RR.s......_cdc14_Repressed_Defective	Shared_Interaction	YOL041C				
+Repressed_..KR.s......_No_Phenotype_Exists	Shared_Interaction	YOL100W				
+Repressed_..RR.s......_cdc14_Repressed_Defective	Shared_Interaction	YOL148C				
+Induced_..S..s......_No_Phenotype_Exists	Shared_Interaction	YOR231W				
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
