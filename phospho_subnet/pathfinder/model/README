@@ -1,0 +1,7 @@
+model.gms is common to any run mode or dataset
+One template each for lesion mode (after each IP solution, hold aside any non-module,non-source node from previous solution with 5% probability)
+and pool mode (use CPLEX solution pool to make ensemble)
+
+cplex option files are loaded in the GAMS script.
+cplex.opt is used for one solution;
+cplex.op2 is used for the solution pool 

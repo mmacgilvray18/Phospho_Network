@@ -1,0 +1,35 @@
+---
+title: "BiRewire"
+author: "Mike Place"
+date: "November 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r example}
+###################################################
+### code chunk number 1: loadBiRewire
+###################################################
+library(BiRewire)
+```
+### First Create a Bipartite Graph using birewire-format-background-network.py which may be found in the Git Repo.
+
+This is the expected input file below.
+
+```{r load data}
+# change input file name here:
+data = read.csv('bipartiteGraph.tab', header = TRUE, row.names = 1, sep = "\t")
+```
+
+```{r rewire matrix}
+# Change the number of files to generate.
+# Change output directory and file name as required.
+for(i in 1:1000) {
+  nam <- paste("m", i, sep = "")
+  nam <- birewire.rewire.bipartite(data,verbose=FALSE)
+  write.table(x = nam, file = sprintf("1000random_networks/rewired-BG-network-%s.tab", i ), quote = FALSE, sep = "\t", row.names = TRUE, col.names = TRUE)
+}
+```
