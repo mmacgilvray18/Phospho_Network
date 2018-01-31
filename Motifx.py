@@ -283,6 +283,7 @@ class Motifx ( object ):
         """
         if bool(self.result):     # check to see if we have any results to write out
             with open(self.fileName + '-Motifx-results.txt', 'w') as out:
+                out.write('Ppep,Cluster,Motif,Peptide\n')
                 for k,v in self.result.items():
                     motifs = v[0].split('\n')
                     [ motifs.pop(0) for x in range(2)]
@@ -290,7 +291,7 @@ class Motifx ( object ):
                     for row in motifs:
                         line = "".join(row)                           # this joins the peptides into a single string
                         gene = self.mapPep[line]
-                        line = gene + "," + line + "," + self.group + "," + k
+                        line = gene + "," + self.group + "," + k + "," + line
                         out.write("%s\n" %(line))
       
             
