@@ -109,6 +109,19 @@ change.
 
 3. Follow the script and change any input and output names as desired. 
    All output directories and files will be created in your current directory.
+1. Use the provided ipython notebook, Phospho_Network.ipynb or Shared_interactors.ipynb depending
+   on what you want to run.  These notebooks were generated using jupyter notebook.  
+
+   cd to the repository, the notebook is setup to be run from that directory.
+
+2. Using the terminal run 'jupyter notebook' in that directory. If you installed anaconda python
+   you may have to run ~/anaconda/bin/jupyter notebook.
+   This will open a web browser w/ a page showing the directory contents.  
+   Click on Phospho_Network.ipynb which opens another page showing the script.  
+
+3. Follow the script and change any input and output names as desired. Gene Names will definitely
+   need to be changed in the Identify Modules & Submodules step. All output directories and files
+   will be created in your current directory.
 
    The code will create all required intermediate files.
 
@@ -135,24 +148,7 @@ change.
 Purpose: Pre-align peptides to an orf fasta file for use with Motifx website.
          This is called by Motifx.py, user doesn't need to access this script.
          But it must be available to Motifx.py.
-Required parameters:
 
-        -p peptide info file
-
- Example, one per line of the following:
-
-  YBR162W-A_T5,Induced,AVQtPR,AVQT*PR
-  GL076C_T8_S11,Induced,AAEKILtPEsQLKK,AAEKILT*PES*QLKK
-
- Must set path to location where script is housed on your machine.
-
- Optional parameters:
-
-        -f fasta file, expected to be an orf file.
-        -w width of peptides, all peptides will be the same length.
-
- Output: A list of peptides centered on the phosphorylated amino acid.
- List is meant to be used as input for the motifx website
  ```
 ************************************************************************
 ### Motifx.py
@@ -162,10 +158,8 @@ Purpose: Automate submitting jobs to Motif-x website.
 Input: Plain text file listing files to process, one file name per line.
 
 file format:
-Ppep    Group   Localized_Sequence  Motif_X_Input_Peptide
-YGL076C_T8_S11  Induced AAEKILtPEsQLKK  AAEKILT*PES*QLKK
+Input: Plain text file listing excel files to process, one excel file name per line.
 
-Column order is unimportant, column names must match above.
 
 usage: Motifx.py -f inputfiles
 Must set path to location where script is housed on your machine.
@@ -217,6 +211,12 @@ Purpose: Generate PWMs for each module, using the module Fasta files. Module PWM
 can then be compared to PWMs for 63 known kinase recognition motifs (Mok et al.,
 2010).
 
+Input: A directory containing plain .txt files in Fasta format.
+
+Required parameters: User must specify the directory where the
+input Fasta Files for each module will be deposited. Results will print to screen and can
+be moved to a .txt file manually.
+
 Output: A PWM for each module that indicates the frequency of each amino acid at each
 position.
 ```
@@ -242,15 +242,12 @@ Induced_...sP..txt). Within the .csv files are 63 KLD scores representing how we
 ```
 kullback-Leibler.py -f 'position_weight_matrix.txt' -m '/PathTo/Mok_kinase_PWMs/ -i 1000 -p 4 -o '/pathTo/KL-shuffle/'
 
-Purpose:  To quantify similarity between the Mok et al kinase PWMs and the module
-PWMs, this script employs a previously described quantitative motif comparison method
-called Kullback-Leibler divergence (KLD) (Thijs et al., 2002, Gupta et al., 2007). KLD
-generates a similarity measure by comparing the Kullback-Leiber distance, or
-information content, for each amino acid at each position between a query and
-comparison PWM. The more alike two PWMs are, the closer to zero the score
-approaches. 1000 Shuffles of the Mok Kinase PWMs are performed by the script,
-generating randomized PWMs that are compared against the Module PWMs, producing a
-distribution of scores.
+Input: A plain text .csv file that contains all module position weight matrices. Each
+module PWM should have 20 rows, representing each of the 20 naturally occurring
+amino acids. They are in a column called "AA" which stands for amino acid. There
+should also be 13 columns, labeled 0-12 (representing the 13 amino acid sequence length
+of the phospho-peptides used to build the matrix) that contain the frequency of each
+amino acid at each position.
 
 Output: A directory containing plain text .csv files named after each module. Within
 the .csv files are 63,000 KLD scores representing how well the 63 Mok et al kinases
@@ -283,6 +280,11 @@ optional arguments:
   -o , --out          Output directory
   -p , --processes    Number of processes to run, be smart don't use 
                       more than you have!
+
+Output: A table that contains for each module, all yeast kinases, including those found in
+the Mok et al dataset and those that were absent, and their FDR scores for each module.
+Kinases not found in the Mok et al dataset are given an FDR score of 1.
+```
 
 ************************************************************************
 ## phospho_subnet folder  
