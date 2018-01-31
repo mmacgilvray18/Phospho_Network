@@ -282,12 +282,14 @@ Initial scripts used to create the ipython notebook pipeline.
 
 ## reference folder
 orf_trans_all.20150113.fasta file for running motifx w/ a more recent reference.
+bgNtWk.csv   
+Background_Network.csv  
 
 ## required folder  
 Annotated kinase and phosphatase background files.
 
-## SI_Identification_Input_Files
-Background network and interactions files use in pipeline.
+Kinase_Groups.csv
+kinase_phosphatase_yeast.csv
 
 ## References
 Chasman D, Ho YH, Berry DB, et al. (2014) Pathway connectivity and signaling
