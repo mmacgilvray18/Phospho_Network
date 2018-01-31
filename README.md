@@ -69,6 +69,7 @@ change.
     
     conda install -c conda-forge statsmodels
 
+
 ## To run pipeline requires that you clone the git repository
   Assuming you are running linux, Open a terminal and type:  
 
@@ -81,10 +82,30 @@ change.
    cd to the repository, the notebook is setup to access files and directories from here.
    Enter the directory name and full path in the first code cell once you start the notebook.
 
+   For a Jupyter Notebook tutorial see:
+    https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
+    or
+    https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html
+
 2. Using the terminal run 'jupyter notebook' in that directory. If you installed anaconda python
    you may have to run ~/anaconda/bin/jupyter notebook.
-   This will open a web browser w/ a page showing the directory contents.  
-   Click on Phospho_Network_inference.ipynb which opens another page showing the script.  
+   This will open a web browser with a page showing the directory contents.  
+   Click on Phospho_Network_inference.ipynb which opens another page showing the script. 
+
+   It's Recommended way to run the cells in order,
+   **DO NOT CHOOSE RUN ALL CELLS UNLESS YOU KNOW WHAT YOU ARE DOING.""
+   The results of the first step **"Identify Mofifs"**, requires user intervention to create the
+   input file for the next step.  The next 4 steps can be run automatically, these steps are:
+   Identify Modules and Submodules -> Identify Shared Interactors 
+   -> Preparation for Kullback-Leibler script -> Run Kullback-Leibler Module
+
+   The next step is to run Kullback-Leibler 1000x with random shuffling. This step will be very 
+   slow with a single process.  Use the -i 1000 (feel free to change, but should be greater than 1)
+   -p 4 (sets the number of processes to use). Be smart don't try to use more processes(cores)
+   than you have.  I recommend you use a process number that will evenly divide the number of 
+   iterations.  
+
+   Once that is complete you can auto run the rest of the cells.
 
 3. Follow the script and change any input and output names as desired. 
    All output directories and files will be created in your current directory.
@@ -106,7 +127,6 @@ change.
     >position_weight_matrix.txt -- position weight matrix file<br>
     >Shared_interactors_Kinase_FDR.csv -- FDR scores for each Module <br>
     >Network.sif               -- SIF file for cytoscape<br>
-
 
 ## Scripts
 ************************************************************************
