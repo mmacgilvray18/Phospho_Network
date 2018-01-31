@@ -40,7 +40,7 @@ change.
 # Code Prerequisites:
  * This code has been run successfully on Mac OS X, Ubuntu 14, but should work on any
  unix like system.
- * Python 3 (version 3.4 although any version 3 should work)
+ * Python 3 (version 3.4 although any version 3.3 and above should work)
    Anaconda is an easy way to install python, https://www.anaconda.com/download/
  * python libraries required:  Pandas, numpy, Biopython, jupyter, beautifulsoup
 
