@@ -203,7 +203,7 @@ Output: A PWM for each module that indicates the frequency of each amino acid at
 position.
 ```
 ************************************************************************
-### Kullback Leibler Module toEachKinase
+### Kullback Leibler Module for Each Kinase
 ```
 kullback-Leibler.py -f 'position_weight_matrix.txt' -m '/PathTo/Mok_kinase_PWMs/
 
@@ -220,7 +220,7 @@ Induced_...sP..txt). Within the .csv files are 63 KLD scores representing how we
 63 Mok et al kinases match the module motif.
 ```
 ************************************************************************
-### Kullback_Leibler Module toEachKinase Shuffled1000x
+### Kullback_Leibler Module for Each Kinase Shuffled 1000x
 ```
 kullback-Leibler.py -f 'position_weight_matrix.txt' -m '/PathTo/Mok_kinase_PWMs/ -i 1000 -p 4 -o '/pathTo/KL-shuffle/'
 
@@ -236,7 +236,7 @@ the .csv files are 63,000 KLD scores representing how well the 63 Mok et al kina
 match the module motif after 1000 permutations of each Mok kinase.
 ```
 ************************************************************************
-### CalculateFDR Each Module to Each Kinase
+### Calculate FDR Each Module for Each Kinase
 ```
 Purpose: Identify FDR scores for each Mok et al kinase and each module by comparing
 the non-shuffled scores to the distribution of shuffled scores. The user can then manually
