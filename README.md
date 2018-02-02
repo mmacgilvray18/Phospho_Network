@@ -123,6 +123,16 @@ The user should define differentially changing phospho-peptides in the "WT" or "
     >Shared_interactors_Kinase_FDR.csv -- FDR scores for each Module <br>
     >Network.sif               -- SIF file for cytoscape<br>
 
+## Example
+***********************************************************************
+
+Example input files are found in the example directory.
+These maybe used to run the pipeline and see how it works.
+
+example/
+idModules.csv  inputfiles  motifx_sample_Input.csv
+
+
 ## Scripts
 ************************************************************************
 ### MotifxPreAlign.py
