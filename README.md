@@ -38,8 +38,8 @@ The user should define differentially changing phospho-peptides in the "WT" or "
   > jupyter_core              4.1.0              
   > numpy                     1.11.0            
   > pandas                    0.19.2           
-  > beautifulsoup4            4.4.1  (required for motfix.py) 
-  > statsmodels               0.6.1
+  > beautifulsoup4            4.4.1  (required for motfix.py)  
+  > statsmodels               0.6.1  
   > rpy2                      2.7.8              
 
    once anaconda has been downloaded the required libraries may be installed using:
@@ -248,7 +248,7 @@ absent, and their FDR scores for each module.
 ```
 ************************************************************************
 ### kullback-Leibler.py  
-
+```
 usage: Shuffle_kullback-Leibler.py -f <Position weight matrix file>  
 
 Shuffle kullback-Leibler results for use w/ FDR function.
