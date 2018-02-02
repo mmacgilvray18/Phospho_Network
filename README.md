@@ -1,19 +1,9 @@
 # Computational phospho-proteomic network inference pipeline
 
 The scripts enclosed were used to analyze wild type and mutant phosphoproteomic data as submitted in
-MacGilvray et al. (Network inference reveals novel connections in pathways regulating growth and defense
-in the yeast salt response. Matthew E. MacGilvray+, Evgenia Shishkova+, Deborah Chasman, Michael Place,
-Anthony Gitter, Joshua J. Coon, Audrey P. Gasch. bioRxiv 2017. doi:10.1101/176230).  The pipeline takes
-a list of phospho-peptides from S. cerevisiae and defines groups of likely co-regulated peptides that
-share the same phosphorylation motif (see manuscript Methods for details).  For each of these ‘modules’
-of peptides, the pipeline then identifies ‘shared interactors’, defined as proteins from a background
-network of protein interactions that show more physical interactions with module constituent proteins
-then expected by chance.  Shared interactor-module pairs serve as inputs for a previously developed
-Integer Programming (IP) approach that connects the sources to their downstream target submodules
-(Chasman et al., 2014).
+MacGilvray et al.  The pipeline takes a list of phospho-peptides from S. cerevisiae and defines groups of likely co-regulated peptides that share the same phosphorylation motif (see manuscript Methods for details).  For each of these ‘modules’ of peptides, the pipeline then identifies ‘shared interactors’, defined as proteins from a background network of protein interactions that show more physical interactions with module constituent proteins then expected by chance.  Shared interactor-module pairs serve as inputs for a previously developed Integer Programming (IP) approach that connects the sources to their downstream target submodules (Chasman et al., 2014).
 
-The pipeline titled **“Phospho_Network.ipynb”** consists of the scripts used to analyze data from MacGilvray et al.  
-The output is a .sif file compatible with Cytoscape for visualization and analysis.
+The pipeline titled **“Phospho_Network_Inference.ipynb”** consists of the scripts used to analyze data from MacGilvray et al.  The output is a **Network.sif file** compatible with Cytoscape for visualization and analysis.
 
 **Most users** with wild-type S. cerevisiae phospho-proteomic data will be interested in a second pipeline
 titled,**“Shared_interactors.ipynb”**.  This pipeline takes as input user-defined groups of phospho-peptides
@@ -32,17 +22,14 @@ _bioRxiv_ 2017. doi:10.1101/176230
 <sup>+</sup>These authors contributed equally to the work.
 
 ## Prerequisites
-The user should define differentially changing phospho-peptides in the "WT" or "Parent"
-strain using their own criteria (eg; fold-change, p-value, etc.), followed by
-grouping/clustering phospho-peptides based on similar directionality of abundance
-change.
+The user should define differentially changing phospho-peptides in the "WT" or "Parent" strain using their own criteria (eg; fold-change, p-value, etc.), followed by grouping/clustering phospho-peptides based on similar directionality of abundance change.
 
 # Code Prerequisites:
  * This code has been run successfully on Mac OS X, Ubuntu 14, but should work on any
  unix like system.
  * Python 3 (version 3.4 although any version 3.3 and above should work)
    Anaconda is an easy way to install python, https://www.anaconda.com/download/
- * python libraries required:  Pandas, numpy, Biopython, jupyter, beautifulsoup
+ * python libraries required: 
 
    Code has successfully executed using these versions:
   > python                    3.4.4   
@@ -58,20 +45,15 @@ change.
    once anaconda has been downloaded the required libraries may be installed using:
 
     conda install -c anaconda biopython=1.68
-
     conda install panda=0.19.2
-
     conda install numpy=1.11.0
-
     conda install jupyter=1.0.0
-
     conda install -c anaconda beautifulsoup4 
-    
     conda install -c conda-forge statsmodels
 
 
 ## To run pipeline requires that you clone the git repository
-  Assuming you are running linux, Open a terminal and type:  
+  Assuming you are running linux, Open a terminal and enter:  
 
     git clone https://github.com/mmacgilvray18/Phospho_Network.git
 
