@@ -13,11 +13,11 @@ share the same sequence motif around the phosphorylation site.  The method then 
 as described above for each identified module.
 
 
-Please see our _bioRxiv_ preprint for additional information:
+Please see our paper for additional information:
 
-[Network inference reveals novel connections in pathways regulating growth and defense in the yeast salt response](https://doi.org/10.1101/176230).
+[Network inference reveals novel connections in pathways regulating growth and defense in the yeast salt response](https://doi.org/10.1371/journal.pcbi.1006088).
 Matthew E. MacGilvray<sup>+</sup>, Evgenia Shishkova<sup>+</sup>, Deborah Chasman, Michael Place, Anthony Gitter, Joshua J. Coon, Audrey P. Gasch.
-_bioRxiv_ 2017. doi:10.1101/176230
+_PLoS Computational Biology_ 13(5):e1006088 2018.
 
 <sup>+</sup>These authors contributed equally to the work.
 
